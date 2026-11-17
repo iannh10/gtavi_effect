@@ -6,7 +6,7 @@
   const fDay = d3.utcFormat('%b %-d'), fDayY = d3.utcFormat('%a %b %-d, %Y'), fMon = d3.utcFormat('%b %Y');
   const ok = (id) => { const g = dash.data(id); return g.status === 'ok' ? g.data : null; };
   const blank = (el) => el.replaceChildren(document.createTextNode('—'));
-  const state = { view: 'raw' };
+  const state = { view: 'raw', mrange: '2015' };
   const MODEL = { naive: 'Seasonal naive', clim: 'Seasonal climatology', sarima: 'SARIMA', nn: 'Neural, pooled across 19 games', ets: 'ETS', ets_damped: 'ETS, damped trend', sarimax_trends: 'SARIMAX with Trends' };
   const OUTCOME = { O1: 'Launch fortnight', O2: 'December', O2_sensitivity_clim: 'December, sensitivity' };
   const TARGET = { raw: 'Raw players', adjusted: 'Control-adjusted (primary)' };
@@ -43,7 +43,9 @@
     document.querySelectorAll('[data-draw="placebo-chart"]').forEach((e) => { e.hidden = !pl; });
     document.querySelectorAll('[data-c]').forEach((e) => { e.style.borderTopColor = dash.colors[+e.dataset.c]; });
     document.querySelectorAll('[data-cbg]').forEach((e) => { e.style.background = dash.colors[+e.dataset.cbg]; });
+    document.querySelectorAll('[data-tri]').forEach((e) => { e.style.stroke = dash.colors[2]; e.style.strokeWidth = '1.2'; e.style.fill = e.dataset.tri === 'fill' ? dash.colors[2] : 'var(--color-bg)'; });
   });
+  document.querySelectorAll('#mrange').forEach((sel) => sel.addEventListener('change', () => { state.mrange = sel.value; dash.draw('monthly-chart'); }));
   document.querySelectorAll('#view').forEach((sel) => sel.addEventListener('change', () => {
     state.view = sel.value;
     ['players-chart', 'dec-chart', 'gap-chart', 'placebo-chart'].forEach((n) => dash.draw(n));
@@ -204,26 +206,51 @@
 
   // ---- monthly history
   dash.draw('monthly-chart', (el) => {
-    const M = ok('players_monthly'), O = ok('outcomes');
+    const M = ok('players_monthly'), O = ok('outcomes'), U = ok('gtao_updates') || [];
     if (!M || !O) return blank(el);
     const rows = M.map((r) => ({ d: day(r.month), v: num(r.combined_avg), a: num(r.legacy_avg), b: num(r.enhanced_avg) }));
+    const mKey = (d) => d.getUTCFullYear() * 12 + d.getUTCMonth();
+    const R = state.mrange, end = day('2027-02-01'), first = rows[0].d;
+    const start = R === '2013' ? day('2013-09-01') : R === '2015' ? first : day((2026 - +R) + '-11-01');
+    const vis = rows.filter((r) => r.d >= start);
+    const upd = U.map((u) => ({ d: day(u.date), name: u.name, major: u.tier === 'major' })).filter((u) => u.d >= start);
+    const byMonth = d3.group(upd, (u) => mKey(u.d)), RM = new Map(rows.map((r) => [mKey(r.d), r]));
     const o = O.find((r) => r.key === 'GTAV|raw|O2'), fd = day('2026-12-01');
     const f = frame(el, 300, 'GTA V monthly average players on Steam since 2015 with the December 2026 forecast');
-    const y = d3.scaleLinear().domain([0, d3.max(rows.map((r) => r.v).concat(o ? [num(o.hi90)] : [])) * 1.03]).nice();
-    const m = { t: 12, r: 18, b: 28, l: leftMargin(f.svg, y, fSI, 5) }, iw = f.w - m.l - m.r, ih = f.h - m.t - m.b;
-    const x = d3.scaleUtc().domain([rows[0].d, day('2027-02-01')]).range([0, iw]); y.range([ih, 0]);
+    const y = d3.scaleLinear().domain([0, d3.max(vis.map((r) => r.v).concat(o ? [num(o.hi90)] : [])) * 1.03]).nice();
+    const m = { t: 26, r: 18, b: 28, l: leftMargin(f.svg, y, fSI, 5) }, iw = f.w - m.l - m.r, ih = f.h - m.t - m.b;
+    const x = d3.scaleUtc().domain([start, end]).range([0, iw]); y.range([ih, 0]);
     const g = f.svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
-    axes(g, x, y, iw, ih, fSI, d3.utcFormat('%Y'), 70);
-    g.append('path').datum(rows).attr('d', d3.line().x((r) => x(r.d)).y((r) => y(r.v))).style('fill', 'none').style('stroke', dash.colors[0]).style('stroke-width', 1.8);
-    g.append('g').selectAll('circle').data(rows.filter((r) => r.d.getUTCMonth() === 11)).join('circle').attr('cx', (r) => x(r.d)).attr('cy', (r) => y(r.v)).attr('r', 3).style('fill', dash.colors[0]);
+    axes(g, x, y, iw, ih, fSI, +R && +R <= 3 ? d3.utcFormat("%b '%y") : d3.utcFormat('%Y'), +R && +R <= 3 ? 105 : 70);
+    if (start < first) {
+      g.append('rect').attr('x', 0).attr('width', x(first)).attr('y', 0).attr('height', ih).style('fill', 'var(--cds-chart-muted)').style('opacity', 0.1);
+      g.append('text').attr('class', 'hx-note').attr('x', x(first) / 2).attr('y', ih / 2).attr('text-anchor', 'middle').text(x(first) > 150 ? 'Console only, no Steam data' : 'No Steam data');
+    }
+    g.append('g').selectAll('line').data(upd.filter((u) => u.major)).join('line')
+      .attr('x1', (u) => x(u.d)).attr('x2', (u) => x(u.d)).attr('y1', 0).attr('y2', ih)
+      .style('stroke', dash.colors[2]).style('opacity', 0.16);
+    g.append('g').selectAll('path').data(upd).join('path')
+      .attr('transform', (u) => `translate(${x(u.d)},-12)`)
+      .attr('d', (u) => d3.symbol(d3.symbolTriangle, u.major ? 40 : 18)())
+      .style('fill', (u) => (u.major ? dash.colors[2] : 'var(--color-bg)')).style('stroke', dash.colors[2]).style('stroke-width', 1.2);
+    g.append('path').datum(vis).attr('d', d3.line().x((r) => x(r.d)).y((r) => y(r.v))).style('fill', 'none').style('stroke', dash.colors[0]).style('stroke-width', 1.8);
+    g.append('g').selectAll('circle').data(vis.filter((r) => r.d.getUTCMonth() === 11)).join('circle').attr('cx', (r) => x(r.d)).attr('cy', (r) => y(r.v)).attr('r', 3).style('fill', dash.colors[0]);
     if (o) {
       g.append('line').attr('x1', x(fd)).attr('x2', x(fd)).attr('y1', y(num(o.lo90))).attr('y2', y(num(o.hi90))).style('stroke', dash.colors[1]).style('stroke-width', 3).style('opacity', 0.45);
       g.append('circle').attr('cx', x(fd)).attr('cy', y(num(o.forecast))).attr('r', 4).style('fill', 'var(--color-bg)').style('stroke', dash.colors[1]).style('stroke-width', 2);
     }
     hover(g, f, el, x, m, iw, ih, (d0) => {
       if (o && d0 > day('2026-11-15')) return { d: fd, title: 'Dec 2026, forecast', lines: [fInt(num(o.forecast)) + ' average players', '90% range ' + fInt(num(o.lo90)) + ' to ' + fInt(num(o.hi90))] };
-      const i = d3.bisector((r) => r.d).center(rows, d0), r = rows[i]; if (!r) return null;
-      return { d: r.d, title: fMon(r.d), lines: [fInt(r.v) + ' average players'].concat(r.b !== null ? ['Legacy ' + fInt(r.a) + ', Enhanced ' + fInt(r.b)] : []) };
+      if (d0 < first) {
+        const mo = new Date(Date.UTC(d0.getUTCFullYear(), d0.getUTCMonth(), 1)), notes = (byMonth.get(mKey(mo)) || []).map((u) => 'GTA Online: ' + u.name + ' (' + fDay(u.d) + ')');
+        return { d: mo, title: fMon(mo), lines: ['Console only, before the Steam release'], notes };
+      }
+      const i = d3.bisector((r) => r.d).center(vis, d0), r = vis[i]; if (!r) return null;
+      const pr = RM.get(mKey(r.d) - 1), lines = [fInt(r.v) + ' average players'];
+      if (r.b !== null) lines.push('Legacy ' + fInt(r.a) + ', Enhanced ' + fInt(r.b));
+      if (pr && pr.v) lines.push(sPct(100 * (r.v / pr.v - 1)) + ' vs previous month');
+      const notes = (byMonth.get(mKey(r.d)) || []).map((u) => 'GTA Online: ' + u.name + ' (' + fDay(u.d) + ')');
+      return { d: r.d, title: fMon(r.d), lines, notes };
     });
   });
 

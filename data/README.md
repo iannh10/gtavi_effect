@@ -21,3 +21,7 @@ Caveats
 4. Trends values are relative to the maximum inside each file; never compare across files.
 5. Events with "from memory; confirm" in `source` were not verified. Trends spikes on 2026-05-18 and 2026-10-08 have no identified cause.
 6. Days are UTC. SteamCharts samples about hourly.
+
+## gtao_updates.csv (added Nov 16, 2026, after the freeze)
+GTA Online content updates since 2013 (49 rows): `date, version, name, tier (major | seasonal), steam_era, source`. Dates are from the gtabase.com title-update list. Plain patches and console platform releases are left out. This file is for dashboard annotation only. It is not an input to any model and not listed in `outputs/frozen/v1/MANIFEST.json`. To refresh the dashboard, copy it to `outputs/dashboard/gtao_updates.csv`; `halo.report.export_dashboard` does not write it.
+The same commit corrected four GTA Online rows in `gta_events.csv` (The Chop Shop is Dec 12, 2023, not Dec 5) and marked them verified.

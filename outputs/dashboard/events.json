@@ -37,7 +37,7 @@
 "group": "gta5",
 "event_type": "gtaonline_dlc",
 "title": "GTA Online: The Contract update",
-"confidence": "medium"
+"confidence": "high"
 },
 {
 "date": "2022-03-15",
@@ -69,7 +69,7 @@
 "group": "gta5",
 "event_type": "gtaonline_dlc",
 "title": "GTA Online: Los Santos Drug Wars update",
-"confidence": "medium"
+"confidence": "high"
 },
 {
 "date": "2023-07-05",
@@ -104,12 +104,12 @@
 "confidence": "high"
 },
 {
-"date": "2023-12-05",
+"date": "2023-12-12",
 "end_date": null,
 "group": "gta5",
 "event_type": "gtaonline_dlc",
 "title": "GTA Online: The Chop Shop update",
-"confidence": "medium"
+"confidence": "high"
 },
 {
 "date": "2023-12-05",
@@ -125,7 +125,7 @@
 "group": "gta5",
 "event_type": "gtaonline_dlc",
 "title": "GTA Online: Agents of Sabotage update",
-"confidence": "medium"
+"confidence": "high"
 },
 {
 "date": "2025-03-04",

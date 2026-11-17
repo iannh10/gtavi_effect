@@ -95,9 +95,20 @@
   </div>
 
   <div class="hx-sec" id="monthly">
-    <h2>Monthly average players since 2015</h2>
-    <div class="hx-chart" id="monthly-chart" data-draw="monthly-chart" data-source="players_monthly outcomes">—</div>
-    <p class="hx-muted">Dots mark each December. The bar at the right is the frozen forecast for December 2026 with its 90% range.</p>
+    <div class="hx-row">
+      <h2>Monthly average players on Steam</h2>
+      <select class="dash-select" id="mrange" aria-label="Time range">
+        <option value="1">Last year</option>
+        <option value="3">Last 3 years</option>
+        <option value="5">Last 5 years</option>
+        <option value="2015" selected>Since PC launch (2015)</option>
+        <option value="2013">Since GTA V launch (2013)</option>
+      </select>
+    </div>
+    <div class="hx-legend"><span><svg width="12" height="10" aria-hidden="true"><path d="M6 1 L11 9 L1 9 Z" data-tri="fill"/></svg>Major GTA Online update</span><span><svg width="12" height="10" aria-hidden="true"><path d="M6 2 L10 8.5 L2 8.5 Z" data-tri="open"/></svg>Smaller seasonal update</span></div>
+    <div class="hx-chart" id="monthly-chart" data-draw="monthly-chart" data-source="players_monthly outcomes gtao_updates">—</div>
+    <p class="hx-muted">Dots mark each December. The bar at the right is the frozen forecast for December 2026 with its 90% range. Triangles mark GTA Online content updates; hover a month for the update name and the change from the month before. GTA V reached Steam in April 2015, so the 2013 view shows the console-only updates before that over a shaded area with no Steam data.</p>
+    <p class="hx-muted">In the Steam era, months with a major update showed a median rise of about 25% over the month before (25 of 31 updates rose), against a median fall of about 1% across all months. Most big updates land in June/July and December, alongside summer and Winter Sale traffic, so this is a pattern, not a clean estimate of what an update adds. A December 2026 update would fall inside the forecast window; the pre-registration counts it as part of what the gap measures.</p>
   </div>
 
   <div class="hx-sec" id="backtest">
