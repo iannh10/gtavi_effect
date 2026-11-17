@@ -1,0 +1,46 @@
+{
+ "version": "v1",
+ "created_utc": "2026-11-17T00:33:32+00:00",
+ "daily_origin": "2026-11-15",
+ "monthly_origin": "2026-10",
+ "launch": "2026-11-19",
+ "selected_models": {
+  "monthly": {
+   "raw": "clim",
+   "adjusted": "nn"
+  },
+  "daily": {
+   "raw": "naive",
+   "adjusted": "naive"
+  }
+ },
+ "frozen_files": {
+  "frozen_outcomes.csv": "7e457be95cb515bb194f3ece09dc18f850a180649a4db62209b02105d24509fe",
+  "frozen_daily.csv": "7c67b7e4427432325f2e572fd6b68e9579a3e658ec7c49db48efce3346a55bcb"
+ },
+ "inputs": {
+  "config.yaml": "26d97feeaa5a4b72ecf9da32656bfafc74bdff3609bbca5fa930e8cdeed0e414",
+  "docs/PREREGISTRATION.md": "d3d5731a28f0f8100d7c8a86eb7567a46f7a950a5e8594973e80c6aeaa16504b",
+  "data/panel_monthly_avg.csv": "e11fa725917b79855882e6e5ac97a9ddd2c346da93aa20bf0d57a8c322705125",
+  "data/panel_daily_peak.csv": "57a81b669731a2f8a68248b2e492b85f44128828126d6268c9775d77b3798006",
+  "outputs/backtest/selection.json": "499e27588f086a0037054a0646ee4ebb05787bce1cafa5a34adcde6a1d94b917",
+  "outputs/backtest/monthly_errors.csv": "9c5099809a849d2bf32bb6a46a56a36dc40b978a2f76b9e26685f8822cee235e",
+  "outputs/backtest/unit_rmse.csv": "3a9b70d4a14d81081ccf9bfa7d52d683a01f01b1c3091268d4d3bac8d947586d",
+  "outputs/backtest/daily_rmse_by_horizon.csv": "2cbd7e738cd37035eb553482df95d257eb541694ca82746658f1d199a5fe9c16",
+  "halo/__init__.py": "eab0ea7153980ea8734fda135183a31335b3bed817cba364faa1e398454b5777",
+  "halo/backtest.py": "7008525f04e2e478e8072ced824c196c29bc23f1b7ac48a2403634a9cd8d234c",
+  "halo/data.py": "7b3abb78fe4dc282aa0471a410e11e03670836e57f931e1b257d66e0b48830db",
+  "halo/freeze.py": "af1927ff02a592a13303d479812b704188b52c27699e1bdf629461df75773308",
+  "halo/models.py": "68b0300eb111834a3357200fd362c26cbb582c26b15e558005f010383bf240d1",
+  "halo/report.py": "fa078a76da6f0bb7145b90d2a7f666d4f7d3aff523d1becad481f436dc3d81c6",
+  "halo/track.py": "8f1fe472873e89cd6e0945d646d1c3042f7a5a837c1d484e71f0d8d840a61451"
+ },
+ "environment": {
+  "python": "3.13.18",
+  "numpy": "2.5.3",
+  "pandas": "3.0.5",
+  "statsmodels": "0.15.0",
+  "torch": "2.15.0+cu132"
+ },
+ "note": "The frozen CSVs are the record. Re-running on other hardware may differ in late decimals for neural models."
+}

@@ -1,0 +1,37 @@
+# Fixed on 2026-11-16 before any backtest. Do not edit after the freeze.
+seed: 20261116
+freeze:
+  daily_origin: "2026-11-15"     # last full UTC day used for fitting
+  monthly_origin: "2026-10"      # last full month used for fitting
+  launch: "2026-11-19"
+  o1_end: "2026-12-02"           # launch fortnight = launch .. o1_end (14 days)
+  end: "2026-12-31"
+monthly:
+  min_avg: 1000                  # drop a series' leading months below this (launch artefacts)
+  backtest_start: "2017-10"
+  backtest_end: "2026-08"
+  horizon: 2
+daily:
+  horizon: 17
+  win_from: 4                    # outcome window = days origin+4 .. origin+17
+  win_to: 17
+  bt_first: "2026-09-30"
+  bt_last: "2026-10-29"
+index:
+  trim: 0                        # 0 = plain mean of the controls' log changes (see pre-registration, amendment 3)
+  min_n_for_trim: 15
+selection:
+  margin: 0.05                   # a more complex model must beat the simpler one by 5%
+  monthly_order: [naive, clim, sarima, nn]
+  daily_order: [naive, ets, ets_damped, nn]     # sarimax_trends is backtested but never eligible
+nn:                              # fixed, no tuning
+  seeds: 3
+  hidden: 64
+  epochs: 300
+  lr: 0.003
+  weight_decay: 0.0001
+  dropout: 0.1
+  huber_delta: 0.3
+  monthly_lags: 24
+  daily_lags: 14
+  device: auto                   # cuda if available, else cpu (data is tiny; cpu takes minutes)

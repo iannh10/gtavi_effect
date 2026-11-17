@@ -1,0 +1,2915 @@
+app_id,name,role,month,avg_players
+730,Counter-Strike 2,control,2014-01,55627
+730,Counter-Strike 2,control,2014-02,59791
+730,Counter-Strike 2,control,2014-03,70143
+730,Counter-Strike 2,control,2014-04,78881
+730,Counter-Strike 2,control,2014-05,84925
+730,Counter-Strike 2,control,2014-06,84164
+730,Counter-Strike 2,control,2014-07,106138
+730,Counter-Strike 2,control,2014-08,133186
+730,Counter-Strike 2,control,2014-09,131035
+730,Counter-Strike 2,control,2014-10,133538
+730,Counter-Strike 2,control,2014-11,147329
+730,Counter-Strike 2,control,2014-12,183590
+730,Counter-Strike 2,control,2015-01,234071
+730,Counter-Strike 2,control,2015-02,239935
+730,Counter-Strike 2,control,2015-03,267996
+730,Counter-Strike 2,control,2015-04,291749
+730,Counter-Strike 2,control,2015-05,317286
+730,Counter-Strike 2,control,2015-06,344156
+730,Counter-Strike 2,control,2015-07,329532
+730,Counter-Strike 2,control,2015-08,357535
+730,Counter-Strike 2,control,2015-09,355905
+730,Counter-Strike 2,control,2015-10,362766
+730,Counter-Strike 2,control,2015-11,360926
+730,Counter-Strike 2,control,2015-12,377447
+730,Counter-Strike 2,control,2016-01,365371
+730,Counter-Strike 2,control,2016-02,376285
+730,Counter-Strike 2,control,2016-03,379427
+730,Counter-Strike 2,control,2016-04,375796
+730,Counter-Strike 2,control,2016-05,338738
+730,Counter-Strike 2,control,2016-06,334311
+730,Counter-Strike 2,control,2016-07,353778
+730,Counter-Strike 2,control,2016-08,347229
+730,Counter-Strike 2,control,2016-09,322526
+730,Counter-Strike 2,control,2016-10,333076
+730,Counter-Strike 2,control,2016-11,329045
+730,Counter-Strike 2,control,2016-12,342196
+730,Counter-Strike 2,control,2017-01,393110
+730,Counter-Strike 2,control,2017-02,402386
+730,Counter-Strike 2,control,2017-03,386909
+730,Counter-Strike 2,control,2017-04,392199
+730,Counter-Strike 2,control,2017-05,371829
+730,Counter-Strike 2,control,2017-06,374388
+730,Counter-Strike 2,control,2017-07,377589
+730,Counter-Strike 2,control,2017-08,374426
+730,Counter-Strike 2,control,2017-09,354402
+730,Counter-Strike 2,control,2017-10,341861
+730,Counter-Strike 2,control,2017-11,321131
+730,Counter-Strike 2,control,2017-12,340877
+730,Counter-Strike 2,control,2018-01,382031
+730,Counter-Strike 2,control,2018-02,382457
+730,Counter-Strike 2,control,2018-03,354270
+730,Counter-Strike 2,control,2018-04,289077
+730,Counter-Strike 2,control,2018-05,262171
+730,Counter-Strike 2,control,2018-06,266862
+730,Counter-Strike 2,control,2018-07,273307
+730,Counter-Strike 2,control,2018-08,283531
+730,Counter-Strike 2,control,2018-09,333164
+730,Counter-Strike 2,control,2018-10,325908
+730,Counter-Strike 2,control,2018-11,310085
+730,Counter-Strike 2,control,2018-12,395509
+730,Counter-Strike 2,control,2019-01,401367
+730,Counter-Strike 2,control,2019-02,371359
+730,Counter-Strike 2,control,2019-03,390240
+730,Counter-Strike 2,control,2019-04,351990
+730,Counter-Strike 2,control,2019-05,364417
+730,Counter-Strike 2,control,2019-06,389377
+730,Counter-Strike 2,control,2019-07,393783
+730,Counter-Strike 2,control,2019-08,415097
+730,Counter-Strike 2,control,2019-09,410926
+730,Counter-Strike 2,control,2019-10,408995
+730,Counter-Strike 2,control,2019-11,426081
+730,Counter-Strike 2,control,2019-12,456702
+730,Counter-Strike 2,control,2020-01,501196
+730,Counter-Strike 2,control,2020-02,543979
+730,Counter-Strike 2,control,2020-03,671033
+730,Counter-Strike 2,control,2020-04,857604
+730,Counter-Strike 2,control,2020-05,768795
+730,Counter-Strike 2,control,2020-06,671647
+730,Counter-Strike 2,control,2020-07,625901
+730,Counter-Strike 2,control,2020-08,639958
+730,Counter-Strike 2,control,2020-09,606850
+730,Counter-Strike 2,control,2020-10,613667
+730,Counter-Strike 2,control,2020-11,668755
+730,Counter-Strike 2,control,2020-12,717804
+730,Counter-Strike 2,control,2021-01,743210
+730,Counter-Strike 2,control,2021-02,741013
+730,Counter-Strike 2,control,2021-03,740928
+730,Counter-Strike 2,control,2021-04,723347
+730,Counter-Strike 2,control,2021-05,659889
+730,Counter-Strike 2,control,2021-06,549347
+730,Counter-Strike 2,control,2021-07,506067
+730,Counter-Strike 2,control,2021-08,512082
+730,Counter-Strike 2,control,2021-09,512351
+730,Counter-Strike 2,control,2021-10,512436
+730,Counter-Strike 2,control,2021-11,548162
+730,Counter-Strike 2,control,2021-12,546614
+730,Counter-Strike 2,control,2022-01,602376
+730,Counter-Strike 2,control,2022-02,634638
+730,Counter-Strike 2,control,2022-03,581490
+730,Counter-Strike 2,control,2022-04,568983
+730,Counter-Strike 2,control,2022-05,564962
+730,Counter-Strike 2,control,2022-06,572222
+730,Counter-Strike 2,control,2022-07,594453
+730,Counter-Strike 2,control,2022-08,641445
+730,Counter-Strike 2,control,2022-09,618776
+730,Counter-Strike 2,control,2022-10,608350
+730,Counter-Strike 2,control,2022-11,621006
+730,Counter-Strike 2,control,2022-12,629325
+730,Counter-Strike 2,control,2023-01,726150
+730,Counter-Strike 2,control,2023-02,805106
+730,Counter-Strike 2,control,2023-03,843475
+730,Counter-Strike 2,control,2023-04,918086
+730,Counter-Strike 2,control,2023-05,1117517
+730,Counter-Strike 2,control,2023-06,1085967
+730,Counter-Strike 2,control,2023-07,881691
+730,Counter-Strike 2,control,2023-08,922153
+730,Counter-Strike 2,control,2023-09,976138
+730,Counter-Strike 2,control,2023-10,792125
+730,Counter-Strike 2,control,2023-11,714511
+730,Counter-Strike 2,control,2023-12,770095
+730,Counter-Strike 2,control,2024-01,760859
+730,Counter-Strike 2,control,2024-02,786631
+730,Counter-Strike 2,control,2024-03,885630
+730,Counter-Strike 2,control,2024-04,930749
+730,Counter-Strike 2,control,2024-05,958207
+730,Counter-Strike 2,control,2024-06,947521
+730,Counter-Strike 2,control,2024-07,875365
+730,Counter-Strike 2,control,2024-08,897338
+730,Counter-Strike 2,control,2024-09,836307
+730,Counter-Strike 2,control,2024-10,829439
+730,Counter-Strike 2,control,2024-11,852164
+730,Counter-Strike 2,control,2024-12,913953
+730,Counter-Strike 2,control,2025-01,914092
+730,Counter-Strike 2,control,2025-02,1003571
+730,Counter-Strike 2,control,2025-03,1039663
+730,Counter-Strike 2,control,2025-04,1045702
+730,Counter-Strike 2,control,2025-05,1038597
+730,Counter-Strike 2,control,2025-06,1010124
+730,Counter-Strike 2,control,2025-07,920070
+730,Counter-Strike 2,control,2025-08,928429
+730,Counter-Strike 2,control,2025-09,925940
+730,Counter-Strike 2,control,2025-10,948244
+730,Counter-Strike 2,control,2025-11,981482
+730,Counter-Strike 2,control,2025-12,991177
+730,Counter-Strike 2,control,2026-01,1070444
+730,Counter-Strike 2,control,2026-02,1084095
+730,Counter-Strike 2,control,2026-03,1069173
+730,Counter-Strike 2,control,2026-04,974786
+730,Counter-Strike 2,control,2026-05,932721
+730,Counter-Strike 2,control,2026-06,916655
+730,Counter-Strike 2,control,2026-07,853232
+730,Counter-Strike 2,control,2026-08,825258
+730,Counter-Strike 2,control,2026-09,805638
+730,Counter-Strike 2,control,2026-10,797324
+570,Dota 2,control,2014-01,393860
+570,Dota 2,control,2014-02,421114
+570,Dota 2,control,2014-03,409756
+570,Dota 2,control,2014-04,421710
+570,Dota 2,control,2014-05,482387
+570,Dota 2,control,2014-06,513783
+570,Dota 2,control,2014-07,537019
+570,Dota 2,control,2014-08,490884
+570,Dota 2,control,2014-09,477998
+570,Dota 2,control,2014-10,495693
+570,Dota 2,control,2014-11,528790
+570,Dota 2,control,2014-12,523940
+570,Dota 2,control,2015-01,558504
+570,Dota 2,control,2015-02,628970
+570,Dota 2,control,2015-03,571713
+570,Dota 2,control,2015-04,526062
+570,Dota 2,control,2015-05,580348
+570,Dota 2,control,2015-06,568448
+570,Dota 2,control,2015-07,554991
+570,Dota 2,control,2015-08,606944
+570,Dota 2,control,2015-09,508157
+570,Dota 2,control,2015-10,521942
+570,Dota 2,control,2015-11,539536
+570,Dota 2,control,2015-12,573344
+570,Dota 2,control,2016-01,612175
+570,Dota 2,control,2016-02,709178
+570,Dota 2,control,2016-03,672555
+570,Dota 2,control,2016-04,656944
+570,Dota 2,control,2016-05,623799
+570,Dota 2,control,2016-06,640227
+570,Dota 2,control,2016-07,638213
+570,Dota 2,control,2016-08,666013
+570,Dota 2,control,2016-09,622584
+570,Dota 2,control,2016-10,639355
+570,Dota 2,control,2016-11,584251
+570,Dota 2,control,2016-12,593921
+570,Dota 2,control,2017-01,580281
+570,Dota 2,control,2017-02,591567
+570,Dota 2,control,2017-03,548435
+570,Dota 2,control,2017-04,540278
+570,Dota 2,control,2017-05,567526
+570,Dota 2,control,2017-06,555289
+570,Dota 2,control,2017-07,498444
+570,Dota 2,control,2017-08,556496
+570,Dota 2,control,2017-09,491450
+570,Dota 2,control,2017-10,466127
+570,Dota 2,control,2017-11,487381
+570,Dota 2,control,2017-12,513074
+570,Dota 2,control,2018-01,486862
+570,Dota 2,control,2018-02,438848
+570,Dota 2,control,2018-03,437262
+570,Dota 2,control,2018-04,430341
+570,Dota 2,control,2018-05,474326
+570,Dota 2,control,2018-06,473900
+570,Dota 2,control,2018-07,441714
+570,Dota 2,control,2018-08,476101
+570,Dota 2,control,2018-09,466471
+570,Dota 2,control,2018-10,431174
+570,Dota 2,control,2018-11,461073
+570,Dota 2,control,2018-12,439368
+570,Dota 2,control,2019-01,475747
+570,Dota 2,control,2019-02,564910
+570,Dota 2,control,2019-03,586506
+570,Dota 2,control,2019-04,520219
+570,Dota 2,control,2019-05,548523
+570,Dota 2,control,2019-06,507528
+570,Dota 2,control,2019-07,464788
+570,Dota 2,control,2019-08,467148
+570,Dota 2,control,2019-09,421971
+570,Dota 2,control,2019-10,388356
+570,Dota 2,control,2019-11,401932
+570,Dota 2,control,2019-12,384180
+570,Dota 2,control,2020-01,378925
+570,Dota 2,control,2020-02,405979
+570,Dota 2,control,2020-03,437147
+570,Dota 2,control,2020-04,493300
+570,Dota 2,control,2020-05,484189
+570,Dota 2,control,2020-06,457184
+570,Dota 2,control,2020-07,450214
+570,Dota 2,control,2020-08,429717
+570,Dota 2,control,2020-09,408610
+570,Dota 2,control,2020-10,406361
+570,Dota 2,control,2020-11,425905
+570,Dota 2,control,2020-12,422552
+570,Dota 2,control,2021-01,432672
+570,Dota 2,control,2021-02,404832
+570,Dota 2,control,2021-03,390413
+570,Dota 2,control,2021-04,413785
+570,Dota 2,control,2021-05,415145
+570,Dota 2,control,2021-06,421510
+570,Dota 2,control,2021-07,423156
+570,Dota 2,control,2021-08,424980
+570,Dota 2,control,2021-09,391082
+570,Dota 2,control,2021-10,450761
+570,Dota 2,control,2021-11,448861
+570,Dota 2,control,2021-12,449297
+570,Dota 2,control,2022-01,485791
+570,Dota 2,control,2022-02,450200
+570,Dota 2,control,2022-03,448724
+570,Dota 2,control,2022-04,451827
+570,Dota 2,control,2022-05,446917
+570,Dota 2,control,2022-06,458144
+570,Dota 2,control,2022-07,444595
+570,Dota 2,control,2022-08,468467
+570,Dota 2,control,2022-09,490725
+570,Dota 2,control,2022-10,456303
+570,Dota 2,control,2022-11,523684
+570,Dota 2,control,2022-12,468545
+570,Dota 2,control,2023-01,428297
+570,Dota 2,control,2023-02,401847
+570,Dota 2,control,2023-03,418744
+570,Dota 2,control,2023-04,429226
+570,Dota 2,control,2023-05,433221
+570,Dota 2,control,2023-06,421336
+570,Dota 2,control,2023-07,438510
+570,Dota 2,control,2023-08,444319
+570,Dota 2,control,2023-09,437273
+570,Dota 2,control,2023-10,435621
+570,Dota 2,control,2023-11,433728
+570,Dota 2,control,2023-12,435518
+570,Dota 2,control,2024-01,440229
+570,Dota 2,control,2024-02,427922
+570,Dota 2,control,2024-03,428919
+570,Dota 2,control,2024-04,456551
+570,Dota 2,control,2024-05,512919
+570,Dota 2,control,2024-06,486674
+570,Dota 2,control,2024-07,475394
+570,Dota 2,control,2024-08,449798
+570,Dota 2,control,2024-09,426812
+570,Dota 2,control,2024-10,410682
+570,Dota 2,control,2024-11,454956
+570,Dota 2,control,2024-12,437636
+570,Dota 2,control,2025-01,446491
+570,Dota 2,control,2025-02,431749
+570,Dota 2,control,2025-03,402851
+570,Dota 2,control,2025-04,393173
+570,Dota 2,control,2025-05,408988
+570,Dota 2,control,2025-06,411123
+570,Dota 2,control,2025-07,426673
+570,Dota 2,control,2025-08,532355
+570,Dota 2,control,2025-09,580821
+570,Dota 2,control,2025-10,538998
+570,Dota 2,control,2025-11,583744
+570,Dota 2,control,2025-12,594290
+570,Dota 2,control,2026-01,569324
+570,Dota 2,control,2026-02,597010
+570,Dota 2,control,2026-03,477856
+570,Dota 2,control,2026-04,425919
+570,Dota 2,control,2026-05,422693
+570,Dota 2,control,2026-06,466002
+570,Dota 2,control,2026-07,545528
+570,Dota 2,control,2026-08,617078
+570,Dota 2,control,2026-09,571294
+570,Dota 2,control,2026-10,648200
+440,Team Fortress 2,control,2014-01,50662
+440,Team Fortress 2,control,2014-02,49817
+440,Team Fortress 2,control,2014-03,49146
+440,Team Fortress 2,control,2014-04,49671
+440,Team Fortress 2,control,2014-05,47900
+440,Team Fortress 2,control,2014-06,53343
+440,Team Fortress 2,control,2014-07,56704
+440,Team Fortress 2,control,2014-08,59229
+440,Team Fortress 2,control,2014-09,55092
+440,Team Fortress 2,control,2014-10,57977
+440,Team Fortress 2,control,2014-11,56733
+440,Team Fortress 2,control,2014-12,58392
+440,Team Fortress 2,control,2015-01,58550
+440,Team Fortress 2,control,2015-02,56470
+440,Team Fortress 2,control,2015-03,54118
+440,Team Fortress 2,control,2015-04,54533
+440,Team Fortress 2,control,2015-05,55587
+440,Team Fortress 2,control,2015-06,56345
+440,Team Fortress 2,control,2015-07,60779
+440,Team Fortress 2,control,2015-08,60485
+440,Team Fortress 2,control,2015-09,55777
+440,Team Fortress 2,control,2015-10,55257
+440,Team Fortress 2,control,2015-11,52145
+440,Team Fortress 2,control,2015-12,52973
+440,Team Fortress 2,control,2016-01,52764
+440,Team Fortress 2,control,2016-02,52865
+440,Team Fortress 2,control,2016-03,52754
+440,Team Fortress 2,control,2016-04,51435
+440,Team Fortress 2,control,2016-05,49804
+440,Team Fortress 2,control,2016-06,51363
+440,Team Fortress 2,control,2016-07,54459
+440,Team Fortress 2,control,2016-08,53742
+440,Team Fortress 2,control,2016-09,48541
+440,Team Fortress 2,control,2016-10,45910
+440,Team Fortress 2,control,2016-11,46904
+440,Team Fortress 2,control,2016-12,50141
+440,Team Fortress 2,control,2017-01,52436
+440,Team Fortress 2,control,2017-02,51787
+440,Team Fortress 2,control,2017-03,49483
+440,Team Fortress 2,control,2017-04,51734
+440,Team Fortress 2,control,2017-05,50126
+440,Team Fortress 2,control,2017-06,52408
+440,Team Fortress 2,control,2017-07,51861
+440,Team Fortress 2,control,2017-08,52992
+440,Team Fortress 2,control,2017-09,50985
+440,Team Fortress 2,control,2017-10,54963
+440,Team Fortress 2,control,2017-11,52270
+440,Team Fortress 2,control,2017-12,51816
+440,Team Fortress 2,control,2018-01,53432
+440,Team Fortress 2,control,2018-02,37715
+440,Team Fortress 2,control,2018-03,36782
+440,Team Fortress 2,control,2018-04,39180
+440,Team Fortress 2,control,2018-05,38847
+440,Team Fortress 2,control,2018-06,44207
+440,Team Fortress 2,control,2018-07,46149
+440,Team Fortress 2,control,2018-08,43632
+440,Team Fortress 2,control,2018-09,41002
+440,Team Fortress 2,control,2018-10,48766
+440,Team Fortress 2,control,2018-11,53084
+440,Team Fortress 2,control,2018-12,50592
+440,Team Fortress 2,control,2019-01,50511
+440,Team Fortress 2,control,2019-02,47708
+440,Team Fortress 2,control,2019-03,45940
+440,Team Fortress 2,control,2019-04,42505
+440,Team Fortress 2,control,2019-05,39077
+440,Team Fortress 2,control,2019-06,43003
+440,Team Fortress 2,control,2019-07,49539
+440,Team Fortress 2,control,2019-08,45545
+440,Team Fortress 2,control,2019-09,48333
+440,Team Fortress 2,control,2019-10,51994
+440,Team Fortress 2,control,2019-11,50316
+440,Team Fortress 2,control,2019-12,61696
+440,Team Fortress 2,control,2020-01,59598
+440,Team Fortress 2,control,2020-02,60109
+440,Team Fortress 2,control,2020-03,67979
+440,Team Fortress 2,control,2020-04,67187
+440,Team Fortress 2,control,2020-05,66394
+440,Team Fortress 2,control,2020-06,65170
+440,Team Fortress 2,control,2020-07,69302
+440,Team Fortress 2,control,2020-08,66944
+440,Team Fortress 2,control,2020-09,68866
+440,Team Fortress 2,control,2020-10,73594
+440,Team Fortress 2,control,2020-11,70305
+440,Team Fortress 2,control,2020-12,82424
+440,Team Fortress 2,control,2021-01,83148
+440,Team Fortress 2,control,2021-02,101231
+440,Team Fortress 2,control,2021-03,88704
+440,Team Fortress 2,control,2021-04,88187
+440,Team Fortress 2,control,2021-05,89532
+440,Team Fortress 2,control,2021-06,106223
+440,Team Fortress 2,control,2021-07,85157
+440,Team Fortress 2,control,2021-08,75016
+440,Team Fortress 2,control,2021-09,81854
+440,Team Fortress 2,control,2021-10,86103
+440,Team Fortress 2,control,2021-11,96993
+440,Team Fortress 2,control,2021-12,89325
+440,Team Fortress 2,control,2022-01,79748
+440,Team Fortress 2,control,2022-02,70353
+440,Team Fortress 2,control,2022-03,72811
+440,Team Fortress 2,control,2022-04,75412
+440,Team Fortress 2,control,2022-05,68496
+440,Team Fortress 2,control,2022-06,90117
+440,Team Fortress 2,control,2022-07,109642
+440,Team Fortress 2,control,2022-08,97974
+440,Team Fortress 2,control,2022-09,96009
+440,Team Fortress 2,control,2022-10,92059
+440,Team Fortress 2,control,2022-11,89344
+440,Team Fortress 2,control,2022-12,99266
+440,Team Fortress 2,control,2023-01,94161
+440,Team Fortress 2,control,2023-02,91717
+440,Team Fortress 2,control,2023-03,91693
+440,Team Fortress 2,control,2023-04,86829
+440,Team Fortress 2,control,2023-05,79956
+440,Team Fortress 2,control,2023-06,67200
+440,Team Fortress 2,control,2023-07,118907
+440,Team Fortress 2,control,2023-08,91713
+440,Team Fortress 2,control,2023-09,76408
+440,Team Fortress 2,control,2023-10,76833
+440,Team Fortress 2,control,2023-11,67803
+440,Team Fortress 2,control,2023-12,115016
+440,Team Fortress 2,control,2024-01,94137
+440,Team Fortress 2,control,2024-02,70143
+440,Team Fortress 2,control,2024-03,59993
+440,Team Fortress 2,control,2024-04,64921
+440,Team Fortress 2,control,2024-05,72179
+440,Team Fortress 2,control,2024-06,78099
+440,Team Fortress 2,control,2024-07,97583
+440,Team Fortress 2,control,2024-08,63648
+440,Team Fortress 2,control,2024-09,52560
+440,Team Fortress 2,control,2024-10,52664
+440,Team Fortress 2,control,2024-11,51794
+440,Team Fortress 2,control,2024-12,68683
+440,Team Fortress 2,control,2025-01,47976
+440,Team Fortress 2,control,2025-02,42205
+440,Team Fortress 2,control,2025-03,43816
+440,Team Fortress 2,control,2025-04,40714
+440,Team Fortress 2,control,2025-05,41675
+440,Team Fortress 2,control,2025-06,44741
+440,Team Fortress 2,control,2025-07,44977
+440,Team Fortress 2,control,2025-08,46106
+440,Team Fortress 2,control,2025-09,47673
+440,Team Fortress 2,control,2025-10,44427
+440,Team Fortress 2,control,2025-11,45418
+440,Team Fortress 2,control,2025-12,52408
+440,Team Fortress 2,control,2026-01,48842
+440,Team Fortress 2,control,2026-02,49578
+440,Team Fortress 2,control,2026-03,49522
+440,Team Fortress 2,control,2026-04,50683
+440,Team Fortress 2,control,2026-05,46196
+440,Team Fortress 2,control,2026-06,44842
+440,Team Fortress 2,control,2026-07,47820
+440,Team Fortress 2,control,2026-08,50286
+440,Team Fortress 2,control,2026-09,55900
+440,Team Fortress 2,control,2026-10,75313
+252490,Rust,control,2014-01,24875
+252490,Rust,control,2014-02,34753
+252490,Rust,control,2014-03,24874
+252490,Rust,control,2014-04,17659
+252490,Rust,control,2014-05,13151
+252490,Rust,control,2014-06,11938
+252490,Rust,control,2014-07,10132
+252490,Rust,control,2014-08,8741
+252490,Rust,control,2014-09,6347
+252490,Rust,control,2014-10,6373
+252490,Rust,control,2014-11,5384
+252490,Rust,control,2014-12,6151
+252490,Rust,control,2015-01,10591
+252490,Rust,control,2015-02,9373
+252490,Rust,control,2015-03,8270
+252490,Rust,control,2015-04,8137
+252490,Rust,control,2015-05,13820
+252490,Rust,control,2015-06,13736
+252490,Rust,control,2015-07,13818
+252490,Rust,control,2015-08,14870
+252490,Rust,control,2015-09,12411
+252490,Rust,control,2015-10,13106
+252490,Rust,control,2015-11,13062
+252490,Rust,control,2015-12,18474
+252490,Rust,control,2016-01,27647
+252490,Rust,control,2016-02,32395
+252490,Rust,control,2016-03,27268
+252490,Rust,control,2016-04,25606
+252490,Rust,control,2016-05,25498
+252490,Rust,control,2016-06,25361
+252490,Rust,control,2016-07,30950
+252490,Rust,control,2016-08,30433
+252490,Rust,control,2016-09,26270
+252490,Rust,control,2016-10,24406
+252490,Rust,control,2016-11,22879
+252490,Rust,control,2016-12,28975
+252490,Rust,control,2017-01,34000
+252490,Rust,control,2017-02,36404
+252490,Rust,control,2017-03,32439
+252490,Rust,control,2017-04,28589
+252490,Rust,control,2017-05,25380
+252490,Rust,control,2017-06,29285
+252490,Rust,control,2017-07,29563
+252490,Rust,control,2017-08,25558
+252490,Rust,control,2017-09,21595
+252490,Rust,control,2017-10,25761
+252490,Rust,control,2017-11,28147
+252490,Rust,control,2017-12,32974
+252490,Rust,control,2018-01,34669
+252490,Rust,control,2018-02,33507
+252490,Rust,control,2018-03,29075
+252490,Rust,control,2018-04,26047
+252490,Rust,control,2018-05,23894
+252490,Rust,control,2018-06,30309
+252490,Rust,control,2018-07,36659
+252490,Rust,control,2018-08,31488
+252490,Rust,control,2018-09,27319
+252490,Rust,control,2018-10,31820
+252490,Rust,control,2018-11,37706
+252490,Rust,control,2018-12,42622
+252490,Rust,control,2019-01,46201
+252490,Rust,control,2019-02,42431
+252490,Rust,control,2019-03,40725
+252490,Rust,control,2019-04,38201
+252490,Rust,control,2019-05,35781
+252490,Rust,control,2019-06,45133
+252490,Rust,control,2019-07,62260
+252490,Rust,control,2019-08,58531
+252490,Rust,control,2019-09,49636
+252490,Rust,control,2019-10,46704
+252490,Rust,control,2019-11,43508
+252490,Rust,control,2019-12,49095
+252490,Rust,control,2020-01,51620
+252490,Rust,control,2020-02,50075
+252490,Rust,control,2020-03,58442
+252490,Rust,control,2020-04,67504
+252490,Rust,control,2020-05,57345
+252490,Rust,control,2020-06,50418
+252490,Rust,control,2020-07,58239
+252490,Rust,control,2020-08,53288
+252490,Rust,control,2020-09,46431
+252490,Rust,control,2020-10,48551
+252490,Rust,control,2020-11,55408
+252490,Rust,control,2020-12,61172
+252490,Rust,control,2021-01,142117
+252490,Rust,control,2021-02,117742
+252490,Rust,control,2021-03,86370
+252490,Rust,control,2021-04,77590
+252490,Rust,control,2021-05,76871
+252490,Rust,control,2021-06,79342
+252490,Rust,control,2021-07,92824
+252490,Rust,control,2021-08,83332
+252490,Rust,control,2021-09,69503
+252490,Rust,control,2021-10,65557
+252490,Rust,control,2021-11,69650
+252490,Rust,control,2021-12,75604
+252490,Rust,control,2022-01,90931
+252490,Rust,control,2022-02,86567
+252490,Rust,control,2022-03,77348
+252490,Rust,control,2022-04,80716
+252490,Rust,control,2022-05,72930
+252490,Rust,control,2022-06,81987
+252490,Rust,control,2022-07,78841
+252490,Rust,control,2022-08,83064
+252490,Rust,control,2022-09,76172
+252490,Rust,control,2022-10,71982
+252490,Rust,control,2022-11,72837
+252490,Rust,control,2022-12,85816
+252490,Rust,control,2023-01,95273
+252490,Rust,control,2023-02,90005
+252490,Rust,control,2023-03,84396
+252490,Rust,control,2023-04,82537
+252490,Rust,control,2023-05,87749
+252490,Rust,control,2023-06,91925
+252490,Rust,control,2023-07,95646
+252490,Rust,control,2023-08,83464
+252490,Rust,control,2023-09,69292
+252490,Rust,control,2023-10,69356
+252490,Rust,control,2023-11,69013
+252490,Rust,control,2023-12,84017
+252490,Rust,control,2024-01,90065
+252490,Rust,control,2024-02,82116
+252490,Rust,control,2024-03,82243
+252490,Rust,control,2024-04,80885
+252490,Rust,control,2024-05,82374
+252490,Rust,control,2024-06,97861
+252490,Rust,control,2024-07,93180
+252490,Rust,control,2024-08,90633
+252490,Rust,control,2024-09,76246
+252490,Rust,control,2024-10,89777
+252490,Rust,control,2024-11,95865
+252490,Rust,control,2024-12,112605
+252490,Rust,control,2025-01,124496
+252490,Rust,control,2025-02,121569
+252490,Rust,control,2025-03,111584
+252490,Rust,control,2025-04,97805
+252490,Rust,control,2025-05,105523
+252490,Rust,control,2025-06,98463
+252490,Rust,control,2025-07,102159
+252490,Rust,control,2025-08,103018
+252490,Rust,control,2025-09,85515
+252490,Rust,control,2025-10,97411
+252490,Rust,control,2025-11,98213
+252490,Rust,control,2025-12,105484
+252490,Rust,control,2026-01,121003
+252490,Rust,control,2026-02,122377
+252490,Rust,control,2026-03,106570
+252490,Rust,control,2026-04,103352
+252490,Rust,control,2026-05,102508
+252490,Rust,control,2026-06,104083
+252490,Rust,control,2026-07,105149
+252490,Rust,control,2026-08,99323
+252490,Rust,control,2026-09,81168
+252490,Rust,control,2026-10,84544
+227300,Euro Truck Simulator 2,control,2014-01,2293
+227300,Euro Truck Simulator 2,control,2014-02,1575
+227300,Euro Truck Simulator 2,control,2014-03,1577
+227300,Euro Truck Simulator 2,control,2014-04,2108
+227300,Euro Truck Simulator 2,control,2014-05,3391
+227300,Euro Truck Simulator 2,control,2014-06,4301
+227300,Euro Truck Simulator 2,control,2014-07,4592
+227300,Euro Truck Simulator 2,control,2014-08,4656
+227300,Euro Truck Simulator 2,control,2014-09,4386
+227300,Euro Truck Simulator 2,control,2014-10,4919
+227300,Euro Truck Simulator 2,control,2014-11,5134
+227300,Euro Truck Simulator 2,control,2014-12,8730
+227300,Euro Truck Simulator 2,control,2015-01,7699
+227300,Euro Truck Simulator 2,control,2015-02,6239
+227300,Euro Truck Simulator 2,control,2015-03,5447
+227300,Euro Truck Simulator 2,control,2015-04,5374
+227300,Euro Truck Simulator 2,control,2015-05,7913
+227300,Euro Truck Simulator 2,control,2015-06,8695
+227300,Euro Truck Simulator 2,control,2015-07,7594
+227300,Euro Truck Simulator 2,control,2015-08,8057
+227300,Euro Truck Simulator 2,control,2015-09,7331
+227300,Euro Truck Simulator 2,control,2015-10,8029
+227300,Euro Truck Simulator 2,control,2015-11,8574
+227300,Euro Truck Simulator 2,control,2015-12,11525
+227300,Euro Truck Simulator 2,control,2016-01,13443
+227300,Euro Truck Simulator 2,control,2016-02,9682
+227300,Euro Truck Simulator 2,control,2016-03,8234
+227300,Euro Truck Simulator 2,control,2016-04,7682
+227300,Euro Truck Simulator 2,control,2016-05,8715
+227300,Euro Truck Simulator 2,control,2016-06,8916
+227300,Euro Truck Simulator 2,control,2016-07,10287
+227300,Euro Truck Simulator 2,control,2016-08,9546
+227300,Euro Truck Simulator 2,control,2016-09,8606
+227300,Euro Truck Simulator 2,control,2016-10,9395
+227300,Euro Truck Simulator 2,control,2016-11,9628
+227300,Euro Truck Simulator 2,control,2016-12,12651
+227300,Euro Truck Simulator 2,control,2017-01,14045
+227300,Euro Truck Simulator 2,control,2017-02,11128
+227300,Euro Truck Simulator 2,control,2017-03,9641
+227300,Euro Truck Simulator 2,control,2017-04,10963
+227300,Euro Truck Simulator 2,control,2017-05,14126
+227300,Euro Truck Simulator 2,control,2017-06,12880
+227300,Euro Truck Simulator 2,control,2017-07,15847
+227300,Euro Truck Simulator 2,control,2017-08,13771
+227300,Euro Truck Simulator 2,control,2017-09,12762
+227300,Euro Truck Simulator 2,control,2017-10,12166
+227300,Euro Truck Simulator 2,control,2017-11,14238
+227300,Euro Truck Simulator 2,control,2017-12,21312
+227300,Euro Truck Simulator 2,control,2018-01,19978
+227300,Euro Truck Simulator 2,control,2018-02,15830
+227300,Euro Truck Simulator 2,control,2018-03,13971
+227300,Euro Truck Simulator 2,control,2018-04,12691
+227300,Euro Truck Simulator 2,control,2018-05,14985
+227300,Euro Truck Simulator 2,control,2018-06,15569
+227300,Euro Truck Simulator 2,control,2018-07,16256
+227300,Euro Truck Simulator 2,control,2018-08,15699
+227300,Euro Truck Simulator 2,control,2018-09,16387
+227300,Euro Truck Simulator 2,control,2018-10,15744
+227300,Euro Truck Simulator 2,control,2018-11,15595
+227300,Euro Truck Simulator 2,control,2018-12,20118
+227300,Euro Truck Simulator 2,control,2019-01,19168
+227300,Euro Truck Simulator 2,control,2019-02,17182
+227300,Euro Truck Simulator 2,control,2019-03,16045
+227300,Euro Truck Simulator 2,control,2019-04,14679
+227300,Euro Truck Simulator 2,control,2019-05,15017
+227300,Euro Truck Simulator 2,control,2019-06,16295
+227300,Euro Truck Simulator 2,control,2019-07,17601
+227300,Euro Truck Simulator 2,control,2019-08,15451
+227300,Euro Truck Simulator 2,control,2019-09,14632
+227300,Euro Truck Simulator 2,control,2019-10,15736
+227300,Euro Truck Simulator 2,control,2019-11,16751
+227300,Euro Truck Simulator 2,control,2019-12,21790
+227300,Euro Truck Simulator 2,control,2020-01,18884
+227300,Euro Truck Simulator 2,control,2020-02,18775
+227300,Euro Truck Simulator 2,control,2020-03,20551
+227300,Euro Truck Simulator 2,control,2020-04,28667
+227300,Euro Truck Simulator 2,control,2020-05,21016
+227300,Euro Truck Simulator 2,control,2020-06,19809
+227300,Euro Truck Simulator 2,control,2020-07,19620
+227300,Euro Truck Simulator 2,control,2020-08,17248
+227300,Euro Truck Simulator 2,control,2020-09,15843
+227300,Euro Truck Simulator 2,control,2020-10,19126
+227300,Euro Truck Simulator 2,control,2020-11,19963
+227300,Euro Truck Simulator 2,control,2020-12,23952
+227300,Euro Truck Simulator 2,control,2021-01,24090
+227300,Euro Truck Simulator 2,control,2021-02,23638
+227300,Euro Truck Simulator 2,control,2021-03,20986
+227300,Euro Truck Simulator 2,control,2021-04,25081
+227300,Euro Truck Simulator 2,control,2021-05,22917
+227300,Euro Truck Simulator 2,control,2021-06,20424
+227300,Euro Truck Simulator 2,control,2021-07,22110
+227300,Euro Truck Simulator 2,control,2021-08,20432
+227300,Euro Truck Simulator 2,control,2021-09,20302
+227300,Euro Truck Simulator 2,control,2021-10,20167
+227300,Euro Truck Simulator 2,control,2021-11,23556
+227300,Euro Truck Simulator 2,control,2021-12,22635
+227300,Euro Truck Simulator 2,control,2022-01,27313
+227300,Euro Truck Simulator 2,control,2022-02,23666
+227300,Euro Truck Simulator 2,control,2022-03,20779
+227300,Euro Truck Simulator 2,control,2022-04,21339
+227300,Euro Truck Simulator 2,control,2022-05,19702
+227300,Euro Truck Simulator 2,control,2022-06,19997
+227300,Euro Truck Simulator 2,control,2022-07,20510
+227300,Euro Truck Simulator 2,control,2022-08,19997
+227300,Euro Truck Simulator 2,control,2022-09,20931
+227300,Euro Truck Simulator 2,control,2022-10,20835
+227300,Euro Truck Simulator 2,control,2022-11,20759
+227300,Euro Truck Simulator 2,control,2022-12,22870
+227300,Euro Truck Simulator 2,control,2023-01,25413
+227300,Euro Truck Simulator 2,control,2023-02,22220
+227300,Euro Truck Simulator 2,control,2023-03,21381
+227300,Euro Truck Simulator 2,control,2023-04,23691
+227300,Euro Truck Simulator 2,control,2023-05,22806
+227300,Euro Truck Simulator 2,control,2023-06,20841
+227300,Euro Truck Simulator 2,control,2023-07,24760
+227300,Euro Truck Simulator 2,control,2023-08,25057
+227300,Euro Truck Simulator 2,control,2023-09,22517
+227300,Euro Truck Simulator 2,control,2023-10,26107
+227300,Euro Truck Simulator 2,control,2023-11,27121
+227300,Euro Truck Simulator 2,control,2023-12,29321
+227300,Euro Truck Simulator 2,control,2024-01,28605
+227300,Euro Truck Simulator 2,control,2024-02,23991
+227300,Euro Truck Simulator 2,control,2024-03,25356
+227300,Euro Truck Simulator 2,control,2024-04,23945
+227300,Euro Truck Simulator 2,control,2024-05,23932
+227300,Euro Truck Simulator 2,control,2024-06,23707
+227300,Euro Truck Simulator 2,control,2024-07,32856
+227300,Euro Truck Simulator 2,control,2024-08,24885
+227300,Euro Truck Simulator 2,control,2024-09,22925
+227300,Euro Truck Simulator 2,control,2024-10,24609
+227300,Euro Truck Simulator 2,control,2024-11,25056
+227300,Euro Truck Simulator 2,control,2024-12,33760
+227300,Euro Truck Simulator 2,control,2025-01,31856
+227300,Euro Truck Simulator 2,control,2025-02,27652
+227300,Euro Truck Simulator 2,control,2025-03,27638
+227300,Euro Truck Simulator 2,control,2025-04,24923
+227300,Euro Truck Simulator 2,control,2025-05,22760
+227300,Euro Truck Simulator 2,control,2025-06,22666
+227300,Euro Truck Simulator 2,control,2025-07,27132
+227300,Euro Truck Simulator 2,control,2025-08,26215
+227300,Euro Truck Simulator 2,control,2025-09,23802
+227300,Euro Truck Simulator 2,control,2025-10,27815
+227300,Euro Truck Simulator 2,control,2025-11,28076
+227300,Euro Truck Simulator 2,control,2025-12,34569
+227300,Euro Truck Simulator 2,control,2026-01,32528
+227300,Euro Truck Simulator 2,control,2026-02,31235
+227300,Euro Truck Simulator 2,control,2026-03,28865
+227300,Euro Truck Simulator 2,control,2026-04,28708
+227300,Euro Truck Simulator 2,control,2026-05,27327
+227300,Euro Truck Simulator 2,control,2026-06,23592
+227300,Euro Truck Simulator 2,control,2026-07,29440
+227300,Euro Truck Simulator 2,control,2026-08,27520
+227300,Euro Truck Simulator 2,control,2026-09,25056
+227300,Euro Truck Simulator 2,control,2026-10,28684
+230410,Warframe,control,2014-01,11661
+230410,Warframe,control,2014-02,13653
+230410,Warframe,control,2014-03,12379
+230410,Warframe,control,2014-04,14373
+230410,Warframe,control,2014-05,11609
+230410,Warframe,control,2014-06,12149
+230410,Warframe,control,2014-07,15222
+230410,Warframe,control,2014-08,16466
+230410,Warframe,control,2014-09,15803
+230410,Warframe,control,2014-10,15737
+230410,Warframe,control,2014-11,16897
+230410,Warframe,control,2014-12,19376
+230410,Warframe,control,2015-01,17920
+230410,Warframe,control,2015-02,18379
+230410,Warframe,control,2015-03,21233
+230410,Warframe,control,2015-04,22098
+230410,Warframe,control,2015-05,20931
+230410,Warframe,control,2015-06,18366
+230410,Warframe,control,2015-07,19936
+230410,Warframe,control,2015-08,29160
+230410,Warframe,control,2015-09,22068
+230410,Warframe,control,2015-10,27714
+230410,Warframe,control,2015-11,21333
+230410,Warframe,control,2015-12,33254
+230410,Warframe,control,2016-01,30710
+230410,Warframe,control,2016-02,31909
+230410,Warframe,control,2016-03,33748
+230410,Warframe,control,2016-04,27146
+230410,Warframe,control,2016-05,26598
+230410,Warframe,control,2016-06,26327
+230410,Warframe,control,2016-07,28526
+230410,Warframe,control,2016-08,26548
+230410,Warframe,control,2016-09,22776
+230410,Warframe,control,2016-10,20889
+230410,Warframe,control,2016-11,29817
+230410,Warframe,control,2016-12,33678
+230410,Warframe,control,2017-01,31735
+230410,Warframe,control,2017-02,28398
+230410,Warframe,control,2017-03,30724
+230410,Warframe,control,2017-04,30576
+230410,Warframe,control,2017-05,27781
+230410,Warframe,control,2017-06,25902
+230410,Warframe,control,2017-07,39002
+230410,Warframe,control,2017-08,39967
+230410,Warframe,control,2017-09,37028
+230410,Warframe,control,2017-10,61909
+230410,Warframe,control,2017-11,56500
+230410,Warframe,control,2017-12,51380
+230410,Warframe,control,2018-01,45178
+230410,Warframe,control,2018-02,49035
+230410,Warframe,control,2018-03,48091
+230410,Warframe,control,2018-04,50342
+230410,Warframe,control,2018-05,42943
+230410,Warframe,control,2018-06,56623
+230410,Warframe,control,2018-07,76595
+230410,Warframe,control,2018-08,68892
+230410,Warframe,control,2018-09,51794
+230410,Warframe,control,2018-10,49718
+230410,Warframe,control,2018-11,61487
+230410,Warframe,control,2018-12,53728
+230410,Warframe,control,2019-01,52755
+230410,Warframe,control,2019-02,46224
+230410,Warframe,control,2019-03,62800
+230410,Warframe,control,2019-04,56575
+230410,Warframe,control,2019-05,50581
+230410,Warframe,control,2019-06,42673
+230410,Warframe,control,2019-07,55902
+230410,Warframe,control,2019-08,53196
+230410,Warframe,control,2019-09,42482
+230410,Warframe,control,2019-10,34399
+230410,Warframe,control,2019-11,46093
+230410,Warframe,control,2019-12,47143
+230410,Warframe,control,2020-01,36264
+230410,Warframe,control,2020-02,40935
+230410,Warframe,control,2020-03,52827
+230410,Warframe,control,2020-04,56319
+230410,Warframe,control,2020-05,49687
+230410,Warframe,control,2020-06,44830
+230410,Warframe,control,2020-07,39385
+230410,Warframe,control,2020-08,59629
+230410,Warframe,control,2020-09,56331
+230410,Warframe,control,2020-10,41299
+230410,Warframe,control,2020-11,39914
+230410,Warframe,control,2020-12,35990
+230410,Warframe,control,2021-01,36124
+230410,Warframe,control,2021-02,39210
+230410,Warframe,control,2021-03,42952
+230410,Warframe,control,2021-04,46416
+230410,Warframe,control,2021-05,46684
+230410,Warframe,control,2021-06,39622
+230410,Warframe,control,2021-07,51615
+230410,Warframe,control,2021-08,50754
+230410,Warframe,control,2021-09,46968
+230410,Warframe,control,2021-10,39866
+230410,Warframe,control,2021-11,40776
+230410,Warframe,control,2021-12,54651
+230410,Warframe,control,2022-01,47395
+230410,Warframe,control,2022-02,35038
+230410,Warframe,control,2022-03,31061
+230410,Warframe,control,2022-04,43233
+230410,Warframe,control,2022-05,46222
+230410,Warframe,control,2022-06,37347
+230410,Warframe,control,2022-07,39766
+230410,Warframe,control,2022-08,37582
+230410,Warframe,control,2022-09,39771
+230410,Warframe,control,2022-10,34103
+230410,Warframe,control,2022-11,29968
+230410,Warframe,control,2022-12,39102
+230410,Warframe,control,2023-01,40671
+230410,Warframe,control,2023-02,41930
+230410,Warframe,control,2023-03,40706
+230410,Warframe,control,2023-04,48355
+230410,Warframe,control,2023-05,54936
+230410,Warframe,control,2023-06,43892
+230410,Warframe,control,2023-07,38412
+230410,Warframe,control,2023-08,39583
+230410,Warframe,control,2023-09,39713
+230410,Warframe,control,2023-10,44347
+230410,Warframe,control,2023-11,45550
+230410,Warframe,control,2023-12,55599
+230410,Warframe,control,2024-01,64767
+230410,Warframe,control,2024-02,59248
+230410,Warframe,control,2024-03,50841
+230410,Warframe,control,2024-04,49977
+230410,Warframe,control,2024-05,43020
+230410,Warframe,control,2024-06,43704
+230410,Warframe,control,2024-07,43825
+230410,Warframe,control,2024-08,45769
+230410,Warframe,control,2024-09,41474
+230410,Warframe,control,2024-10,53567
+230410,Warframe,control,2024-11,47674
+230410,Warframe,control,2024-12,56169
+230410,Warframe,control,2025-01,53439
+230410,Warframe,control,2025-02,54616
+230410,Warframe,control,2025-03,53343
+230410,Warframe,control,2025-04,46434
+230410,Warframe,control,2025-05,43464
+230410,Warframe,control,2025-06,43444
+230410,Warframe,control,2025-07,48454
+230410,Warframe,control,2025-08,48090
+230410,Warframe,control,2025-09,39492
+230410,Warframe,control,2025-10,45257
+230410,Warframe,control,2025-11,57644
+230410,Warframe,control,2025-12,86045
+230410,Warframe,control,2026-01,75258
+230410,Warframe,control,2026-02,57147
+230410,Warframe,control,2026-03,52427
+230410,Warframe,control,2026-04,64715
+230410,Warframe,control,2026-05,55722
+230410,Warframe,control,2026-06,59247
+230410,Warframe,control,2026-07,59096
+230410,Warframe,control,2026-08,54456
+230410,Warframe,control,2026-09,54756
+230410,Warframe,control,2026-10,60730
+359550,Tom Clancy's Rainbow Six Siege,control,2015-12,7941
+359550,Tom Clancy's Rainbow Six Siege,control,2016-01,10244
+359550,Tom Clancy's Rainbow Six Siege,control,2016-02,9263
+359550,Tom Clancy's Rainbow Six Siege,control,2016-03,6125
+359550,Tom Clancy's Rainbow Six Siege,control,2016-04,7644
+359550,Tom Clancy's Rainbow Six Siege,control,2016-05,7070
+359550,Tom Clancy's Rainbow Six Siege,control,2016-06,9003
+359550,Tom Clancy's Rainbow Six Siege,control,2016-07,10854
+359550,Tom Clancy's Rainbow Six Siege,control,2016-08,13971
+359550,Tom Clancy's Rainbow Six Siege,control,2016-09,10412
+359550,Tom Clancy's Rainbow Six Siege,control,2016-10,10592
+359550,Tom Clancy's Rainbow Six Siege,control,2016-11,15355
+359550,Tom Clancy's Rainbow Six Siege,control,2016-12,17177
+359550,Tom Clancy's Rainbow Six Siege,control,2017-01,20707
+359550,Tom Clancy's Rainbow Six Siege,control,2017-02,30568
+359550,Tom Clancy's Rainbow Six Siege,control,2017-03,26080
+359550,Tom Clancy's Rainbow Six Siege,control,2017-04,24976
+359550,Tom Clancy's Rainbow Six Siege,control,2017-05,23804
+359550,Tom Clancy's Rainbow Six Siege,control,2017-06,24084
+359550,Tom Clancy's Rainbow Six Siege,control,2017-07,28379
+359550,Tom Clancy's Rainbow Six Siege,control,2017-08,33923
+359550,Tom Clancy's Rainbow Six Siege,control,2017-09,36449
+359550,Tom Clancy's Rainbow Six Siege,control,2017-10,31619
+359550,Tom Clancy's Rainbow Six Siege,control,2017-11,41484
+359550,Tom Clancy's Rainbow Six Siege,control,2017-12,59412
+359550,Tom Clancy's Rainbow Six Siege,control,2018-01,63475
+359550,Tom Clancy's Rainbow Six Siege,control,2018-02,68796
+359550,Tom Clancy's Rainbow Six Siege,control,2018-03,83112
+359550,Tom Clancy's Rainbow Six Siege,control,2018-04,64263
+359550,Tom Clancy's Rainbow Six Siege,control,2018-05,63093
+359550,Tom Clancy's Rainbow Six Siege,control,2018-06,66377
+359550,Tom Clancy's Rainbow Six Siege,control,2018-07,68241
+359550,Tom Clancy's Rainbow Six Siege,control,2018-08,73816
+359550,Tom Clancy's Rainbow Six Siege,control,2018-09,73677
+359550,Tom Clancy's Rainbow Six Siege,control,2018-10,62429
+359550,Tom Clancy's Rainbow Six Siege,control,2018-11,57903
+359550,Tom Clancy's Rainbow Six Siege,control,2018-12,70865
+359550,Tom Clancy's Rainbow Six Siege,control,2019-01,79176
+359550,Tom Clancy's Rainbow Six Siege,control,2019-02,72998
+359550,Tom Clancy's Rainbow Six Siege,control,2019-03,69588
+359550,Tom Clancy's Rainbow Six Siege,control,2019-04,61351
+359550,Tom Clancy's Rainbow Six Siege,control,2019-05,59172
+359550,Tom Clancy's Rainbow Six Siege,control,2019-06,78059
+359550,Tom Clancy's Rainbow Six Siege,control,2019-07,77411
+359550,Tom Clancy's Rainbow Six Siege,control,2019-08,73956
+359550,Tom Clancy's Rainbow Six Siege,control,2019-09,77923
+359550,Tom Clancy's Rainbow Six Siege,control,2019-10,65632
+359550,Tom Clancy's Rainbow Six Siege,control,2019-11,66499
+359550,Tom Clancy's Rainbow Six Siege,control,2019-12,78229
+359550,Tom Clancy's Rainbow Six Siege,control,2020-01,94186
+359550,Tom Clancy's Rainbow Six Siege,control,2020-02,97667
+359550,Tom Clancy's Rainbow Six Siege,control,2020-03,119878
+359550,Tom Clancy's Rainbow Six Siege,control,2020-04,108515
+359550,Tom Clancy's Rainbow Six Siege,control,2020-05,80099
+359550,Tom Clancy's Rainbow Six Siege,control,2020-06,70201
+359550,Tom Clancy's Rainbow Six Siege,control,2020-07,76279
+359550,Tom Clancy's Rainbow Six Siege,control,2020-08,68205
+359550,Tom Clancy's Rainbow Six Siege,control,2020-09,75543
+359550,Tom Clancy's Rainbow Six Siege,control,2020-10,62956
+359550,Tom Clancy's Rainbow Six Siege,control,2020-11,55307
+359550,Tom Clancy's Rainbow Six Siege,control,2020-12,70722
+359550,Tom Clancy's Rainbow Six Siege,control,2021-01,77717
+359550,Tom Clancy's Rainbow Six Siege,control,2021-02,72383
+359550,Tom Clancy's Rainbow Six Siege,control,2021-03,85157
+359550,Tom Clancy's Rainbow Six Siege,control,2021-04,74616
+359550,Tom Clancy's Rainbow Six Siege,control,2021-05,58274
+359550,Tom Clancy's Rainbow Six Siege,control,2021-06,54961
+359550,Tom Clancy's Rainbow Six Siege,control,2021-07,53474
+359550,Tom Clancy's Rainbow Six Siege,control,2021-08,49906
+359550,Tom Clancy's Rainbow Six Siege,control,2021-09,51140
+359550,Tom Clancy's Rainbow Six Siege,control,2021-10,43016
+359550,Tom Clancy's Rainbow Six Siege,control,2021-11,37858
+359550,Tom Clancy's Rainbow Six Siege,control,2021-12,43674
+359550,Tom Clancy's Rainbow Six Siege,control,2022-01,44993
+359550,Tom Clancy's Rainbow Six Siege,control,2022-02,43867
+359550,Tom Clancy's Rainbow Six Siege,control,2022-03,46746
+359550,Tom Clancy's Rainbow Six Siege,control,2022-04,45091
+359550,Tom Clancy's Rainbow Six Siege,control,2022-05,36860
+359550,Tom Clancy's Rainbow Six Siege,control,2022-06,38631
+359550,Tom Clancy's Rainbow Six Siege,control,2022-07,39181
+359550,Tom Clancy's Rainbow Six Siege,control,2022-08,34982
+359550,Tom Clancy's Rainbow Six Siege,control,2022-09,34852
+359550,Tom Clancy's Rainbow Six Siege,control,2022-10,28261
+359550,Tom Clancy's Rainbow Six Siege,control,2022-11,23470
+359550,Tom Clancy's Rainbow Six Siege,control,2022-12,38917
+359550,Tom Clancy's Rainbow Six Siege,control,2023-01,43693
+359550,Tom Clancy's Rainbow Six Siege,control,2023-02,41644
+359550,Tom Clancy's Rainbow Six Siege,control,2023-03,49957
+359550,Tom Clancy's Rainbow Six Siege,control,2023-04,45695
+359550,Tom Clancy's Rainbow Six Siege,control,2023-05,40342
+359550,Tom Clancy's Rainbow Six Siege,control,2023-06,45375
+359550,Tom Clancy's Rainbow Six Siege,control,2023-07,49432
+359550,Tom Clancy's Rainbow Six Siege,control,2023-08,51906
+359550,Tom Clancy's Rainbow Six Siege,control,2023-09,58768
+359550,Tom Clancy's Rainbow Six Siege,control,2023-10,52084
+359550,Tom Clancy's Rainbow Six Siege,control,2023-11,36815
+359550,Tom Clancy's Rainbow Six Siege,control,2023-12,42056
+359550,Tom Clancy's Rainbow Six Siege,control,2024-01,50275
+359550,Tom Clancy's Rainbow Six Siege,control,2024-02,57569
+359550,Tom Clancy's Rainbow Six Siege,control,2024-03,105825
+359550,Tom Clancy's Rainbow Six Siege,control,2024-04,91493
+359550,Tom Clancy's Rainbow Six Siege,control,2024-05,60581
+359550,Tom Clancy's Rainbow Six Siege,control,2024-06,57865
+359550,Tom Clancy's Rainbow Six Siege,control,2024-07,52113
+359550,Tom Clancy's Rainbow Six Siege,control,2024-08,50272
+359550,Tom Clancy's Rainbow Six Siege,control,2024-09,51447
+359550,Tom Clancy's Rainbow Six Siege,control,2024-10,44415
+359550,Tom Clancy's Rainbow Six Siege,control,2024-11,35764
+359550,Tom Clancy's Rainbow Six Siege,control,2024-12,47518
+359550,Tom Clancy's Rainbow Six Siege,control,2025-01,56016
+359550,Tom Clancy's Rainbow Six Siege,control,2025-02,60259
+359550,Tom Clancy's Rainbow Six Siege,control,2025-03,80495
+359550,Tom Clancy's Rainbow Six Siege,control,2025-04,62010
+359550,Tom Clancy's Rainbow Six Siege,control,2025-05,51085
+359550,Tom Clancy's Rainbow Six Siege,control,2025-06,80447
+359550,Tom Clancy's Rainbow Six Siege,control,2025-07,74145
+359550,Tom Clancy's Rainbow Six Siege,control,2025-08,61650
+359550,Tom Clancy's Rainbow Six Siege,control,2025-09,51339
+359550,Tom Clancy's Rainbow Six Siege,control,2025-10,35219
+359550,Tom Clancy's Rainbow Six Siege,control,2025-11,31877
+359550,Tom Clancy's Rainbow Six Siege,control,2025-12,39975
+359550,Tom Clancy's Rainbow Six Siege,control,2026-01,46733
+359550,Tom Clancy's Rainbow Six Siege,control,2026-02,54004
+359550,Tom Clancy's Rainbow Six Siege,control,2026-03,72777
+359550,Tom Clancy's Rainbow Six Siege,control,2026-04,64170
+359550,Tom Clancy's Rainbow Six Siege,control,2026-05,60338
+359550,Tom Clancy's Rainbow Six Siege,control,2026-06,62505
+359550,Tom Clancy's Rainbow Six Siege,control,2026-07,51291
+359550,Tom Clancy's Rainbow Six Siege,control,2026-08,60595
+359550,Tom Clancy's Rainbow Six Siege,control,2026-09,64717
+359550,Tom Clancy's Rainbow Six Siege,control,2026-10,55173
+105600,Terraria,control,2014-01,10850
+105600,Terraria,control,2014-02,8396
+105600,Terraria,control,2014-03,7214
+105600,Terraria,control,2014-04,6439
+105600,Terraria,control,2014-05,11116
+105600,Terraria,control,2014-06,13705
+105600,Terraria,control,2014-07,14023
+105600,Terraria,control,2014-08,9492
+105600,Terraria,control,2014-09,10025
+105600,Terraria,control,2014-10,9051
+105600,Terraria,control,2014-11,8609
+105600,Terraria,control,2014-12,13613
+105600,Terraria,control,2015-01,12345
+105600,Terraria,control,2015-02,9486
+105600,Terraria,control,2015-03,8187
+105600,Terraria,control,2015-04,8056
+105600,Terraria,control,2015-05,8558
+105600,Terraria,control,2015-06,13181
+105600,Terraria,control,2015-07,72133
+105600,Terraria,control,2015-08,29183
+105600,Terraria,control,2015-09,17667
+105600,Terraria,control,2015-10,15566
+105600,Terraria,control,2015-11,14109
+105600,Terraria,control,2015-12,19534
+105600,Terraria,control,2016-01,20925
+105600,Terraria,control,2016-02,15533
+105600,Terraria,control,2016-03,14526
+105600,Terraria,control,2016-04,13951
+105600,Terraria,control,2016-05,14718
+105600,Terraria,control,2016-06,18809
+105600,Terraria,control,2016-07,19814
+105600,Terraria,control,2016-08,15090
+105600,Terraria,control,2016-09,12760
+105600,Terraria,control,2016-10,13365
+105600,Terraria,control,2016-11,17145
+105600,Terraria,control,2016-12,19315
+105600,Terraria,control,2017-01,19425
+105600,Terraria,control,2017-02,16403
+105600,Terraria,control,2017-03,14952
+105600,Terraria,control,2017-04,16998
+105600,Terraria,control,2017-05,17108
+105600,Terraria,control,2017-06,19605
+105600,Terraria,control,2017-07,23413
+105600,Terraria,control,2017-08,19588
+105600,Terraria,control,2017-09,16289
+105600,Terraria,control,2017-10,16273
+105600,Terraria,control,2017-11,16631
+105600,Terraria,control,2017-12,19586
+105600,Terraria,control,2018-01,20688
+105600,Terraria,control,2018-02,18467
+105600,Terraria,control,2018-03,17884
+105600,Terraria,control,2018-04,17992
+105600,Terraria,control,2018-05,17942
+105600,Terraria,control,2018-06,20082
+105600,Terraria,control,2018-07,23080
+105600,Terraria,control,2018-08,17935
+105600,Terraria,control,2018-09,14685
+105600,Terraria,control,2018-10,14899
+105600,Terraria,control,2018-11,15636
+105600,Terraria,control,2018-12,17776
+105600,Terraria,control,2019-01,24649
+105600,Terraria,control,2019-02,20350
+105600,Terraria,control,2019-03,17475
+105600,Terraria,control,2019-04,19761
+105600,Terraria,control,2019-05,20161
+105600,Terraria,control,2019-06,24025
+105600,Terraria,control,2019-07,25908
+105600,Terraria,control,2019-08,20442
+105600,Terraria,control,2019-09,15974
+105600,Terraria,control,2019-10,15149
+105600,Terraria,control,2019-11,21011
+105600,Terraria,control,2019-12,35587
+105600,Terraria,control,2020-01,29514
+105600,Terraria,control,2020-02,27811
+105600,Terraria,control,2020-03,30994
+105600,Terraria,control,2020-04,51315
+105600,Terraria,control,2020-05,129809
+105600,Terraria,control,2020-06,75804
+105600,Terraria,control,2020-07,40829
+105600,Terraria,control,2020-08,28648
+105600,Terraria,control,2020-09,21643
+105600,Terraria,control,2020-10,26825
+105600,Terraria,control,2020-11,30766
+105600,Terraria,control,2020-12,28858
+105600,Terraria,control,2021-01,34045
+105600,Terraria,control,2021-02,37536
+105600,Terraria,control,2021-03,29779
+105600,Terraria,control,2021-04,27999
+105600,Terraria,control,2021-05,33020
+105600,Terraria,control,2021-06,31688
+105600,Terraria,control,2021-07,31091
+105600,Terraria,control,2021-08,30195
+105600,Terraria,control,2021-09,25234
+105600,Terraria,control,2021-10,28708
+105600,Terraria,control,2021-11,38331
+105600,Terraria,control,2021-12,38409
+105600,Terraria,control,2022-01,40141
+105600,Terraria,control,2022-02,33404
+105600,Terraria,control,2022-03,27627
+105600,Terraria,control,2022-04,26657
+105600,Terraria,control,2022-05,28125
+105600,Terraria,control,2022-06,30834
+105600,Terraria,control,2022-07,35823
+105600,Terraria,control,2022-08,29415
+105600,Terraria,control,2022-09,25440
+105600,Terraria,control,2022-10,60799
+105600,Terraria,control,2022-11,40035
+105600,Terraria,control,2022-12,36543
+105600,Terraria,control,2023-01,39419
+105600,Terraria,control,2023-02,31996
+105600,Terraria,control,2023-03,32413
+105600,Terraria,control,2023-04,34804
+105600,Terraria,control,2023-05,29883
+105600,Terraria,control,2023-06,32016
+105600,Terraria,control,2023-07,45505
+105600,Terraria,control,2023-08,35811
+105600,Terraria,control,2023-09,31761
+105600,Terraria,control,2023-10,33173
+105600,Terraria,control,2023-11,30234
+105600,Terraria,control,2023-12,30291
+105600,Terraria,control,2024-01,32927
+105600,Terraria,control,2024-02,25216
+105600,Terraria,control,2024-03,26285
+105600,Terraria,control,2024-04,27617
+105600,Terraria,control,2024-05,24491
+105600,Terraria,control,2024-06,29747
+105600,Terraria,control,2024-07,31317
+105600,Terraria,control,2024-08,26699
+105600,Terraria,control,2024-09,22638
+105600,Terraria,control,2024-10,22680
+105600,Terraria,control,2024-11,22429
+105600,Terraria,control,2024-12,28797
+105600,Terraria,control,2025-01,29152
+105600,Terraria,control,2025-02,26794
+105600,Terraria,control,2025-03,28334
+105600,Terraria,control,2025-04,26046
+105600,Terraria,control,2025-05,25858
+105600,Terraria,control,2025-06,26254
+105600,Terraria,control,2025-07,30418
+105600,Terraria,control,2025-08,25977
+105600,Terraria,control,2025-09,18786
+105600,Terraria,control,2025-10,23014
+105600,Terraria,control,2025-11,22254
+105600,Terraria,control,2025-12,25807
+105600,Terraria,control,2026-01,48683
+105600,Terraria,control,2026-02,102250
+105600,Terraria,control,2026-03,44844
+105600,Terraria,control,2026-04,27434
+105600,Terraria,control,2026-05,24674
+105600,Terraria,control,2026-06,26828
+105600,Terraria,control,2026-07,30870
+105600,Terraria,control,2026-08,36620
+105600,Terraria,control,2026-09,37115
+105600,Terraria,control,2026-10,31421
+4000,Garry's Mod,control,2014-01,28319
+4000,Garry's Mod,control,2014-02,25494
+4000,Garry's Mod,control,2014-03,23922
+4000,Garry's Mod,control,2014-04,25564
+4000,Garry's Mod,control,2014-05,24558
+4000,Garry's Mod,control,2014-06,31239
+4000,Garry's Mod,control,2014-07,35001
+4000,Garry's Mod,control,2014-08,34338
+4000,Garry's Mod,control,2014-09,26252
+4000,Garry's Mod,control,2014-10,26057
+4000,Garry's Mod,control,2014-11,26911
+4000,Garry's Mod,control,2014-12,32034
+4000,Garry's Mod,control,2015-01,36143
+4000,Garry's Mod,control,2015-02,34120
+4000,Garry's Mod,control,2015-03,30298
+4000,Garry's Mod,control,2015-04,29433
+4000,Garry's Mod,control,2015-05,27762
+4000,Garry's Mod,control,2015-06,31106
+4000,Garry's Mod,control,2015-07,34008
+4000,Garry's Mod,control,2015-08,36007
+4000,Garry's Mod,control,2015-09,25602
+4000,Garry's Mod,control,2015-10,25704
+4000,Garry's Mod,control,2015-11,26362
+4000,Garry's Mod,control,2015-12,32257
+4000,Garry's Mod,control,2016-01,37433
+4000,Garry's Mod,control,2016-02,34290
+4000,Garry's Mod,control,2016-03,30958
+4000,Garry's Mod,control,2016-04,30770
+4000,Garry's Mod,control,2016-05,29272
+4000,Garry's Mod,control,2016-06,34747
+4000,Garry's Mod,control,2016-07,38341
+4000,Garry's Mod,control,2016-08,36245
+4000,Garry's Mod,control,2016-09,26078
+4000,Garry's Mod,control,2016-10,26279
+4000,Garry's Mod,control,2016-11,26868
+4000,Garry's Mod,control,2016-12,31132
+4000,Garry's Mod,control,2017-01,34615
+4000,Garry's Mod,control,2017-02,31924
+4000,Garry's Mod,control,2017-03,28482
+4000,Garry's Mod,control,2017-04,30715
+4000,Garry's Mod,control,2017-05,27900
+4000,Garry's Mod,control,2017-06,32517
+4000,Garry's Mod,control,2017-07,34958
+4000,Garry's Mod,control,2017-08,34217
+4000,Garry's Mod,control,2017-09,26094
+4000,Garry's Mod,control,2017-10,25844
+4000,Garry's Mod,control,2017-11,26035
+4000,Garry's Mod,control,2017-12,28716
+4000,Garry's Mod,control,2018-01,31755
+4000,Garry's Mod,control,2018-02,28613
+4000,Garry's Mod,control,2018-03,26730
+4000,Garry's Mod,control,2018-04,25247
+4000,Garry's Mod,control,2018-05,24846
+4000,Garry's Mod,control,2018-06,30092
+4000,Garry's Mod,control,2018-07,34370
+4000,Garry's Mod,control,2018-08,31232
+4000,Garry's Mod,control,2018-09,22735
+4000,Garry's Mod,control,2018-10,22775
+4000,Garry's Mod,control,2018-11,24461
+4000,Garry's Mod,control,2018-12,25707
+4000,Garry's Mod,control,2019-01,29084
+4000,Garry's Mod,control,2019-02,26412
+4000,Garry's Mod,control,2019-03,25679
+4000,Garry's Mod,control,2019-04,25250
+4000,Garry's Mod,control,2019-05,24490
+4000,Garry's Mod,control,2019-06,29241
+4000,Garry's Mod,control,2019-07,30954
+4000,Garry's Mod,control,2019-08,27440
+4000,Garry's Mod,control,2019-09,21126
+4000,Garry's Mod,control,2019-10,20281
+4000,Garry's Mod,control,2019-11,21534
+4000,Garry's Mod,control,2019-12,24261
+4000,Garry's Mod,control,2020-01,26582
+4000,Garry's Mod,control,2020-02,24805
+4000,Garry's Mod,control,2020-03,32021
+4000,Garry's Mod,control,2020-04,38759
+4000,Garry's Mod,control,2020-05,31975
+4000,Garry's Mod,control,2020-06,29115
+4000,Garry's Mod,control,2020-07,29239
+4000,Garry's Mod,control,2020-08,28184
+4000,Garry's Mod,control,2020-09,22397
+4000,Garry's Mod,control,2020-10,22775
+4000,Garry's Mod,control,2020-11,24014
+4000,Garry's Mod,control,2020-12,24363
+4000,Garry's Mod,control,2021-01,28054
+4000,Garry's Mod,control,2021-02,27741
+4000,Garry's Mod,control,2021-03,25020
+4000,Garry's Mod,control,2021-04,25108
+4000,Garry's Mod,control,2021-05,24382
+4000,Garry's Mod,control,2021-06,25078
+4000,Garry's Mod,control,2021-07,27565
+4000,Garry's Mod,control,2021-08,27400
+4000,Garry's Mod,control,2021-09,21523
+4000,Garry's Mod,control,2021-10,22090
+4000,Garry's Mod,control,2021-11,21959
+4000,Garry's Mod,control,2021-12,22330
+4000,Garry's Mod,control,2022-01,26380
+4000,Garry's Mod,control,2022-02,25214
+4000,Garry's Mod,control,2022-03,22273
+4000,Garry's Mod,control,2022-04,22740
+4000,Garry's Mod,control,2022-05,23004
+4000,Garry's Mod,control,2022-06,26815
+4000,Garry's Mod,control,2022-07,29233
+4000,Garry's Mod,control,2022-08,28860
+4000,Garry's Mod,control,2022-09,22778
+4000,Garry's Mod,control,2022-10,22045
+4000,Garry's Mod,control,2022-11,21943
+4000,Garry's Mod,control,2022-12,23117
+4000,Garry's Mod,control,2023-01,25203
+4000,Garry's Mod,control,2023-02,22896
+4000,Garry's Mod,control,2023-03,21402
+4000,Garry's Mod,control,2023-04,21872
+4000,Garry's Mod,control,2023-05,21574
+4000,Garry's Mod,control,2023-06,24009
+4000,Garry's Mod,control,2023-07,26702
+4000,Garry's Mod,control,2023-08,23971
+4000,Garry's Mod,control,2023-09,18931
+4000,Garry's Mod,control,2023-10,18679
+4000,Garry's Mod,control,2023-11,18961
+4000,Garry's Mod,control,2023-12,19788
+4000,Garry's Mod,control,2024-01,22024
+4000,Garry's Mod,control,2024-02,20327
+4000,Garry's Mod,control,2024-03,21563
+4000,Garry's Mod,control,2024-04,19647
+4000,Garry's Mod,control,2024-05,20076
+4000,Garry's Mod,control,2024-06,21106
+4000,Garry's Mod,control,2024-07,23521
+4000,Garry's Mod,control,2024-08,23125
+4000,Garry's Mod,control,2024-09,18417
+4000,Garry's Mod,control,2024-10,17898
+4000,Garry's Mod,control,2024-11,19298
+4000,Garry's Mod,control,2024-12,19658
+4000,Garry's Mod,control,2025-01,22177
+4000,Garry's Mod,control,2025-02,20435
+4000,Garry's Mod,control,2025-03,18988
+4000,Garry's Mod,control,2025-04,18248
+4000,Garry's Mod,control,2025-05,18719
+4000,Garry's Mod,control,2025-06,20165
+4000,Garry's Mod,control,2025-07,21392
+4000,Garry's Mod,control,2025-08,21050
+4000,Garry's Mod,control,2025-09,17403
+4000,Garry's Mod,control,2025-10,18195
+4000,Garry's Mod,control,2025-11,18496
+4000,Garry's Mod,control,2025-12,19596
+4000,Garry's Mod,control,2026-01,22583
+4000,Garry's Mod,control,2026-02,21888
+4000,Garry's Mod,control,2026-03,20984
+4000,Garry's Mod,control,2026-04,21020
+4000,Garry's Mod,control,2026-05,22051
+4000,Garry's Mod,control,2026-06,23127
+4000,Garry's Mod,control,2026-07,24845
+4000,Garry's Mod,control,2026-08,25476
+4000,Garry's Mod,control,2026-09,21235
+4000,Garry's Mod,control,2026-10,22382
+218620,PAYDAY 2,control,2014-01,7091
+218620,PAYDAY 2,control,2014-02,4934
+218620,PAYDAY 2,control,2014-03,9972
+218620,PAYDAY 2,control,2014-04,7486
+218620,PAYDAY 2,control,2014-05,6271
+218620,PAYDAY 2,control,2014-06,19795
+218620,PAYDAY 2,control,2014-07,23715
+218620,PAYDAY 2,control,2014-08,13578
+218620,PAYDAY 2,control,2014-09,9857
+218620,PAYDAY 2,control,2014-10,22766
+218620,PAYDAY 2,control,2014-11,19788
+218620,PAYDAY 2,control,2014-12,15913
+218620,PAYDAY 2,control,2015-01,14175
+218620,PAYDAY 2,control,2015-02,8798
+218620,PAYDAY 2,control,2015-03,27031
+218620,PAYDAY 2,control,2015-04,11518
+218620,PAYDAY 2,control,2015-05,7879
+218620,PAYDAY 2,control,2015-06,13673
+218620,PAYDAY 2,control,2015-07,12318
+218620,PAYDAY 2,control,2015-08,16450
+218620,PAYDAY 2,control,2015-09,11898
+218620,PAYDAY 2,control,2015-10,17047
+218620,PAYDAY 2,control,2015-11,13661
+218620,PAYDAY 2,control,2015-12,13089
+218620,PAYDAY 2,control,2016-01,15848
+218620,PAYDAY 2,control,2016-02,11371
+218620,PAYDAY 2,control,2016-03,11656
+218620,PAYDAY 2,control,2016-04,11197
+218620,PAYDAY 2,control,2016-05,7087
+218620,PAYDAY 2,control,2016-06,14852
+218620,PAYDAY 2,control,2016-07,14500
+218620,PAYDAY 2,control,2016-08,8364
+218620,PAYDAY 2,control,2016-09,7841
+218620,PAYDAY 2,control,2016-10,14543
+218620,PAYDAY 2,control,2016-11,10629
+218620,PAYDAY 2,control,2016-12,9658
+218620,PAYDAY 2,control,2017-01,9812
+218620,PAYDAY 2,control,2017-02,10786
+218620,PAYDAY 2,control,2017-03,7165
+218620,PAYDAY 2,control,2017-04,16206
+218620,PAYDAY 2,control,2017-05,8959
+218620,PAYDAY 2,control,2017-06,80780
+218620,PAYDAY 2,control,2017-07,55126
+218620,PAYDAY 2,control,2017-08,41585
+218620,PAYDAY 2,control,2017-09,36370
+218620,PAYDAY 2,control,2017-10,43219
+218620,PAYDAY 2,control,2017-11,37052
+218620,PAYDAY 2,control,2017-12,36786
+218620,PAYDAY 2,control,2018-01,32811
+218620,PAYDAY 2,control,2018-02,33035
+218620,PAYDAY 2,control,2018-03,31803
+218620,PAYDAY 2,control,2018-04,28490
+218620,PAYDAY 2,control,2018-05,26969
+218620,PAYDAY 2,control,2018-06,25880
+218620,PAYDAY 2,control,2018-07,23876
+218620,PAYDAY 2,control,2018-08,16015
+218620,PAYDAY 2,control,2018-09,12399
+218620,PAYDAY 2,control,2018-10,12563
+218620,PAYDAY 2,control,2018-11,14516
+218620,PAYDAY 2,control,2018-12,13910
+218620,PAYDAY 2,control,2019-01,9557
+218620,PAYDAY 2,control,2019-02,8545
+218620,PAYDAY 2,control,2019-03,7694
+218620,PAYDAY 2,control,2019-04,7923
+218620,PAYDAY 2,control,2019-05,9290
+218620,PAYDAY 2,control,2019-06,9656
+218620,PAYDAY 2,control,2019-07,14420
+218620,PAYDAY 2,control,2019-08,10992
+218620,PAYDAY 2,control,2019-09,9533
+218620,PAYDAY 2,control,2019-10,11366
+218620,PAYDAY 2,control,2019-11,28521
+218620,PAYDAY 2,control,2019-12,24293
+218620,PAYDAY 2,control,2020-01,20294
+218620,PAYDAY 2,control,2020-02,18555
+218620,PAYDAY 2,control,2020-03,21028
+218620,PAYDAY 2,control,2020-04,25320
+218620,PAYDAY 2,control,2020-05,35338
+218620,PAYDAY 2,control,2020-06,29398
+218620,PAYDAY 2,control,2020-07,30650
+218620,PAYDAY 2,control,2020-08,31719
+218620,PAYDAY 2,control,2020-09,28496
+218620,PAYDAY 2,control,2020-10,29747
+218620,PAYDAY 2,control,2020-11,32000
+218620,PAYDAY 2,control,2020-12,30043
+218620,PAYDAY 2,control,2021-01,29201
+218620,PAYDAY 2,control,2021-02,26165
+218620,PAYDAY 2,control,2021-03,24567
+218620,PAYDAY 2,control,2021-04,31244
+218620,PAYDAY 2,control,2021-05,34764
+218620,PAYDAY 2,control,2021-06,31605
+218620,PAYDAY 2,control,2021-07,29437
+218620,PAYDAY 2,control,2021-08,29814
+218620,PAYDAY 2,control,2021-09,29239
+218620,PAYDAY 2,control,2021-10,30468
+218620,PAYDAY 2,control,2021-11,29146
+218620,PAYDAY 2,control,2021-12,33279
+218620,PAYDAY 2,control,2022-01,34707
+218620,PAYDAY 2,control,2022-02,30200
+218620,PAYDAY 2,control,2022-03,30611
+218620,PAYDAY 2,control,2022-04,29902
+218620,PAYDAY 2,control,2022-05,30696
+218620,PAYDAY 2,control,2022-06,31587
+218620,PAYDAY 2,control,2022-07,38785
+218620,PAYDAY 2,control,2022-08,36194
+218620,PAYDAY 2,control,2022-09,35317
+218620,PAYDAY 2,control,2022-10,32643
+218620,PAYDAY 2,control,2022-11,30402
+218620,PAYDAY 2,control,2022-12,32952
+218620,PAYDAY 2,control,2023-01,38202
+218620,PAYDAY 2,control,2023-02,34704
+218620,PAYDAY 2,control,2023-03,32057
+218620,PAYDAY 2,control,2023-04,26740
+218620,PAYDAY 2,control,2023-05,15226
+218620,PAYDAY 2,control,2023-06,21547
+218620,PAYDAY 2,control,2023-07,30477
+218620,PAYDAY 2,control,2023-08,29462
+218620,PAYDAY 2,control,2023-09,28358
+218620,PAYDAY 2,control,2023-10,25633
+218620,PAYDAY 2,control,2023-11,26466
+218620,PAYDAY 2,control,2023-12,26042
+218620,PAYDAY 2,control,2024-01,26256
+218620,PAYDAY 2,control,2024-02,23448
+218620,PAYDAY 2,control,2024-03,22456
+218620,PAYDAY 2,control,2024-04,23546
+218620,PAYDAY 2,control,2024-05,23213
+218620,PAYDAY 2,control,2024-06,21531
+218620,PAYDAY 2,control,2024-07,18161
+218620,PAYDAY 2,control,2024-08,15509
+218620,PAYDAY 2,control,2024-09,12232
+218620,PAYDAY 2,control,2024-10,11023
+218620,PAYDAY 2,control,2024-11,14266
+218620,PAYDAY 2,control,2024-12,27208
+218620,PAYDAY 2,control,2025-01,24914
+218620,PAYDAY 2,control,2025-02,10921
+218620,PAYDAY 2,control,2025-03,13215
+218620,PAYDAY 2,control,2025-04,18625
+218620,PAYDAY 2,control,2025-05,20121
+218620,PAYDAY 2,control,2025-06,27780
+218620,PAYDAY 2,control,2025-07,25988
+218620,PAYDAY 2,control,2025-08,27056
+218620,PAYDAY 2,control,2025-09,24577
+218620,PAYDAY 2,control,2025-10,23164
+218620,PAYDAY 2,control,2025-11,20488
+218620,PAYDAY 2,control,2025-12,25405
+218620,PAYDAY 2,control,2026-01,23509
+218620,PAYDAY 2,control,2026-02,23459
+218620,PAYDAY 2,control,2026-03,21317
+218620,PAYDAY 2,control,2026-04,19382
+218620,PAYDAY 2,control,2026-05,27379
+218620,PAYDAY 2,control,2026-06,28812
+218620,PAYDAY 2,control,2026-07,30014
+218620,PAYDAY 2,control,2026-08,29043
+218620,PAYDAY 2,control,2026-09,29224
+218620,PAYDAY 2,control,2026-10,22462
+304930,Unturned,control,2014-06,4
+304930,Unturned,control,2014-07,30794
+304930,Unturned,control,2014-08,29360
+304930,Unturned,control,2014-09,12943
+304930,Unturned,control,2014-10,8911
+304930,Unturned,control,2014-11,7703
+304930,Unturned,control,2014-12,8439
+304930,Unturned,control,2015-01,8445
+304930,Unturned,control,2015-02,9410
+304930,Unturned,control,2015-03,8391
+304930,Unturned,control,2015-04,10288
+304930,Unturned,control,2015-05,10250
+304930,Unturned,control,2015-06,12163
+304930,Unturned,control,2015-07,17320
+304930,Unturned,control,2015-08,19973
+304930,Unturned,control,2015-09,16831
+304930,Unturned,control,2015-10,18497
+304930,Unturned,control,2015-11,14897
+304930,Unturned,control,2015-12,17261
+304930,Unturned,control,2016-01,18849
+304930,Unturned,control,2016-02,20994
+304930,Unturned,control,2016-03,19477
+304930,Unturned,control,2016-04,16950
+304930,Unturned,control,2016-05,16190
+304930,Unturned,control,2016-06,24151
+304930,Unturned,control,2016-07,28739
+304930,Unturned,control,2016-08,34208
+304930,Unturned,control,2016-09,23953
+304930,Unturned,control,2016-10,22850
+304930,Unturned,control,2016-11,20552
+304930,Unturned,control,2016-12,20267
+304930,Unturned,control,2017-01,21131
+304930,Unturned,control,2017-02,22151
+304930,Unturned,control,2017-03,18118
+304930,Unturned,control,2017-04,18285
+304930,Unturned,control,2017-05,16884
+304930,Unturned,control,2017-06,18580
+304930,Unturned,control,2017-07,23564
+304930,Unturned,control,2017-08,20882
+304930,Unturned,control,2017-09,15009
+304930,Unturned,control,2017-10,14994
+304930,Unturned,control,2017-11,14844
+304930,Unturned,control,2017-12,16845
+304930,Unturned,control,2018-01,16357
+304930,Unturned,control,2018-02,13553
+304930,Unturned,control,2018-03,12030
+304930,Unturned,control,2018-04,10579
+304930,Unturned,control,2018-05,10608
+304930,Unturned,control,2018-06,13919
+304930,Unturned,control,2018-07,14666
+304930,Unturned,control,2018-08,14581
+304930,Unturned,control,2018-09,11807
+304930,Unturned,control,2018-10,11582
+304930,Unturned,control,2018-11,14150
+304930,Unturned,control,2018-12,18163
+304930,Unturned,control,2019-01,22615
+304930,Unturned,control,2019-02,16353
+304930,Unturned,control,2019-03,11245
+304930,Unturned,control,2019-04,11236
+304930,Unturned,control,2019-05,10848
+304930,Unturned,control,2019-06,12093
+304930,Unturned,control,2019-07,15078
+304930,Unturned,control,2019-08,13562
+304930,Unturned,control,2019-09,12057
+304930,Unturned,control,2019-10,15674
+304930,Unturned,control,2019-11,17315
+304930,Unturned,control,2019-12,17096
+304930,Unturned,control,2020-01,17665
+304930,Unturned,control,2020-02,19753
+304930,Unturned,control,2020-03,23799
+304930,Unturned,control,2020-04,28732
+304930,Unturned,control,2020-05,21835
+304930,Unturned,control,2020-06,22065
+304930,Unturned,control,2020-07,17625
+304930,Unturned,control,2020-08,19722
+304930,Unturned,control,2020-09,17821
+304930,Unturned,control,2020-10,22262
+304930,Unturned,control,2020-11,20003
+304930,Unturned,control,2020-12,19186
+304930,Unturned,control,2021-01,22042
+304930,Unturned,control,2021-02,23556
+304930,Unturned,control,2021-03,22049
+304930,Unturned,control,2021-04,21951
+304930,Unturned,control,2021-05,23485
+304930,Unturned,control,2021-06,23864
+304930,Unturned,control,2021-07,25062
+304930,Unturned,control,2021-08,25134
+304930,Unturned,control,2021-09,24874
+304930,Unturned,control,2021-10,24531
+304930,Unturned,control,2021-11,28612
+304930,Unturned,control,2021-12,33182
+304930,Unturned,control,2022-01,36861
+304930,Unturned,control,2022-02,32418
+304930,Unturned,control,2022-03,31219
+304930,Unturned,control,2022-04,34099
+304930,Unturned,control,2022-05,32311
+304930,Unturned,control,2022-06,32857
+304930,Unturned,control,2022-07,31769
+304930,Unturned,control,2022-08,30502
+304930,Unturned,control,2022-09,25740
+304930,Unturned,control,2022-10,52564
+304930,Unturned,control,2022-11,53144
+304930,Unturned,control,2022-12,54282
+304930,Unturned,control,2023-01,66898
+304930,Unturned,control,2023-02,61188
+304930,Unturned,control,2023-03,53302
+304930,Unturned,control,2023-04,54913
+304930,Unturned,control,2023-05,57954
+304930,Unturned,control,2023-06,55537
+304930,Unturned,control,2023-07,61813
+304930,Unturned,control,2023-08,58437
+304930,Unturned,control,2023-09,54236
+304930,Unturned,control,2023-10,49477
+304930,Unturned,control,2023-11,51397
+304930,Unturned,control,2023-12,48189
+304930,Unturned,control,2024-01,52386
+304930,Unturned,control,2024-02,51701
+304930,Unturned,control,2024-03,50675
+304930,Unturned,control,2024-04,49411
+304930,Unturned,control,2024-05,52774
+304930,Unturned,control,2024-06,35274
+304930,Unturned,control,2024-07,25142
+304930,Unturned,control,2024-08,24160
+304930,Unturned,control,2024-09,16811
+304930,Unturned,control,2024-10,14712
+304930,Unturned,control,2024-11,14769
+304930,Unturned,control,2024-12,15607
+304930,Unturned,control,2025-01,13725
+304930,Unturned,control,2025-02,14092
+304930,Unturned,control,2025-03,13374
+304930,Unturned,control,2025-04,14702
+304930,Unturned,control,2025-05,13763
+304930,Unturned,control,2025-06,12007
+304930,Unturned,control,2025-07,11929
+304930,Unturned,control,2025-08,10665
+304930,Unturned,control,2025-09,10062
+304930,Unturned,control,2025-10,11014
+304930,Unturned,control,2025-11,10617
+304930,Unturned,control,2025-12,10255
+304930,Unturned,control,2026-01,9963
+304930,Unturned,control,2026-02,9431
+304930,Unturned,control,2026-03,8814
+304930,Unturned,control,2026-04,9501
+304930,Unturned,control,2026-05,16295
+304930,Unturned,control,2026-06,12984
+304930,Unturned,control,2026-07,13006
+304930,Unturned,control,2026-08,14371
+304930,Unturned,control,2026-09,13032
+304930,Unturned,control,2026-10,11925
+251570,7 Days to Die,control,2014-01,1472
+251570,7 Days to Die,control,2014-02,1831
+251570,7 Days to Die,control,2014-03,2365
+251570,7 Days to Die,control,2014-04,1878
+251570,7 Days to Die,control,2014-05,1735
+251570,7 Days to Die,control,2014-06,2641
+251570,7 Days to Die,control,2014-07,2863
+251570,7 Days to Die,control,2014-08,3933
+251570,7 Days to Die,control,2014-09,4279
+251570,7 Days to Die,control,2014-10,3386
+251570,7 Days to Die,control,2014-11,3972
+251570,7 Days to Die,control,2014-12,6631
+251570,7 Days to Die,control,2015-01,6354
+251570,7 Days to Die,control,2015-02,4043
+251570,7 Days to Die,control,2015-03,3371
+251570,7 Days to Die,control,2015-04,6593
+251570,7 Days to Die,control,2015-05,4750
+251570,7 Days to Die,control,2015-06,4552
+251570,7 Days to Die,control,2015-07,6094
+251570,7 Days to Die,control,2015-08,4733
+251570,7 Days to Die,control,2015-09,3547
+251570,7 Days to Die,control,2015-10,3409
+251570,7 Days to Die,control,2015-11,3311
+251570,7 Days to Die,control,2015-12,6981
+251570,7 Days to Die,control,2016-01,7172
+251570,7 Days to Die,control,2016-02,4994
+251570,7 Days to Die,control,2016-03,4358
+251570,7 Days to Die,control,2016-04,7154
+251570,7 Days to Die,control,2016-05,5269
+251570,7 Days to Die,control,2016-06,5076
+251570,7 Days to Die,control,2016-07,7630
+251570,7 Days to Die,control,2016-08,6365
+251570,7 Days to Die,control,2016-09,6111
+251570,7 Days to Die,control,2016-10,11702
+251570,7 Days to Die,control,2016-11,12005
+251570,7 Days to Die,control,2016-12,12087
+251570,7 Days to Die,control,2017-01,12834
+251570,7 Days to Die,control,2017-02,9622
+251570,7 Days to Die,control,2017-03,11897
+251570,7 Days to Die,control,2017-04,8711
+251570,7 Days to Die,control,2017-05,7753
+251570,7 Days to Die,control,2017-06,10887
+251570,7 Days to Die,control,2017-07,16225
+251570,7 Days to Die,control,2017-08,12328
+251570,7 Days to Die,control,2017-09,9970
+251570,7 Days to Die,control,2017-10,9354
+251570,7 Days to Die,control,2017-11,11022
+251570,7 Days to Die,control,2017-12,10678
+251570,7 Days to Die,control,2018-01,11075
+251570,7 Days to Die,control,2018-02,9298
+251570,7 Days to Die,control,2018-03,8230
+251570,7 Days to Die,control,2018-04,7648
+251570,7 Days to Die,control,2018-05,6789
+251570,7 Days to Die,control,2018-06,6622
+251570,7 Days to Die,control,2018-07,7098
+251570,7 Days to Die,control,2018-08,6094
+251570,7 Days to Die,control,2018-09,5981
+251570,7 Days to Die,control,2018-10,6447
+251570,7 Days to Die,control,2018-11,10161
+251570,7 Days to Die,control,2018-12,13770
+251570,7 Days to Die,control,2019-01,13387
+251570,7 Days to Die,control,2019-02,9413
+251570,7 Days to Die,control,2019-03,8287
+251570,7 Days to Die,control,2019-04,7145
+251570,7 Days to Die,control,2019-05,7477
+251570,7 Days to Die,control,2019-06,8362
+251570,7 Days to Die,control,2019-07,9028
+251570,7 Days to Die,control,2019-08,7992
+251570,7 Days to Die,control,2019-09,6853
+251570,7 Days to Die,control,2019-10,13727
+251570,7 Days to Die,control,2019-11,19323
+251570,7 Days to Die,control,2019-12,16400
+251570,7 Days to Die,control,2020-01,16551
+251570,7 Days to Die,control,2020-02,16952
+251570,7 Days to Die,control,2020-03,18107
+251570,7 Days to Die,control,2020-04,18270
+251570,7 Days to Die,control,2020-05,16814
+251570,7 Days to Die,control,2020-06,13120
+251570,7 Days to Die,control,2020-07,24238
+251570,7 Days to Die,control,2020-08,20728
+251570,7 Days to Die,control,2020-09,21014
+251570,7 Days to Die,control,2020-10,17916
+251570,7 Days to Die,control,2020-11,23322
+251570,7 Days to Die,control,2020-12,21442
+251570,7 Days to Die,control,2021-01,25367
+251570,7 Days to Die,control,2021-02,20528
+251570,7 Days to Die,control,2021-03,16245
+251570,7 Days to Die,control,2021-04,19251
+251570,7 Days to Die,control,2021-05,20462
+251570,7 Days to Die,control,2021-06,18996
+251570,7 Days to Die,control,2021-07,19238
+251570,7 Days to Die,control,2021-08,19302
+251570,7 Days to Die,control,2021-09,18453
+251570,7 Days to Die,control,2021-10,15403
+251570,7 Days to Die,control,2021-11,17950
+251570,7 Days to Die,control,2021-12,36753
+251570,7 Days to Die,control,2022-01,40065
+251570,7 Days to Die,control,2022-02,28664
+251570,7 Days to Die,control,2022-03,21299
+251570,7 Days to Die,control,2022-04,26030
+251570,7 Days to Die,control,2022-05,22727
+251570,7 Days to Die,control,2022-06,19841
+251570,7 Days to Die,control,2022-07,21341
+251570,7 Days to Die,control,2022-08,23951
+251570,7 Days to Die,control,2022-09,20987
+251570,7 Days to Die,control,2022-10,21170
+251570,7 Days to Die,control,2022-11,23852
+251570,7 Days to Die,control,2022-12,23620
+251570,7 Days to Die,control,2023-01,28058
+251570,7 Days to Die,control,2023-02,23122
+251570,7 Days to Die,control,2023-03,21733
+251570,7 Days to Die,control,2023-04,20990
+251570,7 Days to Die,control,2023-05,18594
+251570,7 Days to Die,control,2023-06,32506
+251570,7 Days to Die,control,2023-07,53997
+251570,7 Days to Die,control,2023-08,34593
+251570,7 Days to Die,control,2023-09,25136
+251570,7 Days to Die,control,2023-10,26086
+251570,7 Days to Die,control,2023-11,31591
+251570,7 Days to Die,control,2023-12,28884
+251570,7 Days to Die,control,2024-01,29884
+251570,7 Days to Die,control,2024-02,22707
+251570,7 Days to Die,control,2024-03,23397
+251570,7 Days to Die,control,2024-04,27265
+251570,7 Days to Die,control,2024-05,34659
+251570,7 Days to Die,control,2024-06,32032
+251570,7 Days to Die,control,2024-07,53782
+251570,7 Days to Die,control,2024-08,58564
+251570,7 Days to Die,control,2024-09,34700
+251570,7 Days to Die,control,2024-10,27790
+251570,7 Days to Die,control,2024-11,25235
+251570,7 Days to Die,control,2024-12,24205
+251570,7 Days to Die,control,2025-01,26806
+251570,7 Days to Die,control,2025-02,25107
+251570,7 Days to Die,control,2025-03,25007
+251570,7 Days to Die,control,2025-04,23657
+251570,7 Days to Die,control,2025-05,23818
+251570,7 Days to Die,control,2025-06,30429
+251570,7 Days to Die,control,2025-07,45041
+251570,7 Days to Die,control,2025-08,32469
+251570,7 Days to Die,control,2025-09,25159
+251570,7 Days to Die,control,2025-10,22078
+251570,7 Days to Die,control,2025-11,21389
+251570,7 Days to Die,control,2025-12,24353
+251570,7 Days to Die,control,2026-01,30054
+251570,7 Days to Die,control,2026-02,25323
+251570,7 Days to Die,control,2026-03,21644
+251570,7 Days to Die,control,2026-04,21399
+251570,7 Days to Die,control,2026-05,19581
+251570,7 Days to Die,control,2026-06,25257
+251570,7 Days to Die,control,2026-07,33238
+251570,7 Days to Die,control,2026-08,26977
+251570,7 Days to Die,control,2026-09,23591
+251570,7 Days to Die,control,2026-10,21706
+413150,Stardew Valley,control,2015-12,1
+413150,Stardew Valley,control,2016-01,1
+413150,Stardew Valley,control,2016-02,1595
+413150,Stardew Valley,control,2016-03,34947
+413150,Stardew Valley,control,2016-04,19843
+413150,Stardew Valley,control,2016-05,9654
+413150,Stardew Valley,control,2016-06,7570
+413150,Stardew Valley,control,2016-07,9300
+413150,Stardew Valley,control,2016-08,5508
+413150,Stardew Valley,control,2016-09,4372
+413150,Stardew Valley,control,2016-10,9257
+413150,Stardew Valley,control,2016-11,6879
+413150,Stardew Valley,control,2016-12,7976
+413150,Stardew Valley,control,2017-01,11799
+413150,Stardew Valley,control,2017-02,9888
+413150,Stardew Valley,control,2017-03,9693
+413150,Stardew Valley,control,2017-04,7654
+413150,Stardew Valley,control,2017-05,7883
+413150,Stardew Valley,control,2017-06,8905
+413150,Stardew Valley,control,2017-07,15538
+413150,Stardew Valley,control,2017-08,8848
+413150,Stardew Valley,control,2017-09,6869
+413150,Stardew Valley,control,2017-10,8142
+413150,Stardew Valley,control,2017-11,8677
+413150,Stardew Valley,control,2017-12,9824
+413150,Stardew Valley,control,2018-01,11707
+413150,Stardew Valley,control,2018-02,9035
+413150,Stardew Valley,control,2018-03,8054
+413150,Stardew Valley,control,2018-04,7530
+413150,Stardew Valley,control,2018-05,27546
+413150,Stardew Valley,control,2018-06,17362
+413150,Stardew Valley,control,2018-07,16584
+413150,Stardew Valley,control,2018-08,16887
+413150,Stardew Valley,control,2018-09,11765
+413150,Stardew Valley,control,2018-10,10053
+413150,Stardew Valley,control,2018-11,9503
+413150,Stardew Valley,control,2018-12,11160
+413150,Stardew Valley,control,2019-01,15249
+413150,Stardew Valley,control,2019-02,12724
+413150,Stardew Valley,control,2019-03,13167
+413150,Stardew Valley,control,2019-04,12542
+413150,Stardew Valley,control,2019-05,12474
+413150,Stardew Valley,control,2019-06,12358
+413150,Stardew Valley,control,2019-07,15367
+413150,Stardew Valley,control,2019-08,11019
+413150,Stardew Valley,control,2019-09,9273
+413150,Stardew Valley,control,2019-10,8932
+413150,Stardew Valley,control,2019-11,10855
+413150,Stardew Valley,control,2019-12,24149
+413150,Stardew Valley,control,2020-01,24356
+413150,Stardew Valley,control,2020-02,23697
+413150,Stardew Valley,control,2020-03,27388
+413150,Stardew Valley,control,2020-04,29951
+413150,Stardew Valley,control,2020-05,20487
+413150,Stardew Valley,control,2020-06,15209
+413150,Stardew Valley,control,2020-07,19955
+413150,Stardew Valley,control,2020-08,16653
+413150,Stardew Valley,control,2020-09,13509
+413150,Stardew Valley,control,2020-10,12060
+413150,Stardew Valley,control,2020-11,13804
+413150,Stardew Valley,control,2020-12,29621
+413150,Stardew Valley,control,2021-01,57167
+413150,Stardew Valley,control,2021-02,38305
+413150,Stardew Valley,control,2021-03,33181
+413150,Stardew Valley,control,2021-04,27173
+413150,Stardew Valley,control,2021-05,23175
+413150,Stardew Valley,control,2021-06,22241
+413150,Stardew Valley,control,2021-07,28480
+413150,Stardew Valley,control,2021-08,30567
+413150,Stardew Valley,control,2021-09,24321
+413150,Stardew Valley,control,2021-10,22414
+413150,Stardew Valley,control,2021-11,23206
+413150,Stardew Valley,control,2021-12,24952
+413150,Stardew Valley,control,2022-01,33622
+413150,Stardew Valley,control,2022-02,28793
+413150,Stardew Valley,control,2022-03,25851
+413150,Stardew Valley,control,2022-04,26830
+413150,Stardew Valley,control,2022-05,28037
+413150,Stardew Valley,control,2022-06,31776
+413150,Stardew Valley,control,2022-07,39076
+413150,Stardew Valley,control,2022-08,31402
+413150,Stardew Valley,control,2022-09,24754
+413150,Stardew Valley,control,2022-10,22663
+413150,Stardew Valley,control,2022-11,23896
+413150,Stardew Valley,control,2022-12,28396
+413150,Stardew Valley,control,2023-01,40950
+413150,Stardew Valley,control,2023-02,36264
+413150,Stardew Valley,control,2023-03,33899
+413150,Stardew Valley,control,2023-04,32582
+413150,Stardew Valley,control,2023-05,28103
+413150,Stardew Valley,control,2023-06,29862
+413150,Stardew Valley,control,2023-07,37569
+413150,Stardew Valley,control,2023-08,34521
+413150,Stardew Valley,control,2023-09,27765
+413150,Stardew Valley,control,2023-10,29556
+413150,Stardew Valley,control,2023-11,28715
+413150,Stardew Valley,control,2023-12,31949
+413150,Stardew Valley,control,2024-01,39083
+413150,Stardew Valley,control,2024-02,32353
+413150,Stardew Valley,control,2024-03,82588
+413150,Stardew Valley,control,2024-04,120134
+413150,Stardew Valley,control,2024-05,89017
+413150,Stardew Valley,control,2024-06,64006
+413150,Stardew Valley,control,2024-07,82852
+413150,Stardew Valley,control,2024-08,65571
+413150,Stardew Valley,control,2024-09,49228
+413150,Stardew Valley,control,2024-10,66651
+413150,Stardew Valley,control,2024-11,61855
+413150,Stardew Valley,control,2024-12,66413
+413150,Stardew Valley,control,2025-01,72808
+413150,Stardew Valley,control,2025-02,59383
+413150,Stardew Valley,control,2025-03,61863
+413150,Stardew Valley,control,2025-04,58163
+413150,Stardew Valley,control,2025-05,54791
+413150,Stardew Valley,control,2025-06,58664
+413150,Stardew Valley,control,2025-07,84944
+413150,Stardew Valley,control,2025-08,74886
+413150,Stardew Valley,control,2025-09,58649
+413150,Stardew Valley,control,2025-10,61169
+413150,Stardew Valley,control,2025-11,53989
+413150,Stardew Valley,control,2025-12,58487
+413150,Stardew Valley,control,2026-01,76332
+413150,Stardew Valley,control,2026-02,64673
+413150,Stardew Valley,control,2026-03,69692
+413150,Stardew Valley,control,2026-04,64601
+413150,Stardew Valley,control,2026-05,60412
+413150,Stardew Valley,control,2026-06,58609
+413150,Stardew Valley,control,2026-07,67231
+413150,Stardew Valley,control,2026-08,62132
+413150,Stardew Valley,control,2026-09,48648
+413150,Stardew Valley,control,2026-10,51336
+236390,War Thunder,control,2014-01,7077
+236390,War Thunder,control,2014-02,6208
+236390,War Thunder,control,2014-03,5442
+236390,War Thunder,control,2014-04,7091
+236390,War Thunder,control,2014-05,10863
+236390,War Thunder,control,2014-06,8606
+236390,War Thunder,control,2014-07,7505
+236390,War Thunder,control,2014-08,7620
+236390,War Thunder,control,2014-09,6291
+236390,War Thunder,control,2014-10,8941
+236390,War Thunder,control,2014-11,8194
+236390,War Thunder,control,2014-12,10355
+236390,War Thunder,control,2015-01,11170
+236390,War Thunder,control,2015-02,13215
+236390,War Thunder,control,2015-03,14285
+236390,War Thunder,control,2015-04,11579
+236390,War Thunder,control,2015-05,13205
+236390,War Thunder,control,2015-06,10055
+236390,War Thunder,control,2015-07,11124
+236390,War Thunder,control,2015-08,10185
+236390,War Thunder,control,2015-09,8865
+236390,War Thunder,control,2015-10,9089
+236390,War Thunder,control,2015-11,11496
+236390,War Thunder,control,2015-12,11284
+236390,War Thunder,control,2016-01,11193
+236390,War Thunder,control,2016-02,10393
+236390,War Thunder,control,2016-03,11609
+236390,War Thunder,control,2016-04,11093
+236390,War Thunder,control,2016-05,10336
+236390,War Thunder,control,2016-06,11079
+236390,War Thunder,control,2016-07,9696
+236390,War Thunder,control,2016-08,10076
+236390,War Thunder,control,2016-09,9530
+236390,War Thunder,control,2016-10,11017
+236390,War Thunder,control,2016-11,9925
+236390,War Thunder,control,2016-12,10651
+236390,War Thunder,control,2017-01,11348
+236390,War Thunder,control,2017-02,10829
+236390,War Thunder,control,2017-03,10994
+236390,War Thunder,control,2017-04,10830
+236390,War Thunder,control,2017-05,10789
+236390,War Thunder,control,2017-06,10304
+236390,War Thunder,control,2017-07,9380
+236390,War Thunder,control,2017-08,10150
+236390,War Thunder,control,2017-09,10465
+236390,War Thunder,control,2017-10,10681
+236390,War Thunder,control,2017-11,11952
+236390,War Thunder,control,2017-12,11879
+236390,War Thunder,control,2018-01,11615
+236390,War Thunder,control,2018-02,11091
+236390,War Thunder,control,2018-03,13432
+236390,War Thunder,control,2018-04,13183
+236390,War Thunder,control,2018-05,11540
+236390,War Thunder,control,2018-06,12372
+236390,War Thunder,control,2018-07,11528
+236390,War Thunder,control,2018-08,11969
+236390,War Thunder,control,2018-09,11941
+236390,War Thunder,control,2018-10,12691
+236390,War Thunder,control,2018-11,12251
+236390,War Thunder,control,2018-12,13328
+236390,War Thunder,control,2019-01,13420
+236390,War Thunder,control,2019-02,12115
+236390,War Thunder,control,2019-03,13475
+236390,War Thunder,control,2019-04,13295
+236390,War Thunder,control,2019-05,12150
+236390,War Thunder,control,2019-06,11674
+236390,War Thunder,control,2019-07,11063
+236390,War Thunder,control,2019-08,12067
+236390,War Thunder,control,2019-09,12555
+236390,War Thunder,control,2019-10,12547
+236390,War Thunder,control,2019-11,12415
+236390,War Thunder,control,2019-12,13388
+236390,War Thunder,control,2020-01,13825
+236390,War Thunder,control,2020-02,14918
+236390,War Thunder,control,2020-03,20321
+236390,War Thunder,control,2020-04,24790
+236390,War Thunder,control,2020-05,22477
+236390,War Thunder,control,2020-06,20401
+236390,War Thunder,control,2020-07,19152
+236390,War Thunder,control,2020-08,21501
+236390,War Thunder,control,2020-09,21212
+236390,War Thunder,control,2020-10,20962
+236390,War Thunder,control,2020-11,28445
+236390,War Thunder,control,2020-12,27036
+236390,War Thunder,control,2021-01,27478
+236390,War Thunder,control,2021-02,28602
+236390,War Thunder,control,2021-03,30023
+236390,War Thunder,control,2021-04,27850
+236390,War Thunder,control,2021-05,25542
+236390,War Thunder,control,2021-06,24871
+236390,War Thunder,control,2021-07,23001
+236390,War Thunder,control,2021-08,24587
+236390,War Thunder,control,2021-09,25180
+236390,War Thunder,control,2021-10,25087
+236390,War Thunder,control,2021-11,26211
+236390,War Thunder,control,2021-12,26582
+236390,War Thunder,control,2022-01,29067
+236390,War Thunder,control,2022-02,29720
+236390,War Thunder,control,2022-03,39166
+236390,War Thunder,control,2022-04,43612
+236390,War Thunder,control,2022-05,40362
+236390,War Thunder,control,2022-06,42525
+236390,War Thunder,control,2022-07,39829
+236390,War Thunder,control,2022-08,42642
+236390,War Thunder,control,2022-09,42827
+236390,War Thunder,control,2022-10,41261
+236390,War Thunder,control,2022-11,48618
+236390,War Thunder,control,2022-12,49814
+236390,War Thunder,control,2023-01,56067
+236390,War Thunder,control,2023-02,60655
+236390,War Thunder,control,2023-03,59804
+236390,War Thunder,control,2023-04,63272
+236390,War Thunder,control,2023-05,57799
+236390,War Thunder,control,2023-06,53320
+236390,War Thunder,control,2023-07,52519
+236390,War Thunder,control,2023-08,53688
+236390,War Thunder,control,2023-09,52969
+236390,War Thunder,control,2023-10,55220
+236390,War Thunder,control,2023-11,61701
+236390,War Thunder,control,2023-12,65774
+236390,War Thunder,control,2024-01,66052
+236390,War Thunder,control,2024-02,70092
+236390,War Thunder,control,2024-03,59464
+236390,War Thunder,control,2024-04,53653
+236390,War Thunder,control,2024-05,54038
+236390,War Thunder,control,2024-06,59152
+236390,War Thunder,control,2024-07,56711
+236390,War Thunder,control,2024-08,60840
+236390,War Thunder,control,2024-09,55346
+236390,War Thunder,control,2024-10,57522
+236390,War Thunder,control,2024-11,62103
+236390,War Thunder,control,2024-12,62587
+236390,War Thunder,control,2025-01,62800
+236390,War Thunder,control,2025-02,60266
+236390,War Thunder,control,2025-03,59214
+236390,War Thunder,control,2025-04,56005
+236390,War Thunder,control,2025-05,57740
+236390,War Thunder,control,2025-06,56335
+236390,War Thunder,control,2025-07,52814
+236390,War Thunder,control,2025-08,51837
+236390,War Thunder,control,2025-09,47552
+236390,War Thunder,control,2025-10,50445
+236390,War Thunder,control,2025-11,54176
+236390,War Thunder,control,2025-12,60552
+236390,War Thunder,control,2026-01,63312
+236390,War Thunder,control,2026-02,61658
+236390,War Thunder,control,2026-03,58088
+236390,War Thunder,control,2026-04,59541
+236390,War Thunder,control,2026-05,53110
+236390,War Thunder,control,2026-06,49116
+236390,War Thunder,control,2026-07,49577
+236390,War Thunder,control,2026-08,50920
+236390,War Thunder,control,2026-09,52006
+236390,War Thunder,control,2026-10,51968
+221100,DayZ,control,2014-01,23094
+221100,DayZ,control,2014-02,21764
+221100,DayZ,control,2014-03,17548
+221100,DayZ,control,2014-04,18666
+221100,DayZ,control,2014-05,16856
+221100,DayZ,control,2014-06,14519
+221100,DayZ,control,2014-07,15122
+221100,DayZ,control,2014-08,14873
+221100,DayZ,control,2014-09,11732
+221100,DayZ,control,2014-10,10709
+221100,DayZ,control,2014-11,13325
+221100,DayZ,control,2014-12,15308
+221100,DayZ,control,2015-01,14447
+221100,DayZ,control,2015-02,15007
+221100,DayZ,control,2015-03,13846
+221100,DayZ,control,2015-04,9274
+221100,DayZ,control,2015-05,6525
+221100,DayZ,control,2015-06,8800
+221100,DayZ,control,2015-07,9017
+221100,DayZ,control,2015-08,8836
+221100,DayZ,control,2015-09,6890
+221100,DayZ,control,2015-10,5521
+221100,DayZ,control,2015-11,4379
+221100,DayZ,control,2015-12,7440
+221100,DayZ,control,2016-01,8329
+221100,DayZ,control,2016-02,7260
+221100,DayZ,control,2016-03,5993
+221100,DayZ,control,2016-04,5287
+221100,DayZ,control,2016-05,5985
+221100,DayZ,control,2016-06,10144
+221100,DayZ,control,2016-07,8003
+221100,DayZ,control,2016-08,5337
+221100,DayZ,control,2016-09,4306
+221100,DayZ,control,2016-10,4381
+221100,DayZ,control,2016-11,4789
+221100,DayZ,control,2016-12,5454
+221100,DayZ,control,2017-01,5845
+221100,DayZ,control,2017-02,4661
+221100,DayZ,control,2017-03,4326
+221100,DayZ,control,2017-04,3489
+221100,DayZ,control,2017-05,3162
+221100,DayZ,control,2017-06,4395
+221100,DayZ,control,2017-07,3307
+221100,DayZ,control,2017-08,2610
+221100,DayZ,control,2017-09,2295
+221100,DayZ,control,2017-10,2345
+221100,DayZ,control,2017-11,2339
+221100,DayZ,control,2017-12,2450
+221100,DayZ,control,2018-01,2403
+221100,DayZ,control,2018-02,2160
+221100,DayZ,control,2018-03,2138
+221100,DayZ,control,2018-04,2060
+221100,DayZ,control,2018-05,2233
+221100,DayZ,control,2018-06,2764
+221100,DayZ,control,2018-07,1811
+221100,DayZ,control,2018-08,1597
+221100,DayZ,control,2018-09,1825
+221100,DayZ,control,2018-10,1692
+221100,DayZ,control,2018-11,4405
+221100,DayZ,control,2018-12,7886
+221100,DayZ,control,2019-01,6395
+221100,DayZ,control,2019-02,4862
+221100,DayZ,control,2019-03,5061
+221100,DayZ,control,2019-04,6639
+221100,DayZ,control,2019-05,7395
+221100,DayZ,control,2019-06,8658
+221100,DayZ,control,2019-07,10654
+221100,DayZ,control,2019-08,9837
+221100,DayZ,control,2019-09,8648
+221100,DayZ,control,2019-10,9462
+221100,DayZ,control,2019-11,8966
+221100,DayZ,control,2019-12,12561
+221100,DayZ,control,2020-01,14732
+221100,DayZ,control,2020-02,17739
+221100,DayZ,control,2020-03,15527
+221100,DayZ,control,2020-04,17504
+221100,DayZ,control,2020-05,16329
+221100,DayZ,control,2020-06,13997
+221100,DayZ,control,2020-07,14340
+221100,DayZ,control,2020-08,13979
+221100,DayZ,control,2020-09,19896
+221100,DayZ,control,2020-10,18454
+221100,DayZ,control,2020-11,19363
+221100,DayZ,control,2020-12,22812
+221100,DayZ,control,2021-01,26336
+221100,DayZ,control,2021-02,22224
+221100,DayZ,control,2021-03,20095
+221100,DayZ,control,2021-04,19623
+221100,DayZ,control,2021-05,21313
+221100,DayZ,control,2021-06,19221
+221100,DayZ,control,2021-07,19122
+221100,DayZ,control,2021-08,21484
+221100,DayZ,control,2021-09,20208
+221100,DayZ,control,2021-10,21964
+221100,DayZ,control,2021-11,24476
+221100,DayZ,control,2021-12,25983
+221100,DayZ,control,2022-01,31091
+221100,DayZ,control,2022-02,27437
+221100,DayZ,control,2022-03,25411
+221100,DayZ,control,2022-04,29456
+221100,DayZ,control,2022-05,28894
+221100,DayZ,control,2022-06,28494
+221100,DayZ,control,2022-07,29153
+221100,DayZ,control,2022-08,27814
+221100,DayZ,control,2022-09,28479
+221100,DayZ,control,2022-10,29796
+221100,DayZ,control,2022-11,30488
+221100,DayZ,control,2022-12,30014
+221100,DayZ,control,2023-01,36227
+221100,DayZ,control,2023-02,34063
+221100,DayZ,control,2023-03,33992
+221100,DayZ,control,2023-04,34989
+221100,DayZ,control,2023-05,32346
+221100,DayZ,control,2023-06,33220
+221100,DayZ,control,2023-07,35001
+221100,DayZ,control,2023-08,32244
+221100,DayZ,control,2023-09,30904
+221100,DayZ,control,2023-10,32240
+221100,DayZ,control,2023-11,38114
+221100,DayZ,control,2023-12,37604
+221100,DayZ,control,2024-01,40709
+221100,DayZ,control,2024-02,37103
+221100,DayZ,control,2024-03,38554
+221100,DayZ,control,2024-04,35652
+221100,DayZ,control,2024-05,33209
+221100,DayZ,control,2024-06,35098
+221100,DayZ,control,2024-07,34043
+221100,DayZ,control,2024-08,33580
+221100,DayZ,control,2024-09,33275
+221100,DayZ,control,2024-10,37938
+221100,DayZ,control,2024-11,39134
+221100,DayZ,control,2024-12,37802
+221100,DayZ,control,2025-01,40048
+221100,DayZ,control,2025-02,39534
+221100,DayZ,control,2025-03,41397
+221100,DayZ,control,2025-04,36206
+221100,DayZ,control,2025-05,35310
+221100,DayZ,control,2025-06,37726
+221100,DayZ,control,2025-07,37207
+221100,DayZ,control,2025-08,36213
+221100,DayZ,control,2025-09,37019
+221100,DayZ,control,2025-10,35932
+221100,DayZ,control,2025-11,34389
+221100,DayZ,control,2025-12,34513
+221100,DayZ,control,2026-01,39083
+221100,DayZ,control,2026-02,39249
+221100,DayZ,control,2026-03,37138
+221100,DayZ,control,2026-04,40224
+221100,DayZ,control,2026-05,39311
+221100,DayZ,control,2026-06,36664
+221100,DayZ,control,2026-07,36649
+221100,DayZ,control,2026-08,35667
+221100,DayZ,control,2026-09,32979
+221100,DayZ,control,2026-10,34388
+107410,Arma 3,control,2014-01,6235
+107410,Arma 3,control,2014-02,8511
+107410,Arma 3,control,2014-03,10957
+107410,Arma 3,control,2014-04,12800
+107410,Arma 3,control,2014-05,15019
+107410,Arma 3,control,2014-06,12954
+107410,Arma 3,control,2014-07,13880
+107410,Arma 3,control,2014-08,13716
+107410,Arma 3,control,2014-09,12314
+107410,Arma 3,control,2014-10,14953
+107410,Arma 3,control,2014-11,14851
+107410,Arma 3,control,2014-12,16064
+107410,Arma 3,control,2015-01,20313
+107410,Arma 3,control,2015-02,18205
+107410,Arma 3,control,2015-03,18380
+107410,Arma 3,control,2015-04,18516
+107410,Arma 3,control,2015-05,18297
+107410,Arma 3,control,2015-06,15748
+107410,Arma 3,control,2015-07,16640
+107410,Arma 3,control,2015-08,17881
+107410,Arma 3,control,2015-09,16962
+107410,Arma 3,control,2015-10,18195
+107410,Arma 3,control,2015-11,15455
+107410,Arma 3,control,2015-12,18762
+107410,Arma 3,control,2016-01,22559
+107410,Arma 3,control,2016-02,22625
+107410,Arma 3,control,2016-03,21733
+107410,Arma 3,control,2016-04,20292
+107410,Arma 3,control,2016-05,22854
+107410,Arma 3,control,2016-06,25285
+107410,Arma 3,control,2016-07,26615
+107410,Arma 3,control,2016-08,23050
+107410,Arma 3,control,2016-09,20145
+107410,Arma 3,control,2016-10,20389
+107410,Arma 3,control,2016-11,19926
+107410,Arma 3,control,2016-12,22326
+107410,Arma 3,control,2017-01,26972
+107410,Arma 3,control,2017-02,23539
+107410,Arma 3,control,2017-03,22288
+107410,Arma 3,control,2017-04,23377
+107410,Arma 3,control,2017-05,20713
+107410,Arma 3,control,2017-06,22154
+107410,Arma 3,control,2017-07,22120
+107410,Arma 3,control,2017-08,17978
+107410,Arma 3,control,2017-09,17988
+107410,Arma 3,control,2017-10,16441
+107410,Arma 3,control,2017-11,16524
+107410,Arma 3,control,2017-12,19256
+107410,Arma 3,control,2018-01,18555
+107410,Arma 3,control,2018-02,17232
+107410,Arma 3,control,2018-03,16974
+107410,Arma 3,control,2018-04,17806
+107410,Arma 3,control,2018-05,17053
+107410,Arma 3,control,2018-06,16570
+107410,Arma 3,control,2018-07,18385
+107410,Arma 3,control,2018-08,15123
+107410,Arma 3,control,2018-09,14092
+107410,Arma 3,control,2018-10,13345
+107410,Arma 3,control,2018-11,12553
+107410,Arma 3,control,2018-12,13554
+107410,Arma 3,control,2019-01,15240
+107410,Arma 3,control,2019-02,15489
+107410,Arma 3,control,2019-03,14236
+107410,Arma 3,control,2019-04,13709
+107410,Arma 3,control,2019-05,14208
+107410,Arma 3,control,2019-06,14225
+107410,Arma 3,control,2019-07,15265
+107410,Arma 3,control,2019-08,13453
+107410,Arma 3,control,2019-09,11869
+107410,Arma 3,control,2019-10,11322
+107410,Arma 3,control,2019-11,10561
+107410,Arma 3,control,2019-12,11583
+107410,Arma 3,control,2020-01,14703
+107410,Arma 3,control,2020-02,13315
+107410,Arma 3,control,2020-03,15216
+107410,Arma 3,control,2020-04,20266
+107410,Arma 3,control,2020-05,15998
+107410,Arma 3,control,2020-06,13116
+107410,Arma 3,control,2020-07,13064
+107410,Arma 3,control,2020-08,13029
+107410,Arma 3,control,2020-09,12704
+107410,Arma 3,control,2020-10,13527
+107410,Arma 3,control,2020-11,13865
+107410,Arma 3,control,2020-12,13001
+107410,Arma 3,control,2021-01,14896
+107410,Arma 3,control,2021-02,14937
+107410,Arma 3,control,2021-03,14016
+107410,Arma 3,control,2021-04,13033
+107410,Arma 3,control,2021-05,17034
+107410,Arma 3,control,2021-06,13484
+107410,Arma 3,control,2021-07,12663
+107410,Arma 3,control,2021-08,12916
+107410,Arma 3,control,2021-09,12650
+107410,Arma 3,control,2021-10,11513
+107410,Arma 3,control,2021-11,12392
+107410,Arma 3,control,2021-12,11437
+107410,Arma 3,control,2022-01,12760
+107410,Arma 3,control,2022-02,12576
+107410,Arma 3,control,2022-03,14502
+107410,Arma 3,control,2022-04,15332
+107410,Arma 3,control,2022-05,12343
+107410,Arma 3,control,2022-06,12140
+107410,Arma 3,control,2022-07,11946
+107410,Arma 3,control,2022-08,10516
+107410,Arma 3,control,2022-09,11947
+107410,Arma 3,control,2022-10,11625
+107410,Arma 3,control,2022-11,10843
+107410,Arma 3,control,2022-12,10484
+107410,Arma 3,control,2023-01,12230
+107410,Arma 3,control,2023-02,11944
+107410,Arma 3,control,2023-03,11928
+107410,Arma 3,control,2023-04,11828
+107410,Arma 3,control,2023-05,11718
+107410,Arma 3,control,2023-06,11434
+107410,Arma 3,control,2023-07,12845
+107410,Arma 3,control,2023-08,10631
+107410,Arma 3,control,2023-09,10999
+107410,Arma 3,control,2023-10,10845
+107410,Arma 3,control,2023-11,11307
+107410,Arma 3,control,2023-12,9917
+107410,Arma 3,control,2024-01,10903
+107410,Arma 3,control,2024-02,10469
+107410,Arma 3,control,2024-03,11017
+107410,Arma 3,control,2024-04,10696
+107410,Arma 3,control,2024-05,9389
+107410,Arma 3,control,2024-06,9826
+107410,Arma 3,control,2024-07,11632
+107410,Arma 3,control,2024-08,10621
+107410,Arma 3,control,2024-09,9391
+107410,Arma 3,control,2024-10,8847
+107410,Arma 3,control,2024-11,9692
+107410,Arma 3,control,2024-12,9740
+107410,Arma 3,control,2025-01,10805
+107410,Arma 3,control,2025-02,9710
+107410,Arma 3,control,2025-03,9458
+107410,Arma 3,control,2025-04,8196
+107410,Arma 3,control,2025-05,8475
+107410,Arma 3,control,2025-06,8984
+107410,Arma 3,control,2025-07,8810
+107410,Arma 3,control,2025-08,8267
+107410,Arma 3,control,2025-09,8444
+107410,Arma 3,control,2025-10,7612
+107410,Arma 3,control,2025-11,7313
+107410,Arma 3,control,2025-12,6930
+107410,Arma 3,control,2026-01,7879
+107410,Arma 3,control,2026-02,7749
+107410,Arma 3,control,2026-03,8045
+107410,Arma 3,control,2026-04,7547
+107410,Arma 3,control,2026-05,7514
+107410,Arma 3,control,2026-06,6988
+107410,Arma 3,control,2026-07,6838
+107410,Arma 3,control,2026-08,6700
+107410,Arma 3,control,2026-09,6511
+107410,Arma 3,control,2026-10,5909
+381210,Dead by Daylight,control,2016-06,11248
+381210,Dead by Daylight,control,2016-07,13339
+381210,Dead by Daylight,control,2016-08,15833
+381210,Dead by Daylight,control,2016-09,12862
+381210,Dead by Daylight,control,2016-10,12324
+381210,Dead by Daylight,control,2016-11,14971
+381210,Dead by Daylight,control,2016-12,17040
+381210,Dead by Daylight,control,2017-01,15127
+381210,Dead by Daylight,control,2017-02,11338
+381210,Dead by Daylight,control,2017-03,9554
+381210,Dead by Daylight,control,2017-04,8416
+381210,Dead by Daylight,control,2017-05,8921
+381210,Dead by Daylight,control,2017-06,9957
+381210,Dead by Daylight,control,2017-07,10292
+381210,Dead by Daylight,control,2017-08,12362
+381210,Dead by Daylight,control,2017-09,14491
+381210,Dead by Daylight,control,2017-10,14883
+381210,Dead by Daylight,control,2017-11,14357
+381210,Dead by Daylight,control,2017-12,13606
+381210,Dead by Daylight,control,2018-01,14626
+381210,Dead by Daylight,control,2018-02,16713
+381210,Dead by Daylight,control,2018-03,13256
+381210,Dead by Daylight,control,2018-04,12591
+381210,Dead by Daylight,control,2018-05,13794
+381210,Dead by Daylight,control,2018-06,19506
+381210,Dead by Daylight,control,2018-07,22149
+381210,Dead by Daylight,control,2018-08,19526
+381210,Dead by Daylight,control,2018-09,21890
+381210,Dead by Daylight,control,2018-10,22496
+381210,Dead by Daylight,control,2018-11,18524
+381210,Dead by Daylight,control,2018-12,19723
+381210,Dead by Daylight,control,2019-01,22079
+381210,Dead by Daylight,control,2019-02,19177
+381210,Dead by Daylight,control,2019-03,16381
+381210,Dead by Daylight,control,2019-04,16960
+381210,Dead by Daylight,control,2019-05,20565
+381210,Dead by Daylight,control,2019-06,21506
+381210,Dead by Daylight,control,2019-07,19103
+381210,Dead by Daylight,control,2019-08,19253
+381210,Dead by Daylight,control,2019-09,23459
+381210,Dead by Daylight,control,2019-10,20384
+381210,Dead by Daylight,control,2019-11,23463
+381210,Dead by Daylight,control,2019-12,23103
+381210,Dead by Daylight,control,2020-01,23582
+381210,Dead by Daylight,control,2020-02,23421
+381210,Dead by Daylight,control,2020-03,30347
+381210,Dead by Daylight,control,2020-04,32393
+381210,Dead by Daylight,control,2020-05,33733
+381210,Dead by Daylight,control,2020-06,40480
+381210,Dead by Daylight,control,2020-07,40537
+381210,Dead by Daylight,control,2020-08,40148
+381210,Dead by Daylight,control,2020-09,39898
+381210,Dead by Daylight,control,2020-10,33473
+381210,Dead by Daylight,control,2020-11,36283
+381210,Dead by Daylight,control,2020-12,35632
+381210,Dead by Daylight,control,2021-01,36342
+381210,Dead by Daylight,control,2021-02,35348
+381210,Dead by Daylight,control,2021-03,34166
+381210,Dead by Daylight,control,2021-04,37867
+381210,Dead by Daylight,control,2021-05,40602
+381210,Dead by Daylight,control,2021-06,48769
+381210,Dead by Daylight,control,2021-07,62488
+381210,Dead by Daylight,control,2021-08,51128
+381210,Dead by Daylight,control,2021-09,51391
+381210,Dead by Daylight,control,2021-10,50161
+381210,Dead by Daylight,control,2021-11,44959
+381210,Dead by Daylight,control,2021-12,44639
+381210,Dead by Daylight,control,2022-01,40129
+381210,Dead by Daylight,control,2022-02,36207
+381210,Dead by Daylight,control,2022-03,34395
+381210,Dead by Daylight,control,2022-04,29948
+381210,Dead by Daylight,control,2022-05,32048
+381210,Dead by Daylight,control,2022-06,49142
+381210,Dead by Daylight,control,2022-07,36959
+381210,Dead by Daylight,control,2022-08,35649
+381210,Dead by Daylight,control,2022-09,37925
+381210,Dead by Daylight,control,2022-10,38072
+381210,Dead by Daylight,control,2022-11,33592
+381210,Dead by Daylight,control,2022-12,32685
+381210,Dead by Daylight,control,2023-01,33615
+381210,Dead by Daylight,control,2023-02,32183
+381210,Dead by Daylight,control,2023-03,32927
+381210,Dead by Daylight,control,2023-04,30062
+381210,Dead by Daylight,control,2023-05,30844
+381210,Dead by Daylight,control,2023-06,40113
+381210,Dead by Daylight,control,2023-07,41153
+381210,Dead by Daylight,control,2023-08,36085
+381210,Dead by Daylight,control,2023-09,30181
+381210,Dead by Daylight,control,2023-10,31098
+381210,Dead by Daylight,control,2023-11,32638
+381210,Dead by Daylight,control,2023-12,31259
+381210,Dead by Daylight,control,2024-01,28344
+381210,Dead by Daylight,control,2024-02,32185
+381210,Dead by Daylight,control,2024-03,42283
+381210,Dead by Daylight,control,2024-04,33046
+381210,Dead by Daylight,control,2024-05,35825
+381210,Dead by Daylight,control,2024-06,44806
+381210,Dead by Daylight,control,2024-07,40645
+381210,Dead by Daylight,control,2024-08,40880
+381210,Dead by Daylight,control,2024-09,38255
+381210,Dead by Daylight,control,2024-10,39697
+381210,Dead by Daylight,control,2024-11,38568
+381210,Dead by Daylight,control,2024-12,31375
+381210,Dead by Daylight,control,2025-01,30522
+381210,Dead by Daylight,control,2025-02,35637
+381210,Dead by Daylight,control,2025-03,31726
+381210,Dead by Daylight,control,2025-04,41449
+381210,Dead by Daylight,control,2025-05,42187
+381210,Dead by Daylight,control,2025-06,56490
+381210,Dead by Daylight,control,2025-07,63537
+381210,Dead by Daylight,control,2025-08,59522
+381210,Dead by Daylight,control,2025-09,47389
+381210,Dead by Daylight,control,2025-10,51461
+381210,Dead by Daylight,control,2025-11,47080
+381210,Dead by Daylight,control,2025-12,38628
+381210,Dead by Daylight,control,2026-01,49288
+381210,Dead by Daylight,control,2026-02,55296
+381210,Dead by Daylight,control,2026-03,46223
+381210,Dead by Daylight,control,2026-04,49104
+381210,Dead by Daylight,control,2026-05,51051
+381210,Dead by Daylight,control,2026-06,71077
+381210,Dead by Daylight,control,2026-07,70813
+381210,Dead by Daylight,control,2026-08,57800
+381210,Dead by Daylight,control,2026-09,47610
+381210,Dead by Daylight,control,2026-10,47884
+550,Left 4 Dead 2,control,2014-01,23110
+550,Left 4 Dead 2,control,2014-02,12986
+550,Left 4 Dead 2,control,2014-03,11019
+550,Left 4 Dead 2,control,2014-04,9251
+550,Left 4 Dead 2,control,2014-05,8460
+550,Left 4 Dead 2,control,2014-06,9110
+550,Left 4 Dead 2,control,2014-07,9834
+550,Left 4 Dead 2,control,2014-08,8420
+550,Left 4 Dead 2,control,2014-09,8434
+550,Left 4 Dead 2,control,2014-10,7847
+550,Left 4 Dead 2,control,2014-11,8765
+550,Left 4 Dead 2,control,2014-12,9074
+550,Left 4 Dead 2,control,2015-01,9666
+550,Left 4 Dead 2,control,2015-02,8417
+550,Left 4 Dead 2,control,2015-03,7257
+550,Left 4 Dead 2,control,2015-04,6530
+550,Left 4 Dead 2,control,2015-05,6369
+550,Left 4 Dead 2,control,2015-06,10540
+550,Left 4 Dead 2,control,2015-07,8983
+550,Left 4 Dead 2,control,2015-08,10315
+550,Left 4 Dead 2,control,2015-09,7195
+550,Left 4 Dead 2,control,2015-10,7221
+550,Left 4 Dead 2,control,2015-11,9015
+550,Left 4 Dead 2,control,2015-12,10905
+550,Left 4 Dead 2,control,2016-01,12405
+550,Left 4 Dead 2,control,2016-02,11771
+550,Left 4 Dead 2,control,2016-03,9571
+550,Left 4 Dead 2,control,2016-04,8163
+550,Left 4 Dead 2,control,2016-05,8492
+550,Left 4 Dead 2,control,2016-06,9074
+550,Left 4 Dead 2,control,2016-07,11478
+550,Left 4 Dead 2,control,2016-08,8735
+550,Left 4 Dead 2,control,2016-09,7246
+550,Left 4 Dead 2,control,2016-10,7471
+550,Left 4 Dead 2,control,2016-11,9620
+550,Left 4 Dead 2,control,2016-12,10800
+550,Left 4 Dead 2,control,2017-01,12267
+550,Left 4 Dead 2,control,2017-02,9538
+550,Left 4 Dead 2,control,2017-03,10321
+550,Left 4 Dead 2,control,2017-04,8462
+550,Left 4 Dead 2,control,2017-05,7422
+550,Left 4 Dead 2,control,2017-06,11456
+550,Left 4 Dead 2,control,2017-07,16346
+550,Left 4 Dead 2,control,2017-08,10802
+550,Left 4 Dead 2,control,2017-09,8296
+550,Left 4 Dead 2,control,2017-10,7499
+550,Left 4 Dead 2,control,2017-11,10275
+550,Left 4 Dead 2,control,2017-12,12725
+550,Left 4 Dead 2,control,2018-01,13617
+550,Left 4 Dead 2,control,2018-02,11917
+550,Left 4 Dead 2,control,2018-03,9593
+550,Left 4 Dead 2,control,2018-04,7802
+550,Left 4 Dead 2,control,2018-05,7657
+550,Left 4 Dead 2,control,2018-06,10102
+550,Left 4 Dead 2,control,2018-07,12533
+550,Left 4 Dead 2,control,2018-08,9155
+550,Left 4 Dead 2,control,2018-09,7835
+550,Left 4 Dead 2,control,2018-10,7844
+550,Left 4 Dead 2,control,2018-11,9725
+550,Left 4 Dead 2,control,2018-12,9913
+550,Left 4 Dead 2,control,2019-01,10568
+550,Left 4 Dead 2,control,2019-02,9501
+550,Left 4 Dead 2,control,2019-03,8298
+550,Left 4 Dead 2,control,2019-04,7897
+550,Left 4 Dead 2,control,2019-05,10176
+550,Left 4 Dead 2,control,2019-06,10076
+550,Left 4 Dead 2,control,2019-07,11249
+550,Left 4 Dead 2,control,2019-08,9043
+550,Left 4 Dead 2,control,2019-09,7564
+550,Left 4 Dead 2,control,2019-10,8253
+550,Left 4 Dead 2,control,2019-11,9537
+550,Left 4 Dead 2,control,2019-12,11214
+550,Left 4 Dead 2,control,2020-01,12134
+550,Left 4 Dead 2,control,2020-02,12795
+550,Left 4 Dead 2,control,2020-03,13196
+550,Left 4 Dead 2,control,2020-04,14553
+550,Left 4 Dead 2,control,2020-05,11952
+550,Left 4 Dead 2,control,2020-06,11295
+550,Left 4 Dead 2,control,2020-07,14668
+550,Left 4 Dead 2,control,2020-08,12629
+550,Left 4 Dead 2,control,2020-09,21014
+550,Left 4 Dead 2,control,2020-10,21455
+550,Left 4 Dead 2,control,2020-11,18381
+550,Left 4 Dead 2,control,2020-12,18330
+550,Left 4 Dead 2,control,2021-01,19585
+550,Left 4 Dead 2,control,2021-02,16660
+550,Left 4 Dead 2,control,2021-03,15560
+550,Left 4 Dead 2,control,2021-04,15418
+550,Left 4 Dead 2,control,2021-05,18697
+550,Left 4 Dead 2,control,2021-06,16659
+550,Left 4 Dead 2,control,2021-07,20029
+550,Left 4 Dead 2,control,2021-08,19938
+550,Left 4 Dead 2,control,2021-09,17121
+550,Left 4 Dead 2,control,2021-10,15676
+550,Left 4 Dead 2,control,2021-11,16679
+550,Left 4 Dead 2,control,2021-12,16934
+550,Left 4 Dead 2,control,2022-01,21493
+550,Left 4 Dead 2,control,2022-02,19252
+550,Left 4 Dead 2,control,2022-03,15669
+550,Left 4 Dead 2,control,2022-04,15630
+550,Left 4 Dead 2,control,2022-05,14757
+550,Left 4 Dead 2,control,2022-06,16089
+550,Left 4 Dead 2,control,2022-07,23198
+550,Left 4 Dead 2,control,2022-08,18940
+550,Left 4 Dead 2,control,2022-09,15895
+550,Left 4 Dead 2,control,2022-10,15482
+550,Left 4 Dead 2,control,2022-11,20431
+550,Left 4 Dead 2,control,2022-12,27006
+550,Left 4 Dead 2,control,2023-01,31603
+550,Left 4 Dead 2,control,2023-02,23699
+550,Left 4 Dead 2,control,2023-03,26974
+550,Left 4 Dead 2,control,2023-04,22381
+550,Left 4 Dead 2,control,2023-05,20157
+550,Left 4 Dead 2,control,2023-06,20847
+550,Left 4 Dead 2,control,2023-07,34799
+550,Left 4 Dead 2,control,2023-08,24374
+550,Left 4 Dead 2,control,2023-09,26450
+550,Left 4 Dead 2,control,2023-10,22070
+550,Left 4 Dead 2,control,2023-11,22509
+550,Left 4 Dead 2,control,2023-12,25823
+550,Left 4 Dead 2,control,2024-01,29346
+550,Left 4 Dead 2,control,2024-02,22901
+550,Left 4 Dead 2,control,2024-03,24424
+550,Left 4 Dead 2,control,2024-04,18774
+550,Left 4 Dead 2,control,2024-05,18362
+550,Left 4 Dead 2,control,2024-06,20719
+550,Left 4 Dead 2,control,2024-07,27362
+550,Left 4 Dead 2,control,2024-08,22684
+550,Left 4 Dead 2,control,2024-09,19939
+550,Left 4 Dead 2,control,2024-10,20789
+550,Left 4 Dead 2,control,2024-11,30372
+550,Left 4 Dead 2,control,2024-12,27355
+550,Left 4 Dead 2,control,2025-01,26583
+550,Left 4 Dead 2,control,2025-02,28121
+550,Left 4 Dead 2,control,2025-03,24513
+550,Left 4 Dead 2,control,2025-04,20885
+550,Left 4 Dead 2,control,2025-05,22194
+550,Left 4 Dead 2,control,2025-06,26652
+550,Left 4 Dead 2,control,2025-07,26209
+550,Left 4 Dead 2,control,2025-08,22482
+550,Left 4 Dead 2,control,2025-09,19187
+550,Left 4 Dead 2,control,2025-10,22509
+550,Left 4 Dead 2,control,2025-11,21349
+550,Left 4 Dead 2,control,2025-12,22132
+550,Left 4 Dead 2,control,2026-01,24146
+550,Left 4 Dead 2,control,2026-02,21633
+550,Left 4 Dead 2,control,2026-03,21621
+550,Left 4 Dead 2,control,2026-04,20503
+550,Left 4 Dead 2,control,2026-05,23210
+550,Left 4 Dead 2,control,2026-06,24142
+550,Left 4 Dead 2,control,2026-07,28034
+550,Left 4 Dead 2,control,2026-08,25601
+550,Left 4 Dead 2,control,2026-09,22381
+550,Left 4 Dead 2,control,2026-10,28429
+1174180,Red Dead Redemption 2,sibling,2019-12,28626
+1174180,Red Dead Redemption 2,sibling,2020-01,25117
+1174180,Red Dead Redemption 2,sibling,2020-02,24266
+1174180,Red Dead Redemption 2,sibling,2020-03,16487
+1174180,Red Dead Redemption 2,sibling,2020-04,14488
+1174180,Red Dead Redemption 2,sibling,2020-05,15224
+1174180,Red Dead Redemption 2,sibling,2020-06,11655
+1174180,Red Dead Redemption 2,sibling,2020-07,13940
+1174180,Red Dead Redemption 2,sibling,2020-08,15188
+1174180,Red Dead Redemption 2,sibling,2020-09,11339
+1174180,Red Dead Redemption 2,sibling,2020-10,16089
+1174180,Red Dead Redemption 2,sibling,2020-11,14467
+1174180,Red Dead Redemption 2,sibling,2020-12,17280
+1174180,Red Dead Redemption 2,sibling,2021-01,19504
+1174180,Red Dead Redemption 2,sibling,2021-02,16651
+1174180,Red Dead Redemption 2,sibling,2021-03,13544
+1174180,Red Dead Redemption 2,sibling,2021-04,12409
+1174180,Red Dead Redemption 2,sibling,2021-05,12319
+1174180,Red Dead Redemption 2,sibling,2021-06,12047
+1174180,Red Dead Redemption 2,sibling,2021-07,17004
+1174180,Red Dead Redemption 2,sibling,2021-08,15926
+1174180,Red Dead Redemption 2,sibling,2021-09,14933
+1174180,Red Dead Redemption 2,sibling,2021-10,12560
+1174180,Red Dead Redemption 2,sibling,2021-11,16116
+1174180,Red Dead Redemption 2,sibling,2021-12,22686
+1174180,Red Dead Redemption 2,sibling,2022-01,26131
+1174180,Red Dead Redemption 2,sibling,2022-02,20446
+1174180,Red Dead Redemption 2,sibling,2022-03,17737
+1174180,Red Dead Redemption 2,sibling,2022-04,17650
+1174180,Red Dead Redemption 2,sibling,2022-05,17533
+1174180,Red Dead Redemption 2,sibling,2022-06,16089
+1174180,Red Dead Redemption 2,sibling,2022-07,21028
+1174180,Red Dead Redemption 2,sibling,2022-08,18285
+1174180,Red Dead Redemption 2,sibling,2022-09,17620
+1174180,Red Dead Redemption 2,sibling,2022-10,16907
+1174180,Red Dead Redemption 2,sibling,2022-11,22536
+1174180,Red Dead Redemption 2,sibling,2022-12,39072
+1174180,Red Dead Redemption 2,sibling,2023-01,42409
+1174180,Red Dead Redemption 2,sibling,2023-02,31864
+1174180,Red Dead Redemption 2,sibling,2023-03,27297
+1174180,Red Dead Redemption 2,sibling,2023-04,26896
+1174180,Red Dead Redemption 2,sibling,2023-05,22866
+1174180,Red Dead Redemption 2,sibling,2023-06,25025
+1174180,Red Dead Redemption 2,sibling,2023-07,32490
+1174180,Red Dead Redemption 2,sibling,2023-08,28249
+1174180,Red Dead Redemption 2,sibling,2023-09,29043
+1174180,Red Dead Redemption 2,sibling,2023-10,25091
+1174180,Red Dead Redemption 2,sibling,2023-11,32553
+1174180,Red Dead Redemption 2,sibling,2023-12,43421
+1174180,Red Dead Redemption 2,sibling,2024-01,39353
+1174180,Red Dead Redemption 2,sibling,2024-02,34452
+1174180,Red Dead Redemption 2,sibling,2024-03,29820
+1174180,Red Dead Redemption 2,sibling,2024-04,27909
+1174180,Red Dead Redemption 2,sibling,2024-05,22851
+1174180,Red Dead Redemption 2,sibling,2024-06,25737
+1174180,Red Dead Redemption 2,sibling,2024-07,30714
+1174180,Red Dead Redemption 2,sibling,2024-08,25610
+1174180,Red Dead Redemption 2,sibling,2024-09,24524
+1174180,Red Dead Redemption 2,sibling,2024-10,22053
+1174180,Red Dead Redemption 2,sibling,2024-11,25329
+1174180,Red Dead Redemption 2,sibling,2024-12,34007
+1174180,Red Dead Redemption 2,sibling,2025-01,39036
+1174180,Red Dead Redemption 2,sibling,2025-02,48806
+1174180,Red Dead Redemption 2,sibling,2025-03,33844
+1174180,Red Dead Redemption 2,sibling,2025-04,34993
+1174180,Red Dead Redemption 2,sibling,2025-05,32330
+1174180,Red Dead Redemption 2,sibling,2025-06,32365
+1174180,Red Dead Redemption 2,sibling,2025-07,38297
+1174180,Red Dead Redemption 2,sibling,2025-08,30677
+1174180,Red Dead Redemption 2,sibling,2025-09,28594
+1174180,Red Dead Redemption 2,sibling,2025-10,32642
+1174180,Red Dead Redemption 2,sibling,2025-11,35402
+1174180,Red Dead Redemption 2,sibling,2025-12,36566
+1174180,Red Dead Redemption 2,sibling,2026-01,39652
+1174180,Red Dead Redemption 2,sibling,2026-02,35146
+1174180,Red Dead Redemption 2,sibling,2026-03,27974
+1174180,Red Dead Redemption 2,sibling,2026-04,30362
+1174180,Red Dead Redemption 2,sibling,2026-05,26643
+1174180,Red Dead Redemption 2,sibling,2026-06,24852
+1174180,Red Dead Redemption 2,sibling,2026-07,32709
+1174180,Red Dead Redemption 2,sibling,2026-08,26893
+1174180,Red Dead Redemption 2,sibling,2026-09,31321
+1174180,Red Dead Redemption 2,sibling,2026-10,29551
+GTAV,GTA V (Legacy + Enhanced),target,2015-04,192714
+GTAV,GTA V (Legacy + Enhanced),target,2015-05,93362
+GTAV,GTA V (Legacy + Enhanced),target,2015-06,46953
+GTAV,GTA V (Legacy + Enhanced),target,2015-07,37657
+GTAV,GTA V (Legacy + Enhanced),target,2015-08,30918
+GTAV,GTA V (Legacy + Enhanced),target,2015-09,25388
+GTAV,GTA V (Legacy + Enhanced),target,2015-10,30925
+GTAV,GTA V (Legacy + Enhanced),target,2015-11,34466
+GTAV,GTA V (Legacy + Enhanced),target,2015-12,43875
+GTAV,GTA V (Legacy + Enhanced),target,2016-01,46993
+GTAV,GTA V (Legacy + Enhanced),target,2016-02,40013
+GTAV,GTA V (Legacy + Enhanced),target,2016-03,34000
+GTAV,GTA V (Legacy + Enhanced),target,2016-04,31671
+GTAV,GTA V (Legacy + Enhanced),target,2016-05,25230
+GTAV,GTA V (Legacy + Enhanced),target,2016-06,40153
+GTAV,GTA V (Legacy + Enhanced),target,2016-07,45166
+GTAV,GTA V (Legacy + Enhanced),target,2016-08,38792
+GTAV,GTA V (Legacy + Enhanced),target,2016-09,31644
+GTAV,GTA V (Legacy + Enhanced),target,2016-10,42084
+GTAV,GTA V (Legacy + Enhanced),target,2016-11,42991
+GTAV,GTA V (Legacy + Enhanced),target,2016-12,61844
+GTAV,GTA V (Legacy + Enhanced),target,2017-01,63179
+GTAV,GTA V (Legacy + Enhanced),target,2017-02,53271
+GTAV,GTA V (Legacy + Enhanced),target,2017-03,48617
+GTAV,GTA V (Legacy + Enhanced),target,2017-04,49108
+GTAV,GTA V (Legacy + Enhanced),target,2017-05,42880
+GTAV,GTA V (Legacy + Enhanced),target,2017-06,60285
+GTAV,GTA V (Legacy + Enhanced),target,2017-07,60840
+GTAV,GTA V (Legacy + Enhanced),target,2017-08,54029
+GTAV,GTA V (Legacy + Enhanced),target,2017-09,45843
+GTAV,GTA V (Legacy + Enhanced),target,2017-10,39774
+GTAV,GTA V (Legacy + Enhanced),target,2017-11,41915
+GTAV,GTA V (Legacy + Enhanced),target,2017-12,78067
+GTAV,GTA V (Legacy + Enhanced),target,2018-01,77567
+GTAV,GTA V (Legacy + Enhanced),target,2018-02,53396
+GTAV,GTA V (Legacy + Enhanced),target,2018-03,46028
+GTAV,GTA V (Legacy + Enhanced),target,2018-04,42780
+GTAV,GTA V (Legacy + Enhanced),target,2018-05,41279
+GTAV,GTA V (Legacy + Enhanced),target,2018-06,48928
+GTAV,GTA V (Legacy + Enhanced),target,2018-07,80395
+GTAV,GTA V (Legacy + Enhanced),target,2018-08,68312
+GTAV,GTA V (Legacy + Enhanced),target,2018-09,49148
+GTAV,GTA V (Legacy + Enhanced),target,2018-10,43266
+GTAV,GTA V (Legacy + Enhanced),target,2018-11,43009
+GTAV,GTA V (Legacy + Enhanced),target,2018-12,55641
+GTAV,GTA V (Legacy + Enhanced),target,2019-01,59851
+GTAV,GTA V (Legacy + Enhanced),target,2019-02,58124
+GTAV,GTA V (Legacy + Enhanced),target,2019-03,60230
+GTAV,GTA V (Legacy + Enhanced),target,2019-04,48502
+GTAV,GTA V (Legacy + Enhanced),target,2019-05,55410
+GTAV,GTA V (Legacy + Enhanced),target,2019-06,56718
+GTAV,GTA V (Legacy + Enhanced),target,2019-07,92618
+GTAV,GTA V (Legacy + Enhanced),target,2019-08,97648
+GTAV,GTA V (Legacy + Enhanced),target,2019-09,66132
+GTAV,GTA V (Legacy + Enhanced),target,2019-10,58656
+GTAV,GTA V (Legacy + Enhanced),target,2019-11,68843
+GTAV,GTA V (Legacy + Enhanced),target,2019-12,97778
+GTAV,GTA V (Legacy + Enhanced),target,2020-01,111300
+GTAV,GTA V (Legacy + Enhanced),target,2020-02,142724
+GTAV,GTA V (Legacy + Enhanced),target,2020-03,116386
+GTAV,GTA V (Legacy + Enhanced),target,2020-04,126087
+GTAV,GTA V (Legacy + Enhanced),target,2020-05,141370
+GTAV,GTA V (Legacy + Enhanced),target,2020-06,99753
+GTAV,GTA V (Legacy + Enhanced),target,2020-07,83655
+GTAV,GTA V (Legacy + Enhanced),target,2020-08,88398
+GTAV,GTA V (Legacy + Enhanced),target,2020-09,68047
+GTAV,GTA V (Legacy + Enhanced),target,2020-10,67193
+GTAV,GTA V (Legacy + Enhanced),target,2020-11,76718
+GTAV,GTA V (Legacy + Enhanced),target,2020-12,106914
+GTAV,GTA V (Legacy + Enhanced),target,2021-01,101251
+GTAV,GTA V (Legacy + Enhanced),target,2021-02,90648
+GTAV,GTA V (Legacy + Enhanced),target,2021-03,89793
+GTAV,GTA V (Legacy + Enhanced),target,2021-04,92648
+GTAV,GTA V (Legacy + Enhanced),target,2021-05,84757
+GTAV,GTA V (Legacy + Enhanced),target,2021-06,88915
+GTAV,GTA V (Legacy + Enhanced),target,2021-07,112995
+GTAV,GTA V (Legacy + Enhanced),target,2021-08,118901
+GTAV,GTA V (Legacy + Enhanced),target,2021-09,81232
+GTAV,GTA V (Legacy + Enhanced),target,2021-10,73027
+GTAV,GTA V (Legacy + Enhanced),target,2021-11,73217
+GTAV,GTA V (Legacy + Enhanced),target,2021-12,91251
+GTAV,GTA V (Legacy + Enhanced),target,2022-01,96453
+GTAV,GTA V (Legacy + Enhanced),target,2022-02,92516
+GTAV,GTA V (Legacy + Enhanced),target,2022-03,82996
+GTAV,GTA V (Legacy + Enhanced),target,2022-04,83231
+GTAV,GTA V (Legacy + Enhanced),target,2022-05,79745
+GTAV,GTA V (Legacy + Enhanced),target,2022-06,84516
+GTAV,GTA V (Legacy + Enhanced),target,2022-07,98624
+GTAV,GTA V (Legacy + Enhanced),target,2022-08,118089
+GTAV,GTA V (Legacy + Enhanced),target,2022-09,96434
+GTAV,GTA V (Legacy + Enhanced),target,2022-10,91790
+GTAV,GTA V (Legacy + Enhanced),target,2022-11,89047
+GTAV,GTA V (Legacy + Enhanced),target,2022-12,106294
+GTAV,GTA V (Legacy + Enhanced),target,2023-01,110334
+GTAV,GTA V (Legacy + Enhanced),target,2023-02,96887
+GTAV,GTA V (Legacy + Enhanced),target,2023-03,90211
+GTAV,GTA V (Legacy + Enhanced),target,2023-04,90737
+GTAV,GTA V (Legacy + Enhanced),target,2023-05,89300
+GTAV,GTA V (Legacy + Enhanced),target,2023-06,114594
+GTAV,GTA V (Legacy + Enhanced),target,2023-07,116998
+GTAV,GTA V (Legacy + Enhanced),target,2023-08,103806
+GTAV,GTA V (Legacy + Enhanced),target,2023-09,91128
+GTAV,GTA V (Legacy + Enhanced),target,2023-10,86738
+GTAV,GTA V (Legacy + Enhanced),target,2023-11,88008
+GTAV,GTA V (Legacy + Enhanced),target,2023-12,145070
+GTAV,GTA V (Legacy + Enhanced),target,2024-01,123806
+GTAV,GTA V (Legacy + Enhanced),target,2024-02,108198
+GTAV,GTA V (Legacy + Enhanced),target,2024-03,104564
+GTAV,GTA V (Legacy + Enhanced),target,2024-04,95409
+GTAV,GTA V (Legacy + Enhanced),target,2024-05,92748
+GTAV,GTA V (Legacy + Enhanced),target,2024-06,102804
+GTAV,GTA V (Legacy + Enhanced),target,2024-07,115604
+GTAV,GTA V (Legacy + Enhanced),target,2024-08,116181
+GTAV,GTA V (Legacy + Enhanced),target,2024-09,97104
+GTAV,GTA V (Legacy + Enhanced),target,2024-10,91561
+GTAV,GTA V (Legacy + Enhanced),target,2024-11,100381
+GTAV,GTA V (Legacy + Enhanced),target,2024-12,123261
+GTAV,GTA V (Legacy + Enhanced),target,2025-01,129120
+GTAV,GTA V (Legacy + Enhanced),target,2025-02,117781
+GTAV,GTA V (Legacy + Enhanced),target,2025-03,153305
+GTAV,GTA V (Legacy + Enhanced),target,2025-04,102683
+GTAV,GTA V (Legacy + Enhanced),target,2025-05,111567
+GTAV,GTA V (Legacy + Enhanced),target,2025-06,115827
+GTAV,GTA V (Legacy + Enhanced),target,2025-07,109399
+GTAV,GTA V (Legacy + Enhanced),target,2025-08,108743
+GTAV,GTA V (Legacy + Enhanced),target,2025-09,92276
+GTAV,GTA V (Legacy + Enhanced),target,2025-10,96863
+GTAV,GTA V (Legacy + Enhanced),target,2025-11,109297
+GTAV,GTA V (Legacy + Enhanced),target,2025-12,159642
+GTAV,GTA V (Legacy + Enhanced),target,2026-01,149782
+GTAV,GTA V (Legacy + Enhanced),target,2026-02,134113
+GTAV,GTA V (Legacy + Enhanced),target,2026-03,121059
+GTAV,GTA V (Legacy + Enhanced),target,2026-04,111042
+GTAV,GTA V (Legacy + Enhanced),target,2026-05,106094
+GTAV,GTA V (Legacy + Enhanced),target,2026-06,119245
+GTAV,GTA V (Legacy + Enhanced),target,2026-07,143469
+GTAV,GTA V (Legacy + Enhanced),target,2026-08,118064
+GTAV,GTA V (Legacy + Enhanced),target,2026-09,98840
+GTAV,GTA V (Legacy + Enhanced),target,2026-10,90152

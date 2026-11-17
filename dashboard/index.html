@@ -1,0 +1,154 @@
+<meta name="dash-one-writer">
+<style>
+.hx { display: flex; flex-direction: column; gap: var(--cds-gap-xl); font-family: var(--font-anthropic-sans); color: var(--color-fg); }
+.hx h1 { font-family: var(--font-anthropic-serif); font-weight: 400; font-size: var(--cds-font-size-title); margin: 0; }
+.hx h2 { font-size: var(--cds-font-size-heading); font-weight: var(--cds-font-weight-medium); margin: 0 0 var(--cds-gap-xs) 0; }
+.hx p { margin: 0; font-size: var(--cds-font-size-body); line-height: 1.5; }
+.hx .hx-muted { color: var(--color-fg-muted); font-size: var(--cds-font-size-caption); }
+.hx .hx-lead { font-size: var(--cds-font-size-body); max-width: 70ch; }
+.hx .hx-head { display: flex; flex-direction: column; gap: var(--cds-gap-sm); }
+.hx .hx-cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: var(--cds-gap-md); }
+.hx .hx-card { background: var(--color-panel); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); padding: var(--cds-pad-lg); display: flex; flex-direction: column; gap: var(--cds-gap-xs); }
+.hx .hx-card .hx-big { font-family: var(--font-anthropic-serif); font-weight: 400; font-size: var(--cds-font-size-title); font-variant-numeric: tabular-nums; }
+.hx .hx-card .hx-lab { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
+.hx .hx-sec { display: flex; flex-direction: column; gap: var(--cds-gap-sm); }
+.hx .hx-row { display: flex; flex-wrap: wrap; gap: var(--cds-gap-md); align-items: center; justify-content: space-between; }
+.hx .hx-chart { position: relative; min-height: 300px; }
+.hx .hx-chart.hx-short { min-height: 170px; }
+.hx .hx-chart svg { display: block; overflow: visible; }
+.hx .hx-chart .hx-axis text { fill: var(--cds-text-secondary); font-size: var(--cds-font-size-caption); font-family: var(--font-anthropic-sans); }
+.hx .hx-chart .hx-axis path, .hx .hx-chart .hx-axis line { stroke: var(--cds-chart-axis); }
+.hx .hx-chart .hx-grid line { stroke: var(--cds-chart-grid); }
+.hx .hx-chart .hx-grid path { stroke: none; }
+.hx .hx-chart .hx-note { fill: var(--cds-text-secondary); font-size: var(--cds-font-size-caption); font-family: var(--font-anthropic-sans); }
+.hx .hx-tip { position: absolute; pointer-events: none; background: var(--cds-surface-popover); border: 1px solid var(--cds-border); box-shadow: var(--cds-shadow-popover); border-radius: var(--cds-radius); padding: var(--cds-pad-sm); font-size: var(--cds-font-size-caption); max-width: 260px; z-index: 2; }
+.hx .hx-tip b { font-weight: var(--cds-font-weight-medium); }
+.hx .hx-tip .hx-tip-ev { color: var(--cds-text-secondary); margin-top: 2px; }
+.hx .hx-legend { display: flex; flex-wrap: wrap; gap: var(--cds-gap-xs) var(--cds-gap-md); font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); align-items: center; }
+.hx .hx-legend span { display: inline-flex; align-items: center; gap: 6px; }
+.hx .hx-sw { display: inline-block; width: 18px; height: 0; border-top: 2px solid var(--color-fg); }
+.hx .hx-sw.hx-dash { border-top-style: dashed; }
+.hx .hx-sw.hx-thin { border-top: 1px solid var(--cds-text-secondary); }
+.hx .hx-sw.hx-thin.hx-dot { border-top-style: dotted; border-top-width: 2px; }
+.hx .hx-sw.hx-band { height: 10px; border: 0; opacity: .25; background: var(--color-fg); }
+.hx .hx-sw.hx-sale { height: 10px; border: 0; background: var(--cds-chart-muted); opacity: .25; }
+.hx .hx-mk { display: inline-block; width: 0; height: 0; }
+.hx .hx-mk.hx-leak { border-left: 5px solid transparent; border-right: 5px solid transparent; border-top: 9px solid var(--color-bad); }
+.hx .hx-mk.hx-off { width: 9px; height: 9px; border-radius: 50%; background: var(--color-fg); }
+.hx .hx-mk.hx-g5 { width: 8px; height: 8px; background: var(--cds-chart-muted); }
+.hx .hx-mk.hx-part { width: 7px; height: 7px; border-radius: 50%; border: 2px solid var(--color-fg); }
+.hx .hx-tablewrap { overflow-x: auto; }
+.hx table.hx-table { border-collapse: collapse; width: 100%; font-size: var(--cds-font-size-caption); font-variant-numeric: tabular-nums; }
+.hx table.hx-table th, .hx table.hx-table td { text-align: left; padding: 6px 10px; border-bottom: 1px solid var(--color-border-line); white-space: nowrap; }
+.hx table.hx-table th { color: var(--color-fg-muted); font-weight: var(--cds-font-weight-medium); }
+.hx table.hx-table td.hx-num, .hx table.hx-table th.hx-num { text-align: right; }
+.hx table.hx-table tr.hx-sel td { font-weight: var(--cds-font-weight-medium); }
+.hx .hx-ok { color: var(--color-ok); } .hx .hx-warn { color: var(--color-warn); } .hx .hx-bad { color: var(--color-bad); }
+.hx details { border-top: 1px solid var(--color-border-line); padding-top: var(--cds-pad-sm); }
+.hx details summary { cursor: pointer; font-size: var(--cds-font-size-body); }
+.hx details ul { margin: var(--cds-gap-sm) 0 0 0; padding-left: 1.2em; font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); line-height: 1.6; }
+</style>
+<div class="hx">
+  <div class="hx-head">
+    <h1 id="title">GTA VI launch: did GTA V play on Steam change?</h1>
+    <p class="hx-lead" id="takeaway-none" data-take="none">The forecast was frozen on data to Nov 15, 2026. No post-launch day has been scored yet.</p>
+    <p class="hx-lead" id="takeaway-live" data-take="live" hidden>After <b data-draw="t-days" data-source="latest" data-field="days_scored" data-row="0">—</b> scored days of the launch fortnight, GTA V's daily peak is running <b data-draw="t-gap" data-source="latest" data-field="mean_gap_pct" data-row="0">—</b> against the frozen forecast, and <b data-draw="t-adj" data-source="latest" data-field="adj_mean_gap_pct" data-row="0">—</b> after adjusting for 18 control games. The verdict is in the outcome table below.</p>
+    <p class="hx-muted">Steam only (PC). GTA VI is not on PC, so this measures an indirect effect. One launch cannot prove cause.</p>
+  </div>
+
+  <div class="hx-cards" id="cards">
+    <div class="hx-card" id="card-pre"><span class="hx-lab">Pre-launch level, Nov 2 to 15</span><span class="hx-big" data-draw="c-pre" data-source="prelaunch">—</span><span class="hx-lab">mean daily peak players, both GTA V apps</span></div>
+    <div class="hx-card" id="card-o1"><span class="hx-lab">Forecast, launch fortnight (Nov 19 to Dec 2)</span><span class="hx-big" data-draw="c-o1" data-source="outcomes" data-field="forecast" data-where="key=GTAV|raw|O1">—</span><span class="hx-lab">mean daily peak; 90% range <span data-draw="c-o1-lo" data-source="outcomes" data-field="lo90" data-where="key=GTAV|raw|O1">—</span> to <span data-draw="c-o1-hi" data-source="outcomes" data-field="hi90" data-where="key=GTAV|raw|O1">—</span></span></div>
+    <div class="hx-card" id="card-o2"><span class="hx-lab">Forecast, December average</span><span class="hx-big" data-draw="c-o2" data-source="outcomes" data-field="forecast" data-where="key=GTAV|raw|O2">—</span><span class="hx-lab">average players; 90% range <span data-draw="c-o2-lo" data-source="outcomes" data-field="lo90" data-where="key=GTAV|raw|O2">—</span> to <span data-draw="c-o2-hi" data-source="outcomes" data-field="hi90" data-where="key=GTAV|raw|O2">—</span></span></div>
+    <div class="hx-card" id="card-mde"><span class="hx-lab">Smallest detectable effect, control-adjusted</span><span class="hx-big"><span data-draw="c-mde1d" data-source="outcomes" data-field="detectable_down_pct" data-where="key=GTAV|adjusted|O1">—</span> / <span data-draw="c-mde1" data-source="outcomes" data-field="detectable_up_pct" data-where="key=GTAV|adjusted|O1">—</span></span><span class="hx-lab">in the fortnight; <span data-draw="c-mde2d" data-source="outcomes" data-field="detectable_down_pct" data-where="key=GTAV|adjusted|O2">—</span> / <span data-draw="c-mde2" data-source="outcomes" data-field="detectable_up_pct" data-where="key=GTAV|adjusted|O2">—</span> in December. Smaller changes look like forecast error.</span></div>
+  </div>
+
+  <div class="hx-sec" id="daily">
+    <div class="hx-row">
+      <h2>Daily peak players, frozen forecast and events</h2>
+      <select class="dash-select" id="view" aria-label="Scale">
+        <option value="raw">Players</option>
+        <option value="adj">Relative to control games (pre-launch = 100)</option>
+      </select>
+    </div>
+    <div class="hx-legend" id="legend-daily">
+      <span><i class="hx-sw" data-c="0"></i>GTA V, both apps</span>
+      <span><i class="hx-sw hx-thin"></i>Legacy app</span>
+      <span><i class="hx-sw hx-thin hx-dot"></i>Enhanced app</span>
+      <span><i class="hx-sw hx-dash" data-c="1"></i>Frozen forecast</span>
+      <span><i class="hx-sw hx-band" data-cbg="1"></i>80% and 95% bands</span>
+      <span><i class="hx-mk hx-part"></i>Partial day, not scored</span>
+      <span><i class="hx-mk hx-leak"></i>GTA VI leak</span>
+      <span><i class="hx-mk hx-off"></i>GTA VI official</span>
+      <span><i class="hx-mk hx-g5"></i>GTA V / GTA Online event</span>
+      <span><i class="hx-sw hx-sale"></i>Steam sale</span>
+    </div>
+    <div class="hx-chart" id="players-chart" data-draw="players-chart" data-source="players_daily adjusted_history forecast tracker events">—</div>
+    <p class="hx-muted">Daily peak is the sum of the Legacy and Enhanced apps' peaks, an upper bound on the true simultaneous peak. From Dec 3 the band is October's level plus the forecast December rise; the ramp into the holidays is not modelled, so judge December only as a full month.</p>
+  </div>
+
+  <div class="hx-sec" id="trends">
+    <h2>Search interest for "GTA 6" and "GTA 5"</h2>
+    <div class="hx-legend"><span><i class="hx-sw" data-c="2"></i>GTA 6</span><span><i class="hx-sw hx-dash" data-c="3"></i>GTA 5</span></div>
+    <div class="hx-chart hx-short" id="trends-chart" data-draw="trends-chart" data-source="trends events">—</div>
+    <p class="hx-muted">Google Trends, worldwide, 100 = the busiest day since March 2026. Not used in the forecast: search is already reacting to the launch.</p>
+  </div>
+
+  <div class="hx-sec" id="monthly">
+    <h2>Monthly average players since 2015</h2>
+    <div class="hx-chart" id="monthly-chart" data-draw="monthly-chart" data-source="players_monthly outcomes">—</div>
+    <p class="hx-muted">Dots mark each December. The bar at the right is the frozen forecast for December 2026 with its 90% range.</p>
+  </div>
+
+  <div class="hx-sec" id="backtest">
+    <h2>Backtest: how well each model forecast the past</h2>
+    <p class="hx-muted">Error is the typical miss in percent. Monthly models are scored two months ahead; daily models on a 14-day mean, 4 to 17 days ahead. The simplest model wins unless a more complex one is at least 5% better.</p>
+    <div class="hx-tablewrap">
+      <table class="hx-table" id="bt-table" data-source="backtest" data-row-key="key">
+        <thead><tr>
+          <th data-field="resolution">Resolution</th><th data-field="target">Target</th><th data-field="model">Model</th>
+          <th class="hx-num" data-field="mae_pct">Typical miss, %</th><th class="hx-num" data-field="dec_rmse_pct">December miss (RMSE), %</th>
+          <th data-field="eligible">Eligible</th><th data-field="selected">Selected</th>
+        </tr></thead>
+        <tbody data-draw="bt-rows"></tbody>
+      </table>
+    </div>
+    <h2>December backtests: forecast and actual October-to-December change</h2>
+    <div class="hx-legend"><span><i class="hx-mk hx-part"></i>Forecast</span><span><i class="hx-mk hx-off"></i>Actual</span></div>
+    <div class="hx-chart hx-short" id="dec-chart" data-draw="dec-chart" data-source="backtest_december">—</div>
+  </div>
+
+  <div class="hx-sec" id="tracker">
+    <h2>Post-launch tracker</h2>
+    <div class="hx-tablewrap">
+      <table class="hx-table" id="oc-table" data-source="outcomes" data-row-key="key">
+        <thead><tr>
+          <th data-field="outcome">Outcome</th><th data-field="target">Target</th><th data-field="model">Model</th>
+          <th class="hx-num" data-field="forecast">Forecast</th><th class="hx-num" data-field="lo90">90% low</th><th class="hx-num" data-field="hi90">90% high</th>
+          <th class="hx-num" data-field="gap_pct">Actual vs forecast, %</th><th class="hx-num" data-field="placebo_rank">Rank among 19</th><th data-field="verdict">Verdict</th>
+        </tr></thead>
+        <tbody data-draw="oc-rows"></tbody>
+      </table>
+    </div>
+    <p class="hx-muted">Raw forecasts are players. Adjusted forecasts are an index: 100 = the pre-launch level relative to the control games (fortnight) or October (December). "Detected" needs both: outside the 90% range and a larger standardized gap than all 18 control games.</p>
+    <h2>Daily gap to forecast</h2>
+    <p class="hx-muted" id="gap-none" data-gap="none">No scored days yet. Days appear here after the tracker file is replaced with a new export.</p>
+    <div class="hx-chart hx-short" id="gap-chart" data-draw="gap-chart" data-source="tracker" hidden>—</div>
+    <h2>GTA V against the placebo games</h2>
+    <p class="hx-muted" id="pl-none" data-pl="none">Available once an outcome window is complete (fortnight: Dec 2; December: early January).</p>
+    <div class="hx-chart hx-short" id="placebo-chart" data-draw="placebo-chart" data-source="outcomes" hidden>—</div>
+  </div>
+
+  <details id="notes">
+    <summary>What this can and cannot show</summary>
+    <ul>
+      <li>The forecast, intervals and decision rule were fixed before launch and hashed. Nothing is refitted afterwards.</li>
+      <li>Only Steam is measured. Console GTA V and GTA Online, where switching to GTA VI is most direct, are not visible.</li>
+      <li>The baseline starts Aug 20, 2026, after pre-orders and the August leaks. The test measures the extra change at launch, not the whole effect of the hype.</li>
+      <li>A GTA V discount or GTA Online event timed with the launch is part of the measured gap and cannot be separated from it.</li>
+      <li>The control index removes Steam-wide swings only. Control games are also exposed to GTA VI, so the adjusted gap may understate a fall.</li>
+      <li>Daily backtests cover Sep 30 to Nov 15 and contain no holiday. December rises have ranged widely, so only large December effects are detectable.</li>
+    </ul>
+  </details>
+</div>
+<script src="app.js"></script>

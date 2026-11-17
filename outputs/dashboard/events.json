@@ -1,0 +1,330 @@
+[
+{
+"date": "2013-09-17",
+"end_date": null,
+"group": "gta5",
+"event_type": "gtav_platform",
+"title": "GTA V releases on PS3 / Xbox 360",
+"confidence": "high"
+},
+{
+"date": "2014-11-18",
+"end_date": null,
+"group": "gta5",
+"event_type": "gtav_platform",
+"title": "GTA V re-release on PS4 / Xbox One",
+"confidence": "medium"
+},
+{
+"date": "2015-04-14",
+"end_date": null,
+"group": "gta5",
+"event_type": "gtav_platform",
+"title": "GTA V PC release on Steam",
+"confidence": "high"
+},
+{
+"date": "2020-05-14",
+"end_date": null,
+"group": "gta5",
+"event_type": "gtav_promo",
+"title": "Free on Epic Games Store (one-week giveaway)",
+"confidence": "high"
+},
+{
+"date": "2021-12-15",
+"end_date": null,
+"group": "gta5",
+"event_type": "gtaonline_dlc",
+"title": "GTA Online: The Contract update",
+"confidence": "medium"
+},
+{
+"date": "2022-03-15",
+"end_date": null,
+"group": "gta5",
+"event_type": "gtav_platform",
+"title": "GTA V on PS5 / Xbox Series X|S",
+"confidence": "high"
+},
+{
+"date": "2022-09-18",
+"end_date": null,
+"group": "leak",
+"event_type": "leak",
+"title": "Lapsus$ hack: ~90 in-development clips posted to GTAForums",
+"confidence": "high"
+},
+{
+"date": "2022-09-22",
+"end_date": null,
+"group": "leak",
+"event_type": "leak_followup",
+"title": "Suspect arrested over the 2022 hack",
+"confidence": "medium"
+},
+{
+"date": "2022-12-13",
+"end_date": null,
+"group": "gta5",
+"event_type": "gtaonline_dlc",
+"title": "GTA Online: Los Santos Drug Wars update",
+"confidence": "medium"
+},
+{
+"date": "2023-07-05",
+"end_date": null,
+"group": "gta5",
+"event_type": "gtav_promo",
+"title": "GTA V added to Xbox Game Pass",
+"confidence": "high"
+},
+{
+"date": "2023-10-01",
+"end_date": null,
+"group": "leak",
+"event_type": "leak",
+"title": "Story and prologue details leak online (exact day not confirmed)",
+"confidence": "medium"
+},
+{
+"date": "2023-12-01",
+"end_date": null,
+"group": "leak",
+"event_type": "leak",
+"title": "13-second aerial clip posted to TikTok by a Rockstar North staffer's family member",
+"confidence": "medium"
+},
+{
+"date": "2023-12-04",
+"end_date": null,
+"group": "leak",
+"event_type": "leak",
+"title": "Trailer 1 leaks a day early; Rockstar publishes it early",
+"confidence": "high"
+},
+{
+"date": "2023-12-05",
+"end_date": null,
+"group": "gta5",
+"event_type": "gtaonline_dlc",
+"title": "GTA Online: The Chop Shop update",
+"confidence": "medium"
+},
+{
+"date": "2023-12-05",
+"end_date": null,
+"group": "gta6",
+"event_type": "official",
+"title": "Trailer 1 officially premieres (Rockstar 25th anniversary)",
+"confidence": "high"
+},
+{
+"date": "2024-12-10",
+"end_date": null,
+"group": "gta5",
+"event_type": "gtaonline_dlc",
+"title": "GTA Online: Agents of Sabotage update",
+"confidence": "medium"
+},
+{
+"date": "2025-03-04",
+"end_date": null,
+"group": "gta5",
+"event_type": "gtav_platform",
+"title": "GTA V Enhanced (new Steam app 3240220); Legacy players migrate",
+"confidence": "medium"
+},
+{
+"date": "2025-05-02",
+"end_date": null,
+"group": "gta6",
+"event_type": "delay",
+"title": "First delay: Fall 2025 -> May 26, 2026",
+"confidence": "high"
+},
+{
+"date": "2025-05-06",
+"end_date": null,
+"group": "gta6",
+"event_type": "official",
+"title": "Trailer 2 released",
+"confidence": "medium"
+},
+{
+"date": "2025-10-30",
+"end_date": null,
+"group": "gta6",
+"event_type": "news",
+"title": "Rockstar terminates 34 employees over 'public discussion and distribution of confidential information'",
+"confidence": "medium"
+},
+{
+"date": "2025-11-06",
+"end_date": null,
+"group": "gta6",
+"event_type": "delay",
+"title": "Second delay: release moved to Nov 19, 2026",
+"confidence": "high"
+},
+{
+"date": "2026-06-18",
+"end_date": null,
+"group": "gta5",
+"event_type": "gtav_platform",
+"title": "Free upgrade starts: PS4/Xbox One owners to current-gen; PC Legacy to Enhanced",
+"confidence": "high"
+},
+{
+"date": "2026-06-25",
+"end_date": null,
+"group": "gta6",
+"event_type": "preorder",
+"title": "Pre-orders open ($79.99 Standard / $99.99 Ultimate)",
+"confidence": "high"
+},
+{
+"date": "2026-06-25",
+"end_date": "2026-07-09",
+"group": "steam",
+"event_type": "steam_sale",
+"title": "Steam Summer Sale (Jun 25 - Jul 9)",
+"confidence": "high"
+},
+{
+"date": "2026-07-14",
+"end_date": null,
+"group": "gta5",
+"event_type": "gtaonline_dlc",
+"title": "GTA Online: The Kortz Center Heist update",
+"confidence": "high"
+},
+{
+"date": "2026-07-21",
+"end_date": null,
+"group": "gta5",
+"event_type": "gtav_platform",
+"title": "FiveM for GTA V Enhanced enters early access (GTA RP)",
+"confidence": "medium"
+},
+{
+"date": "2026-08-06",
+"end_date": null,
+"group": "gta6",
+"event_type": "official",
+"title": "Rockstar announces 'An Extended Look' for Netflix on Aug 27",
+"confidence": "high"
+},
+{
+"date": "2026-08-12",
+"end_date": null,
+"group": "gta6",
+"event_type": "news",
+"title": "Take-Two CEO says pre-orders vastly exceed forecasts; premium edition skew",
+"confidence": "medium"
+},
+{
+"date": "2026-08-18",
+"end_date": null,
+"group": "leak",
+"event_type": "leak",
+"title": "CyberLeek posts gameplay clips and a Leonida map; Rockstar answers with DMCA takedowns",
+"confidence": "high"
+},
+{
+"date": "2026-08-19",
+"end_date": null,
+"group": "leak",
+"event_type": "leak",
+"title": "Longer (2+ min) gameplay clip surfaces a day after the first clips",
+"confidence": "medium"
+},
+{
+"date": "2026-08-21",
+"end_date": null,
+"group": "leak",
+"event_type": "leak",
+"title": "Second group claims internal build (April 2026 screenshot) via phished employee",
+"confidence": "medium"
+},
+{
+"date": "2026-08-24",
+"end_date": null,
+"group": "leak",
+"event_type": "leak",
+"title": "Further leaks suggest Lucia content access",
+"confidence": "medium"
+},
+{
+"date": "2026-08-26",
+"end_date": null,
+"group": "leak",
+"event_type": "leak",
+"title": "Cumulative leak total reaches 16 gameplay clips and 3 map screenshots",
+"confidence": "medium"
+},
+{
+"date": "2026-08-27",
+"end_date": null,
+"group": "leak",
+"event_type": "leak",
+"title": "Rockstar acknowledges the leaks ahead of the Extended Look",
+"confidence": "medium"
+},
+{
+"date": "2026-08-27",
+"end_date": null,
+"group": "gta6",
+"event_type": "official",
+"title": "Extended Look premieres on Netflix 3pm ET; YouTube/site 9pm ET",
+"confidence": "high"
+},
+{
+"date": "2026-10-01",
+"end_date": "2026-10-08",
+"group": "steam",
+"event_type": "steam_sale",
+"title": "Steam Autumn Sale (Oct 1 - 8)",
+"confidence": "high"
+},
+{
+"date": "2026-10-02",
+"end_date": null,
+"group": "gta6",
+"event_type": "official",
+"title": "New screenshots, story details and Miami Heat merchandise announced",
+"confidence": "low"
+},
+{
+"date": "2026-11-05",
+"end_date": "2026-11-11",
+"group": "gta5",
+"event_type": "gtaonline_dlc",
+"title": "GTA Online Heist Event week (Nov 5 - 11); no new content",
+"confidence": "medium"
+},
+{
+"date": "2026-11-12",
+"end_date": null,
+"group": "gta6",
+"event_type": "official",
+"title": "GTA VI pre-load opens for digital pre-orders",
+"confidence": "medium"
+},
+{
+"date": "2026-11-19",
+"end_date": null,
+"group": "gta6",
+"event_type": "release",
+"title": "GTA VI launches on PS5 and Xbox Series X|S (no PC at launch)",
+"confidence": "high"
+},
+{
+"date": "2026-12-17",
+"end_date": "2027-01-04",
+"group": "steam",
+"event_type": "steam_sale",
+"title": "Steam Winter Sale (Dec 17 - Jan 4)",
+"confidence": "high"
+}
+]

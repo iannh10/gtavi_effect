@@ -1,0 +1,2 @@
+date,phase,partial_day,actual,forecast,gap_pct,adj_actual,adj_forecast,adj_gap_pct,days_scored,mean_gap_pct,adj_mean_gap_pct,cum_gap_player_days
+2026-11-16,pre-launch,1,128693,124640,,,,,,,,

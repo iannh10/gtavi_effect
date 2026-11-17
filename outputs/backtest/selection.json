@@ -1,0 +1,120 @@
+{
+ "monthly": {
+  "raw": "clim",
+  "adjusted": "nn"
+ },
+ "daily": {
+  "raw": "naive",
+  "adjusted": "naive"
+ },
+ "tables": {
+  "raw": {
+   "monthly_mae_h2_all_origins": {
+    "clim": 0.16223675880449107,
+    "naive": 0.18510291562058143,
+    "nn": 0.15486106415407794,
+    "sarima": 0.16628979486578135
+   },
+   "monthly_rmse_oct_to_dec": {
+    "clim": 0.18536278664595193,
+    "naive": 0.26233539234569825,
+    "nn": 0.21740367606057506,
+    "sarima": 0.25357313961631667
+   },
+   "daily_mae_window": {
+    "ets": 0.03218459314555743,
+    "ets_damped": 0.043477680971619866,
+    "naive": 0.029673341446207147,
+    "nn": 0.03048786552701639,
+    "sarimax_trends": 0.04999492581454431
+   }
+  },
+  "adjusted": {
+   "monthly_mae_h2_all_origins": {
+    "clim": 0.17649855349087268,
+    "naive": 0.1998331868441862,
+    "nn": 0.15048804879139233,
+    "sarima": 0.1782289244215933
+   },
+   "monthly_rmse_oct_to_dec": {
+    "clim": 0.20058976053676358,
+    "naive": 0.292280633956371,
+    "nn": 0.237263298774276,
+    "sarima": 0.25704340642219453
+   },
+   "daily_mae_window": {
+    "ets": 0.02616626205805191,
+    "ets_damped": 0.04315598623998896,
+    "naive": 0.020584618422409544,
+    "nn": 0.02585443487609839,
+    "sarimax_trends": 0.027053029733768597
+   }
+  }
+ },
+ "leakage_tests": [
+  {
+   "check": "monthly/raw: history up to origin unchanged when the future is corrupted (index is causal)",
+   "passed": true
+  },
+  {
+   "check": "monthly/raw: forecasts of all models identical when the future is corrupted",
+   "passed": true
+  },
+  {
+   "check": "monthly/raw: the corrupted run did see different actuals (test has teeth)",
+   "passed": true
+  },
+  {
+   "check": "monthly/adjusted: history up to origin unchanged when the future is corrupted (index is causal)",
+   "passed": true
+  },
+  {
+   "check": "monthly/adjusted: forecasts of all models identical when the future is corrupted",
+   "passed": true
+  },
+  {
+   "check": "monthly/adjusted: the corrupted run did see different actuals (test has teeth)",
+   "passed": true
+  },
+  {
+   "check": "daily/raw: history up to origin unchanged when the future is corrupted (index is causal)",
+   "passed": true
+  },
+  {
+   "check": "daily/raw: forecasts of all models identical when the future is corrupted",
+   "passed": true
+  },
+  {
+   "check": "daily/raw: the corrupted run did see different actuals (test has teeth)",
+   "passed": true
+  },
+  {
+   "check": "daily/adjusted: history up to origin unchanged when the future is corrupted (index is causal)",
+   "passed": true
+  },
+  {
+   "check": "daily/adjusted: forecasts of all models identical when the future is corrupted",
+   "passed": true
+  },
+  {
+   "check": "daily/adjusted: the corrupted run did see different actuals (test has teeth)",
+   "passed": true
+  },
+  {
+   "check": "daily data ends on the freeze origin; partial day 2026-11-16 excluded",
+   "passed": true
+  },
+  {
+   "check": "monthly data ends on the freeze month",
+   "passed": true
+  },
+  {
+   "check": "no data on or after launch day in any input",
+   "passed": true
+  },
+  {
+   "check": "Trends model is not in the eligible list",
+   "passed": true
+  }
+ ]
+}
