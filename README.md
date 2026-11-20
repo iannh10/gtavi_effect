@@ -64,6 +64,25 @@ Milestones: Dec 3 (launch fortnight complete, outcome O1) and early January (Dec
 - The manifest also records hashes of the config, the pre-registration and the code at freeze time, for the record.
 - Backtests assert that no training point is later than the forecast origin, and corrupt-the-future tests confirm it.
 
+## Data collection schedule
+
+| Event | Date |
+|---|---|
+| Daily collection begins | 2026-11-17 (7:00 AM PT) |
+| Outcome O1 window closes | 2026-12-02 |
+| Outcome O2 window closes | 2026-12-31 |
+| Final scoring run | 2027-01-05 (7:00 AM PT) |
+| Job self-disables | after 2027-01-05 |
+
+`scripts/daily_update.sh` runs via launchd every day at 7:00 AM PT using a `StartCalendarInterval`
+entry, so it fires on wake if the Mac was asleep. It calls `backfill` (idempotent; recovers any
+missed days up to ~90 days back), runs `halo.track`, and commits only the files in `data/post/`,
+`outputs/tracker/`, and `outputs/dashboard/` if anything changed. After `2027-01-05` the job
+unloads itself automatically.
+
+To pause: `launchctl bootout gui/$(id -u)/com.ianhuang.gtavi-daily`
+To resume: `launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/com.ianhuang.gtavi-daily.plist`
+
 ## Honest limits
 
 See section 8 of the pre-registration and "Limits" in the backtest report. In short: Steam only; one
