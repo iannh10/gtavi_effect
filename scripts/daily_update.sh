@@ -34,6 +34,10 @@ source "$VENV/bin/activate" || die "venv not found at $VENV; run: python -m venv
 
 cd "$REPO"
 
+# Pull remote changes first so the working tree is clean before data files are written.
+log "git pull --rebase..."
+git pull --rebase --autostash >> "$LOGFILE" 2>&1 || die "git pull --rebase failed"
+
 # Collect: backfill is idempotent and catches any missed days.
 log "collect_players backfill..."
 python scripts/collect_players.py backfill >> "$LOGFILE" 2>&1 || die "backfill failed"
@@ -41,10 +45,6 @@ python scripts/collect_players.py backfill >> "$LOGFILE" 2>&1 || die "backfill f
 # Track: hash check runs first; exits non-zero if frozen files changed.
 log "halo.track..."
 python -m halo.track >> "$LOGFILE" 2>&1 || die "halo.track failed"
-
-# Sync before staging, to avoid push conflicts.
-log "git pull --rebase..."
-git pull --rebase >> "$LOGFILE" 2>&1 || die "git pull --rebase failed"
 
 # Stage only the data/output files (never frozen files or code).
 git add data/post/ outputs/tracker/ outputs/dashboard/ >> "$LOGFILE" 2>&1
