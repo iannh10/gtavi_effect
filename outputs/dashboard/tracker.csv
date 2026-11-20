@@ -1,2 +1,6 @@
 date,phase,partial_day,actual,forecast,gap_pct,adj_actual,adj_forecast,adj_gap_pct,days_scored,mean_gap_pct,adj_mean_gap_pct,cum_gap_player_days
 2026-11-16,pre-launch,1,128693,124640,,,,,,,,
+2026-11-17,pre-launch,0,134117,124721,7.53,109.93,104.9,4.79,,,,
+2026-11-18,pre-launch,0,145998,129022,13.16,124.58,103.84,19.97,,,,
+2026-11-19,fortnight,0,163754,121225,35.08,141.64,99.7,42.07,1.0,35.08,42.07,42529.0
+2026-11-20,fortnight,1,188550,130673,,,,,,,,
