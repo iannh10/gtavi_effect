@@ -5,137 +5,157 @@ GTAV,GTA V (Legacy + Enhanced),target,2026-11-18,145998,0
 GTAV,GTA V (Legacy + Enhanced),target,2026-11-19,163754,0
 GTAV,GTA V (Legacy + Enhanced),target,2026-11-20,188550,0
 GTAV,GTA V (Legacy + Enhanced),target,2026-11-21,225008,0
-GTAV,GTA V (Legacy + Enhanced),target,2026-11-22,238859,1
+GTAV,GTA V (Legacy + Enhanced),target,2026-11-22,238859,0
+GTAV,GTA V (Legacy + Enhanced),target,2026-11-23,205495,1
 730,Counter-Strike 2,control,2026-11-16,1089270,0
 730,Counter-Strike 2,control,2026-11-17,1112523,0
 730,Counter-Strike 2,control,2026-11-18,1214865,0
 730,Counter-Strike 2,control,2026-11-19,1108331,0
 730,Counter-Strike 2,control,2026-11-20,1200344,0
 730,Counter-Strike 2,control,2026-11-21,1259590,0
-730,Counter-Strike 2,control,2026-11-22,1208377,1
+730,Counter-Strike 2,control,2026-11-22,1208377,0
+730,Counter-Strike 2,control,2026-11-23,1086448,1
 570,Dota 2,control,2026-11-16,774006,0
 570,Dota 2,control,2026-11-17,751519,0
 570,Dota 2,control,2026-11-18,727726,0
 570,Dota 2,control,2026-11-19,812844,0
 570,Dota 2,control,2026-11-20,818620,0
 570,Dota 2,control,2026-11-21,860324,0
-570,Dota 2,control,2026-11-22,887080,1
+570,Dota 2,control,2026-11-22,887080,0
+570,Dota 2,control,2026-11-23,768142,1
 440,Team Fortress 2,control,2026-11-16,104527,0
 440,Team Fortress 2,control,2026-11-17,100409,0
 440,Team Fortress 2,control,2026-11-18,100094,0
 440,Team Fortress 2,control,2026-11-19,102554,0
 440,Team Fortress 2,control,2026-11-20,109816,0
 440,Team Fortress 2,control,2026-11-21,110433,0
-440,Team Fortress 2,control,2026-11-22,106199,1
+440,Team Fortress 2,control,2026-11-22,106282,0
+440,Team Fortress 2,control,2026-11-23,99448,1
 252490,Rust,control,2026-11-16,102518,0
 252490,Rust,control,2026-11-17,102722,0
 252490,Rust,control,2026-11-18,87850,0
 252490,Rust,control,2026-11-19,102134,0
 252490,Rust,control,2026-11-20,115771,0
 252490,Rust,control,2026-11-21,117901,0
-252490,Rust,control,2026-11-22,107189,1
+252490,Rust,control,2026-11-22,107788,0
+252490,Rust,control,2026-11-23,80083,1
 227300,Euro Truck Simulator 2,control,2026-11-16,75690,0
 227300,Euro Truck Simulator 2,control,2026-11-17,73072,0
 227300,Euro Truck Simulator 2,control,2026-11-18,65041,0
 227300,Euro Truck Simulator 2,control,2026-11-19,59906,0
 227300,Euro Truck Simulator 2,control,2026-11-20,64588,0
 227300,Euro Truck Simulator 2,control,2026-11-21,68464,0
-227300,Euro Truck Simulator 2,control,2026-11-22,72426,1
+227300,Euro Truck Simulator 2,control,2026-11-22,72426,0
+227300,Euro Truck Simulator 2,control,2026-11-23,47609,1
 230410,Warframe,control,2026-11-16,71212,0
 230410,Warframe,control,2026-11-17,71512,0
 230410,Warframe,control,2026-11-18,62937,0
 230410,Warframe,control,2026-11-19,59232,0
 230410,Warframe,control,2026-11-20,63709,0
 230410,Warframe,control,2026-11-21,79207,0
-230410,Warframe,control,2026-11-22,80559,1
+230410,Warframe,control,2026-11-22,80559,0
+230410,Warframe,control,2026-11-23,74244,1
 359550,Tom Clancy's Rainbow Six Siege,control,2026-11-16,68525,0
 359550,Tom Clancy's Rainbow Six Siege,control,2026-11-17,64140,0
 359550,Tom Clancy's Rainbow Six Siege,control,2026-11-18,64031,0
 359550,Tom Clancy's Rainbow Six Siege,control,2026-11-19,58704,0
 359550,Tom Clancy's Rainbow Six Siege,control,2026-11-20,60228,0
 359550,Tom Clancy's Rainbow Six Siege,control,2026-11-21,66904,0
-359550,Tom Clancy's Rainbow Six Siege,control,2026-11-22,58089,1
+359550,Tom Clancy's Rainbow Six Siege,control,2026-11-22,70823,0
+359550,Tom Clancy's Rainbow Six Siege,control,2026-11-23,57065,1
 105600,Terraria,control,2026-11-16,32274,0
 105600,Terraria,control,2026-11-17,32916,0
 105600,Terraria,control,2026-11-18,31624,0
 105600,Terraria,control,2026-11-19,31313,0
 105600,Terraria,control,2026-11-20,34405,0
 105600,Terraria,control,2026-11-21,39425,0
-105600,Terraria,control,2026-11-22,38655,1
+105600,Terraria,control,2026-11-22,38655,0
+105600,Terraria,control,2026-11-23,32043,1
 4000,Garry's Mod,control,2026-11-16,27287,0
 4000,Garry's Mod,control,2026-11-17,27233,0
 4000,Garry's Mod,control,2026-11-18,26444,0
 4000,Garry's Mod,control,2026-11-19,25620,0
 4000,Garry's Mod,control,2026-11-20,29484,0
 4000,Garry's Mod,control,2026-11-21,35331,0
-4000,Garry's Mod,control,2026-11-22,29238,1
+4000,Garry's Mod,control,2026-11-22,33072,0
+4000,Garry's Mod,control,2026-11-23,20871,1
 218620,PAYDAY 2,control,2026-11-16,15403,0
 218620,PAYDAY 2,control,2026-11-17,15152,0
 218620,PAYDAY 2,control,2026-11-18,14170,0
 218620,PAYDAY 2,control,2026-11-19,14462,0
 218620,PAYDAY 2,control,2026-11-20,14753,0
 218620,PAYDAY 2,control,2026-11-21,15586,0
-218620,PAYDAY 2,control,2026-11-22,15060,1
+218620,PAYDAY 2,control,2026-11-22,15060,0
+218620,PAYDAY 2,control,2026-11-23,12819,1
 304930,Unturned,control,2026-11-16,19174,0
 304930,Unturned,control,2026-11-17,19179,0
 304930,Unturned,control,2026-11-18,19274,0
 304930,Unturned,control,2026-11-19,18881,0
 304930,Unturned,control,2026-11-20,18497,0
 304930,Unturned,control,2026-11-21,19232,0
-304930,Unturned,control,2026-11-22,19796,1
+304930,Unturned,control,2026-11-22,20424,0
+304930,Unturned,control,2026-11-23,18535,1
 251570,7 Days to Die,control,2026-11-16,23984,0
 251570,7 Days to Die,control,2026-11-17,24249,0
 251570,7 Days to Die,control,2026-11-18,23627,0
 251570,7 Days to Die,control,2026-11-19,23348,0
 251570,7 Days to Die,control,2026-11-20,25068,0
 251570,7 Days to Die,control,2026-11-21,30712,0
-251570,7 Days to Die,control,2026-11-22,33435,1
+251570,7 Days to Die,control,2026-11-22,33435,0
+251570,7 Days to Die,control,2026-11-23,24654,1
 413150,Stardew Valley,control,2026-11-16,73376,0
 413150,Stardew Valley,control,2026-11-17,73510,0
 413150,Stardew Valley,control,2026-11-18,72126,0
 413150,Stardew Valley,control,2026-11-19,71128,0
 413150,Stardew Valley,control,2026-11-20,75579,0
 413150,Stardew Valley,control,2026-11-21,85001,0
-413150,Stardew Valley,control,2026-11-22,85037,1
+413150,Stardew Valley,control,2026-11-22,85037,0
+413150,Stardew Valley,control,2026-11-23,73529,1
 236390,War Thunder,control,2026-11-16,73196,0
 236390,War Thunder,control,2026-11-17,76938,0
 236390,War Thunder,control,2026-11-18,72286,0
 236390,War Thunder,control,2026-11-19,71961,0
 236390,War Thunder,control,2026-11-20,79343,0
 236390,War Thunder,control,2026-11-21,88410,0
-236390,War Thunder,control,2026-11-22,86092,1
+236390,War Thunder,control,2026-11-22,86092,0
+236390,War Thunder,control,2026-11-23,68860,1
 221100,DayZ,control,2026-11-16,45475,0
 221100,DayZ,control,2026-11-17,44909,0
 221100,DayZ,control,2026-11-18,41529,0
 221100,DayZ,control,2026-11-19,40015,0
 221100,DayZ,control,2026-11-20,42982,0
 221100,DayZ,control,2026-11-21,46509,0
-221100,DayZ,control,2026-11-22,43797,1
+221100,DayZ,control,2026-11-22,48952,0
+221100,DayZ,control,2026-11-23,29783,1
 107410,Arma 3,control,2026-11-16,6787,0
 107410,Arma 3,control,2026-11-17,6688,0
 107410,Arma 3,control,2026-11-18,6491,0
 107410,Arma 3,control,2026-11-19,6254,0
 107410,Arma 3,control,2026-11-20,8426,0
 107410,Arma 3,control,2026-11-21,11058,0
-107410,Arma 3,control,2026-11-22,7134,1
+107410,Arma 3,control,2026-11-22,9815,0
+107410,Arma 3,control,2026-11-23,5627,1
 381210,Dead by Daylight,control,2026-11-16,47307,0
 381210,Dead by Daylight,control,2026-11-17,48726,0
 381210,Dead by Daylight,control,2026-11-18,47251,0
 381210,Dead by Daylight,control,2026-11-19,45446,0
 381210,Dead by Daylight,control,2026-11-20,49210,0
 381210,Dead by Daylight,control,2026-11-21,54617,0
-381210,Dead by Daylight,control,2026-11-22,56472,1
+381210,Dead by Daylight,control,2026-11-22,56472,0
+381210,Dead by Daylight,control,2026-11-23,45608,1
 550,Left 4 Dead 2,control,2026-11-16,31720,0
 550,Left 4 Dead 2,control,2026-11-17,28845,0
 550,Left 4 Dead 2,control,2026-11-18,28921,0
 550,Left 4 Dead 2,control,2026-11-19,28265,0
 550,Left 4 Dead 2,control,2026-11-20,34069,0
 550,Left 4 Dead 2,control,2026-11-21,38002,0
-550,Left 4 Dead 2,control,2026-11-22,35011,1
+550,Left 4 Dead 2,control,2026-11-22,35011,0
+550,Left 4 Dead 2,control,2026-11-23,29834,1
 1174180,Red Dead Redemption 2,sibling,2026-11-16,32890,0
 1174180,Red Dead Redemption 2,sibling,2026-11-17,33543,0
 1174180,Red Dead Redemption 2,sibling,2026-11-18,33585,0
 1174180,Red Dead Redemption 2,sibling,2026-11-19,39392,0
 1174180,Red Dead Redemption 2,sibling,2026-11-20,48052,0
 1174180,Red Dead Redemption 2,sibling,2026-11-21,61422,0
-1174180,Red Dead Redemption 2,sibling,2026-11-22,69766,1
+1174180,Red Dead Redemption 2,sibling,2026-11-22,69766,0
+1174180,Red Dead Redemption 2,sibling,2026-11-23,55786,1
