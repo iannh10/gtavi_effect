@@ -7,6 +7,7 @@ unit,name,role,type,date,forecast_log,actual_log,gap_log,lo90,hi90,source
 105600,Terraria,control,adjusted,2026-11-21,10.517880,10.527833,0.009953,10.366489,10.669270,daily_model
 105600,Terraria,control,adjusted,2026-11-22,10.476198,10.514394,0.038196,10.314411,10.637984,daily_model
 105600,Terraria,control,adjusted,2026-11-23,10.455992,10.501186,0.045194,10.210458,10.701527,daily_model
+105600,Terraria,control,adjusted,2026-11-24,10.494673,10.529509,0.034836,10.245131,10.744215,daily_model
 105600,Terraria,control,raw,2026-11-16,10.377545,10.382017,0.004472,10.195756,10.559334,daily_model
 105600,Terraria,control,raw,2026-11-17,10.386562,10.401714,0.015152,10.201447,10.571677,daily_model
 105600,Terraria,control,raw,2026-11-18,10.410847,10.361672,-0.049175,10.223645,10.598050,daily_model
@@ -15,6 +16,7 @@ unit,name,role,type,date,forecast_log,actual_log,gap_log,lo90,hi90,source
 105600,Terraria,control,raw,2026-11-21,10.626994,10.582155,-0.044839,10.439151,10.814837,daily_model
 105600,Terraria,control,raw,2026-11-22,10.584790,10.562431,-0.022359,10.383208,10.786372,daily_model
 105600,Terraria,control,raw,2026-11-23,10.377545,10.374834,-0.002711,10.071011,10.684080,daily_model
+105600,Terraria,control,raw,2026-11-24,10.386562,10.374116,-0.012446,10.074305,10.698818,daily_model
 107410,Arma 3,control,adjusted,2026-11-16,8.950646,8.903223,-0.047423,8.875916,9.025376,daily_model
 107410,Arma 3,control,adjusted,2026-11-17,8.952672,8.897791,-0.054881,8.878847,9.026498,daily_model
 107410,Arma 3,control,adjusted,2026-11-18,8.937302,8.908763,-0.028539,8.864648,9.009955,daily_model
@@ -23,6 +25,7 @@ unit,name,role,type,date,forecast_log,actual_log,gap_log,lo90,hi90,source
 107410,Arma 3,control,adjusted,2026-11-21,9.292738,9.283647,-0.009091,9.219483,9.365993,daily_model
 107410,Arma 3,control,adjusted,2026-11-22,9.195464,9.164836,-0.030628,9.122113,9.268816,daily_model
 107410,Arma 3,control,adjusted,2026-11-23,8.950646,8.882665,-0.067981,8.861511,9.039781,daily_model
+107410,Arma 3,control,adjusted,2026-11-24,8.952672,8.871917,-0.080755,8.866414,9.038930,daily_model
 107410,Arma 3,control,raw,2026-11-16,8.859647,8.822764,-0.036883,8.789232,8.930063,daily_model
 107410,Arma 3,control,raw,2026-11-17,8.834046,8.808070,-0.025976,8.762476,8.905615,daily_model
 107410,Arma 3,control,raw,2026-11-18,8.863616,8.778172,-0.085444,8.791083,8.936149,daily_model
@@ -31,6 +34,7 @@ unit,name,role,type,date,forecast_log,actual_log,gap_log,lo90,hi90,source
 107410,Arma 3,control,raw,2026-11-21,9.373734,9.310909,-0.062825,9.299409,9.448058,daily_model
 107410,Arma 3,control,raw,2026-11-22,9.279027,9.191667,-0.087360,9.203692,9.354361,daily_model
 107410,Arma 3,control,raw,2026-11-23,8.859647,8.750049,-0.109598,8.773640,8.945655,daily_model
+107410,Arma 3,control,raw,2026-11-24,8.834046,8.712431,-0.121615,8.747086,8.921005,daily_model
 1174180,Red Dead Redemption 2,sibling,adjusted,2026-11-16,10.452184,10.491915,0.039731,10.297950,10.606419,daily_model
 1174180,Red Dead Redemption 2,sibling,adjusted,2026-11-17,10.474360,10.521138,0.046778,10.317424,10.631296,daily_model
 1174180,Red Dead Redemption 2,sibling,adjusted,2026-11-18,10.477057,10.562650,0.085593,10.315182,10.638933,daily_model
@@ -39,6 +43,7 @@ unit,name,role,type,date,forecast_log,actual_log,gap_log,lo90,hi90,source
 1174180,Red Dead Redemption 2,sibling,adjusted,2026-11-21,10.510861,10.987658,0.476797,10.347355,10.674366,daily_model
 1174180,Red Dead Redemption 2,sibling,adjusted,2026-11-22,10.576568,11.122069,0.545501,10.417227,10.735910,daily_model
 1174180,Red Dead Redemption 2,sibling,adjusted,2026-11-23,10.452184,11.073568,0.621384,10.219268,10.685100,daily_model
+1174180,Red Dead Redemption 2,sibling,adjusted,2026-11-24,10.474360,11.216581,0.742221,10.238194,10.710526,daily_model
 1174180,Red Dead Redemption 2,sibling,raw,2026-11-16,10.353288,10.400924,0.047636,10.166699,10.539877,daily_model
 1174180,Red Dead Redemption 2,sibling,raw,2026-11-17,10.347949,10.420583,0.072634,10.157104,10.538794,daily_model
 1174180,Red Dead Redemption 2,sibling,raw,2026-11-18,10.394733,10.421835,0.027102,10.198234,10.591232,daily_model
@@ -47,6 +52,7 @@ unit,name,role,type,date,forecast_log,actual_log,gap_log,lo90,hi90,source
 1174180,Red Dead Redemption 2,sibling,raw,2026-11-21,10.602965,11.025523,0.422558,10.406614,10.799315,daily_model
 1174180,Red Dead Redemption 2,sibling,raw,2026-11-22,10.665834,11.152902,0.487068,10.473699,10.857969,daily_model
 1174180,Red Dead Redemption 2,sibling,raw,2026-11-23,10.353288,10.929278,0.575990,10.048894,10.657683,daily_model
+1174180,Red Dead Redemption 2,sibling,raw,2026-11-24,10.347949,11.044824,0.696875,10.038417,10.657481,daily_model
 218620,PAYDAY 2,control,adjusted,2026-11-16,9.784102,9.693559,-0.090543,9.307476,10.260728,daily_model
 218620,PAYDAY 2,control,adjusted,2026-11-17,9.711499,9.686290,-0.025209,9.234577,10.188421,daily_model
 218620,PAYDAY 2,control,adjusted,2026-11-18,9.760432,9.657971,-0.102461,9.283797,10.237068,daily_model
@@ -55,6 +61,7 @@ unit,name,role,type,date,forecast_log,actual_log,gap_log,lo90,hi90,source
 218620,PAYDAY 2,control,adjusted,2026-11-21,9.419317,9.569629,0.150312,8.929448,9.909185,daily_model
 218620,PAYDAY 2,control,adjusted,2026-11-22,9.498498,9.540725,0.042227,8.999756,9.997239,daily_model
 218620,PAYDAY 2,control,adjusted,2026-11-23,9.784102,9.663368,-0.120734,9.104593,10.463611,daily_model
+218620,PAYDAY 2,control,adjusted,2026-11-24,9.711499,9.384184,-0.327315,9.030633,10.392364,daily_model
 218620,PAYDAY 2,control,raw,2026-11-16,9.719925,9.642318,-0.077607,9.233520,10.206330,daily_model
 218620,PAYDAY 2,control,raw,2026-11-17,9.623840,9.625888,0.002048,9.137447,10.110233,daily_model
 218620,PAYDAY 2,control,raw,2026-11-18,9.714141,9.558882,-0.155259,9.228039,10.200244,daily_model
@@ -63,6 +70,7 @@ unit,name,role,type,date,forecast_log,actual_log,gap_log,lo90,hi90,source
 218620,PAYDAY 2,control,raw,2026-11-21,9.566405,9.654128,0.087723,9.062847,10.069964,daily_model
 218620,PAYDAY 2,control,raw,2026-11-22,9.638349,9.619798,-0.018551,9.120291,10.156408,daily_model
 218620,PAYDAY 2,control,raw,2026-11-23,9.719925,9.560504,-0.159421,9.025306,10.414544,daily_model
+218620,PAYDAY 2,control,raw,2026-11-24,9.623840,9.269364,-0.354476,8.926303,10.321377,daily_model
 221100,DayZ,control,adjusted,2026-11-16,10.864162,10.819111,-0.045051,10.609511,11.118813,daily_model
 221100,DayZ,control,adjusted,2026-11-17,10.856336,10.815976,-0.040360,10.601774,11.110897,daily_model
 221100,DayZ,control,adjusted,2026-11-18,10.796462,10.775756,-0.020706,10.541900,11.051023,daily_model
@@ -71,6 +79,7 @@ unit,name,role,type,date,forecast_log,actual_log,gap_log,lo90,hi90,source
 221100,DayZ,control,adjusted,2026-11-21,10.789817,10.706481,-0.083336,10.535711,11.043923,daily_model
 221100,DayZ,control,adjusted,2026-11-22,10.830339,10.768133,-0.062206,10.577403,11.083275,daily_model
 221100,DayZ,control,adjusted,2026-11-23,10.864162,10.751483,-0.112679,10.533093,11.195231,daily_model
+221100,DayZ,control,adjusted,2026-11-24,10.856336,10.753307,-0.103029,10.525748,11.186923,daily_model
 221100,DayZ,control,raw,2026-11-16,10.759561,10.724918,-0.034643,10.551494,10.967628,daily_model
 221100,DayZ,control,raw,2026-11-17,10.724654,10.712393,-0.012261,10.516248,10.933060,daily_model
 221100,DayZ,control,raw,2026-11-18,10.712193,10.634147,-0.078046,10.503719,10.920667,daily_model
@@ -79,6 +88,7 @@ unit,name,role,type,date,forecast_log,actual_log,gap_log,lo90,hi90,source
 221100,DayZ,control,raw,2026-11-21,10.880346,10.747401,-0.132945,10.670582,11.090111,daily_model
 221100,DayZ,control,raw,2026-11-22,10.915779,10.798596,-0.117183,10.704075,11.127483,daily_model
 221100,DayZ,control,raw,2026-11-23,10.759561,10.607748,-0.151813,10.487923,11.031199,daily_model
+221100,DayZ,control,raw,2026-11-24,10.724654,10.582003,-0.142651,10.450329,10.998979,daily_model
 227300,Euro Truck Simulator 2,control,adjusted,2026-11-16,10.757560,11.366479,0.608919,10.680370,10.834751,daily_model
 227300,Euro Truck Simulator 2,control,adjusted,2026-11-17,11.015440,11.339334,0.323894,10.952883,11.077996,daily_model
 227300,Euro Truck Simulator 2,control,adjusted,2026-11-18,11.035502,11.258686,0.223184,10.975845,11.095159,daily_model
@@ -87,6 +97,7 @@ unit,name,role,type,date,forecast_log,actual_log,gap_log,lo90,hi90,source
 227300,Euro Truck Simulator 2,control,adjusted,2026-11-21,11.413389,11.123803,-0.289586,11.353730,11.473048,daily_model
 227300,Euro Truck Simulator 2,control,adjusted,2026-11-22,11.486750,11.190815,-0.295935,11.420422,11.553078,daily_model
 227300,Euro Truck Simulator 2,control,adjusted,2026-11-23,10.757560,11.092719,0.335159,10.654525,10.860595,daily_model
+227300,Euro Truck Simulator 2,control,adjusted,2026-11-24,11.015440,11.048200,0.032760,10.925157,11.105722,daily_model
 227300,Euro Truck Simulator 2,control,raw,2026-11-16,10.651407,11.234401,0.582994,10.554950,10.747864,daily_model
 227300,Euro Truck Simulator 2,control,raw,2026-11-17,10.867444,11.199201,0.331757,10.776198,10.958690,daily_model
 227300,Euro Truck Simulator 2,control,raw,2026-11-18,10.930479,11.082773,0.152294,10.840823,11.020134,daily_model
@@ -95,6 +106,7 @@ unit,name,role,type,date,forecast_log,actual_log,gap_log,lo90,hi90,source
 227300,Euro Truck Simulator 2,control,raw,2026-11-21,11.461801,11.134063,-0.327738,11.366496,11.557105,daily_model
 227300,Euro Truck Simulator 2,control,raw,2026-11-22,11.528247,11.190321,-0.337926,11.420372,11.636123,daily_model
 227300,Euro Truck Simulator 2,control,raw,2026-11-23,10.651407,10.922551,0.271144,10.490714,10.812100,daily_model
+227300,Euro Truck Simulator 2,control,raw,2026-11-24,10.867444,10.853039,-0.014405,10.715162,11.019726,daily_model
 230410,Warframe,control,adjusted,2026-11-16,11.325670,11.278140,-0.047530,11.027231,11.624108,daily_model
 230410,Warframe,control,adjusted,2026-11-17,11.286903,11.292718,0.005815,10.999962,11.573845,daily_model
 230410,Warframe,control,adjusted,2026-11-18,11.219333,11.200102,-0.019231,10.934484,11.504181,daily_model
@@ -103,6 +115,7 @@ unit,name,role,type,date,forecast_log,actual_log,gap_log,lo90,hi90,source
 230410,Warframe,control,adjusted,2026-11-21,11.144713,11.254367,0.109654,10.877394,11.412031,daily_model
 230410,Warframe,control,adjusted,2026-11-22,11.151698,11.279734,0.128036,10.891969,11.411427,daily_model
 230410,Warframe,control,adjusted,2026-11-23,11.325670,11.378723,0.053053,10.994469,11.656870,daily_model
+230410,Warframe,control,adjusted,2026-11-24,11.286903,11.203611,-0.083292,10.973501,11.600306,daily_model
 230410,Warframe,control,raw,2026-11-16,11.210400,11.173417,-0.036983,10.943279,11.477522,daily_model
 230410,Warframe,control,raw,2026-11-17,11.146272,11.177621,0.031349,10.892538,11.400007,daily_model
 230410,Warframe,control,raw,2026-11-18,11.126542,11.049890,-0.076652,10.874109,11.378976,daily_model
@@ -111,6 +124,7 @@ unit,name,role,type,date,forecast_log,actual_log,gap_log,lo90,hi90,source
 230410,Warframe,control,raw,2026-11-21,11.230496,11.279820,0.049324,10.989625,11.471367,daily_model
 230410,Warframe,control,raw,2026-11-22,11.234256,11.296745,0.062489,10.997455,11.471057,daily_model
 230410,Warframe,control,raw,2026-11-23,11.210400,11.215112,0.004712,10.906296,11.514505,daily_model
+230410,Warframe,control,raw,2026-11-24,11.146272,11.022262,-0.124010,10.854689,11.437856,daily_model
 236390,War Thunder,control,adjusted,2026-11-16,11.300806,11.300568,-0.000238,11.108612,11.493000,daily_model
 236390,War Thunder,control,adjusted,2026-11-17,11.347777,11.363486,0.015709,11.152033,11.543521,daily_model
 236390,War Thunder,control,adjusted,2026-11-18,11.480184,11.340077,-0.140107,11.279706,11.680662,daily_model
@@ -119,6 +133,7 @@ unit,name,role,type,date,forecast_log,actual_log,gap_log,lo90,hi90,source
 236390,War Thunder,control,adjusted,2026-11-21,11.432918,11.364085,-0.068833,11.228668,11.637167,daily_model
 236390,War Thunder,control,adjusted,2026-11-22,11.384387,11.343399,-0.040988,11.179815,11.588960,daily_model
 236390,War Thunder,control,adjusted,2026-11-23,11.300806,11.292345,-0.008461,11.022412,11.579200,daily_model
+236390,War Thunder,control,adjusted,2026-11-24,11.347777,11.314594,-0.033183,11.071130,11.624424,daily_model
 236390,War Thunder,control,raw,2026-11-16,11.193216,11.200896,0.007680,11.015472,11.370960,daily_model
 236390,War Thunder,control,raw,2026-11-17,11.210062,11.250755,0.040693,11.030668,11.389456,daily_model
 236390,War Thunder,control,raw,2026-11-18,11.379200,11.188386,-0.190814,11.196806,11.561593,daily_model
@@ -127,6 +142,7 @@ unit,name,role,type,date,forecast_log,actual_log,gap_log,lo90,hi90,source
 236390,War Thunder,control,raw,2026-11-21,11.508988,11.389740,-0.119248,11.322046,11.695930,daily_model
 236390,War Thunder,control,raw,2026-11-22,11.460316,11.363172,-0.097144,11.270609,11.650022,daily_model
 236390,War Thunder,control,raw,2026-11-23,11.193216,11.139831,-0.053385,10.973677,11.412755,daily_model
+236390,War Thunder,control,raw,2026-11-24,11.210062,11.133377,-0.076685,10.992325,11.427799,daily_model
 251570,7 Days to Die,control,adjusted,2026-11-16,10.221113,10.161933,-0.059180,10.148230,10.293996,daily_model
 251570,7 Days to Die,control,adjusted,2026-11-17,10.228352,10.183694,-0.044658,10.155170,10.301534,daily_model
 251570,7 Days to Die,control,adjusted,2026-11-18,10.207096,10.198809,-0.008287,10.132808,10.281384,daily_model
@@ -135,6 +151,7 @@ unit,name,role,type,date,forecast_log,actual_log,gap_log,lo90,hi90,source
 251570,7 Days to Die,control,adjusted,2026-11-21,10.246775,10.287308,0.040533,10.159007,10.334543,daily_model
 251570,7 Days to Die,control,adjusted,2026-11-22,10.299004,10.384701,0.085697,10.211741,10.386266,daily_model
 251570,7 Days to Die,control,adjusted,2026-11-23,10.221113,10.247540,0.026427,10.150257,10.291969,daily_model
+251570,7 Days to Die,control,adjusted,2026-11-24,10.228352,10.249126,0.020774,10.159820,10.296884,daily_model
 251570,7 Days to Die,control,raw,2026-11-16,10.133130,10.085142,-0.047988,10.033577,10.232683,daily_model
 251570,7 Days to Die,control,raw,2026-11-17,10.112451,10.096131,-0.016320,10.012802,10.212100,daily_model
 251570,7 Days to Die,control,raw,2026-11-18,10.136463,10.070145,-0.066318,10.036690,10.236236,daily_model
@@ -143,6 +160,7 @@ unit,name,role,type,date,forecast_log,actual_log,gap_log,lo90,hi90,source
 251570,7 Days to Die,control,raw,2026-11-21,10.348366,10.332409,-0.015957,10.238705,10.458026,daily_model
 251570,7 Days to Die,control,raw,2026-11-22,10.394855,10.417359,0.022504,10.285402,10.504309,daily_model
 251570,7 Days to Die,control,raw,2026-11-23,10.133130,10.112694,-0.020436,9.999878,10.266382,daily_model
+251570,7 Days to Die,control,raw,2026-11-24,10.112451,10.086725,-0.025726,9.979113,10.245789,daily_model
 252490,Rust,control,adjusted,2026-11-16,11.827833,11.618046,-0.209787,11.560144,12.095522,daily_model
 252490,Rust,control,adjusted,2026-11-17,11.769161,11.630277,-0.138884,11.521641,12.016682,daily_model
 252490,Rust,control,adjusted,2026-11-18,11.709028,11.507310,-0.201718,11.472490,11.945565,daily_model
@@ -151,6 +169,7 @@ unit,name,role,type,date,forecast_log,actual_log,gap_log,lo90,hi90,source
 252490,Rust,control,adjusted,2026-11-21,11.700648,11.629641,-0.071007,11.487805,11.913490,daily_model
 252490,Rust,control,adjusted,2026-11-22,11.584889,11.542133,-0.042756,11.360970,11.808808,daily_model
 252490,Rust,control,adjusted,2026-11-23,11.827833,11.556289,-0.271544,11.585448,12.070218,daily_model
+252490,Rust,control,adjusted,2026-11-24,11.769161,11.509740,-0.259421,11.515081,12.023242,daily_model
 252490,Rust,control,raw,2026-11-16,11.728021,11.537794,-0.190227,11.472024,11.984018,daily_model
 252490,Rust,control,raw,2026-11-17,11.645093,11.539782,-0.105311,11.405517,11.884669,daily_model
 252490,Rust,control,raw,2026-11-18,11.632387,11.383386,-0.249001,11.404147,11.860627,daily_model
@@ -159,6 +178,7 @@ unit,name,role,type,date,forecast_log,actual_log,gap_log,lo90,hi90,source
 252490,Rust,control,raw,2026-11-21,11.798901,11.677601,-0.121300,11.598019,11.999783,daily_model
 252490,Rust,control,raw,2026-11-22,11.686736,11.587922,-0.098814,11.491273,11.882199,daily_model
 252490,Rust,control,raw,2026-11-23,11.728021,11.426169,-0.301852,11.519520,11.936522,daily_model
+252490,Rust,control,raw,2026-11-24,11.645093,11.354738,-0.290355,11.430716,11.859471,daily_model
 304930,Unturned,control,adjusted,2026-11-16,9.922886,9.964377,0.041491,9.727076,10.118696,daily_model
 304930,Unturned,control,adjusted,2026-11-17,9.936686,9.974780,0.038094,9.732683,10.140689,daily_model
 304930,Unturned,control,adjusted,2026-11-18,9.980357,10.022640,0.042283,9.771201,10.189514,daily_model
@@ -167,6 +187,7 @@ unit,name,role,type,date,forecast_log,actual_log,gap_log,lo90,hi90,source
 304930,Unturned,control,adjusted,2026-11-21,9.814111,9.831139,0.017028,9.576343,10.051879,daily_model
 304930,Unturned,control,adjusted,2026-11-22,9.826297,9.902258,0.075961,9.587806,10.064788,daily_model
 304930,Unturned,control,adjusted,2026-11-23,9.922886,10.023459,0.100573,9.601535,10.244237,daily_model
+304930,Unturned,control,adjusted,2026-11-24,9.936686,9.955282,0.018596,9.610086,10.263285,daily_model
 304930,Unturned,control,raw,2026-11-16,9.814219,9.861310,0.047091,9.633288,9.995150,daily_model
 304930,Unturned,control,raw,2026-11-17,9.799737,9.861571,0.061834,9.614050,9.985424,daily_model
 304930,Unturned,control,raw,2026-11-18,9.885069,9.866512,-0.018557,9.695389,10.074749,daily_model
@@ -175,6 +196,7 @@ unit,name,role,type,date,forecast_log,actual_log,gap_log,lo90,hi90,source
 304930,Unturned,control,raw,2026-11-21,9.902487,9.864331,-0.038156,9.682901,10.122073,daily_model
 304930,Unturned,control,raw,2026-11-22,9.911158,9.924466,0.013308,9.692646,10.129670,daily_model
 304930,Unturned,control,raw,2026-11-23,9.814219,9.863811,0.049592,9.546695,10.081743,daily_model
+304930,Unturned,control,raw,2026-11-24,9.799737,9.771954,-0.027783,9.530066,10.069407,daily_model
 359550,Tom Clancy's Rainbow Six Siege,control,adjusted,2026-11-16,11.192614,11.220953,0.028339,11.060516,11.324712,daily_model
 359550,Tom Clancy's Rainbow Six Siege,control,adjusted,2026-11-17,11.144139,11.161059,0.016920,11.009546,11.278733,daily_model
 359550,Tom Clancy's Rainbow Six Siege,control,adjusted,2026-11-18,11.205174,11.201886,-0.003288,11.072814,11.337533,daily_model
@@ -183,6 +205,7 @@ unit,name,role,type,date,forecast_log,actual_log,gap_log,lo90,hi90,source
 359550,Tom Clancy's Rainbow Six Siege,control,adjusted,2026-11-21,11.120059,11.059169,-0.060890,10.995913,11.244205,daily_model
 359550,Tom Clancy's Rainbow Six Siege,control,adjusted,2026-11-22,11.232114,11.126888,-0.105226,11.118474,11.345755,daily_model
 359550,Tom Clancy's Rainbow Six Siege,control,adjusted,2026-11-23,11.192614,11.108371,-0.084243,11.042356,11.342872,daily_model
+359550,Tom Clancy's Rainbow Six Siege,control,adjusted,2026-11-24,11.144139,11.121419,-0.022720,11.004964,11.283315,daily_model
 359550,Tom Clancy's Rainbow Six Siege,control,raw,2026-11-16,11.100285,11.134954,0.034669,11.004647,11.195922,daily_model
 359550,Tom Clancy's Rainbow Six Siege,control,raw,2026-11-17,11.026988,11.068823,0.041835,10.925067,11.128908,daily_model
 359550,Tom Clancy's Rainbow Six Siege,control,raw,2026-11-18,11.128718,11.067123,-0.061595,11.027504,11.229931,daily_model
@@ -191,6 +214,7 @@ unit,name,role,type,date,forecast_log,actual_log,gap_log,lo90,hi90,source
 359550,Tom Clancy's Rainbow Six Siege,control,raw,2026-11-21,11.222760,11.111014,-0.111746,11.119138,11.326383,daily_model
 359550,Tom Clancy's Rainbow Six Siege,control,raw,2026-11-22,11.325752,11.167939,-0.157813,11.218781,11.432724,daily_model
 359550,Tom Clancy's Rainbow Six Siege,control,raw,2026-11-23,11.100285,10.975328,-0.124957,10.980499,11.220070,daily_model
+359550,Tom Clancy's Rainbow Six Siege,control,raw,2026-11-24,11.026988,10.960183,-0.066805,10.912145,11.141830,daily_model
 381210,Dead by Daylight,control,adjusted,2026-11-16,10.908060,10.848399,-0.059661,10.702023,11.114096,daily_model
 381210,Dead by Daylight,control,adjusted,2026-11-17,10.954221,10.889819,-0.064402,10.749965,11.158478,daily_model
 381210,Dead by Daylight,control,adjusted,2026-11-18,10.931053,10.899900,-0.031153,10.728815,11.133290,daily_model
@@ -199,6 +223,7 @@ unit,name,role,type,date,forecast_log,actual_log,gap_log,lo90,hi90,source
 381210,Dead by Daylight,control,adjusted,2026-11-21,10.890665,10.864103,-0.026562,10.682739,11.098591,daily_model
 381210,Dead by Daylight,control,adjusted,2026-11-22,10.889004,10.906913,0.017909,10.686864,11.091143,daily_model
 381210,Dead by Daylight,control,adjusted,2026-11-23,10.908060,10.866107,-0.041953,10.680870,11.135249,daily_model
+381210,Dead by Daylight,control,adjusted,2026-11-24,10.954221,11.412196,0.457975,10.728377,11.180066,daily_model
 381210,Dead by Daylight,control,raw,2026-11-16,10.812854,10.764414,-0.048440,10.577469,11.048240,daily_model
 381210,Dead by Daylight,control,raw,2026-11-17,10.828936,10.793968,-0.034968,10.597317,11.060556,daily_model
 381210,Dead by Daylight,control,raw,2026-11-18,10.851141,10.763229,-0.087912,10.621009,11.081274,daily_model
@@ -207,6 +232,7 @@ unit,name,role,type,date,forecast_log,actual_log,gap_log,lo90,hi90,source
 381210,Dead by Daylight,control,raw,2026-11-21,10.987426,10.908100,-0.079326,10.741710,11.233142,daily_model
 381210,Dead by Daylight,control,raw,2026-11-22,10.983019,10.941500,-0.041519,10.742370,11.223668,daily_model
 381210,Dead by Daylight,control,raw,2026-11-23,10.812854,10.727838,-0.085016,10.554843,11.070866,daily_model
+381210,Dead by Daylight,control,raw,2026-11-24,10.828936,11.216122,0.387186,10.571366,11.086506,daily_model
 4000,Garry's Mod,control,adjusted,2026-11-16,10.300047,10.298528,-0.001519,10.220878,10.379216,daily_model
 4000,Garry's Mod,control,adjusted,2026-11-17,10.318938,10.306557,-0.012381,10.239903,10.397973,daily_model
 4000,Garry's Mod,control,adjusted,2026-11-18,10.363016,10.318056,-0.044960,10.285534,10.440499,daily_model
@@ -215,6 +241,7 @@ unit,name,role,type,date,forecast_log,actual_log,gap_log,lo90,hi90,source
 4000,Garry's Mod,control,adjusted,2026-11-21,10.429056,10.435640,0.006584,10.350407,10.507704,daily_model
 4000,Garry's Mod,control,adjusted,2026-11-22,10.366185,10.373125,0.006940,10.285334,10.447036,daily_model
 4000,Garry's Mod,control,adjusted,2026-11-23,10.300047,10.348111,0.048064,10.183722,10.416371,daily_model
+4000,Garry's Mod,control,adjusted,2026-11-24,10.318938,10.351859,0.032921,10.203359,10.434517,daily_model
 4000,Garry's Mod,control,raw,2026-11-16,10.207695,10.214166,0.006471,10.146678,10.268712,daily_model
 4000,Garry's Mod,control,raw,2026-11-17,10.198021,10.212185,0.014164,10.136996,10.259046,daily_model
 4000,Garry's Mod,control,raw,2026-11-18,10.283737,10.182785,-0.100952,10.223069,10.344406,daily_model
@@ -223,6 +250,7 @@ unit,name,role,type,date,forecast_log,actual_log,gap_log,lo90,hi90,source
 4000,Garry's Mod,control,raw,2026-11-21,10.520536,10.472516,-0.048020,10.457749,10.583324,daily_model
 4000,Garry's Mod,control,raw,2026-11-22,10.458320,10.406442,-0.051878,10.381561,10.535080,daily_model
 4000,Garry's Mod,control,raw,2026-11-23,10.207695,10.207695,-0.000000,10.133517,10.281873,daily_model
+4000,Garry's Mod,control,raw,2026-11-24,10.198021,10.183767,-0.014254,10.122952,10.273090,daily_model
 413150,Stardew Valley,control,adjusted,2026-11-16,11.291799,11.285929,-0.005870,11.148368,11.435231,daily_model
 413150,Stardew Valley,control,adjusted,2026-11-17,11.302506,11.297987,-0.004519,11.157883,11.447128,daily_model
 413150,Stardew Valley,control,adjusted,2026-11-18,11.262472,11.320491,0.058019,11.120537,11.404407,daily_model
@@ -231,6 +259,7 @@ unit,name,role,type,date,forecast_log,actual_log,gap_log,lo90,hi90,source
 413150,Stardew Valley,control,adjusted,2026-11-21,11.264453,11.305210,0.040757,11.137758,11.391148,daily_model
 413150,Stardew Valley,control,adjusted,2026-11-22,11.258876,11.313104,0.054228,11.141995,11.375758,daily_model
 413150,Stardew Valley,control,adjusted,2026-11-23,11.291799,11.344569,0.052770,11.096607,11.486992,daily_model
+413150,Stardew Valley,control,adjusted,2026-11-24,11.302506,11.336175,0.033669,11.119709,11.485303,daily_model
 413150,Stardew Valley,control,raw,2026-11-16,11.200992,11.203352,0.002360,11.020275,11.381709,daily_model
 413150,Stardew Valley,control,raw,2026-11-17,11.183588,11.205177,0.021589,11.000545,11.366631,daily_model
 413150,Stardew Valley,control,raw,2026-11-18,11.189865,11.186170,-0.003695,11.008965,11.370765,daily_model
@@ -239,6 +268,7 @@ unit,name,role,type,date,forecast_log,actual_log,gap_log,lo90,hi90,source
 413150,Stardew Valley,control,raw,2026-11-21,11.366164,11.350418,-0.015746,11.202298,11.530030,daily_model
 413150,Stardew Valley,control,raw,2026-11-22,11.358060,11.350842,-0.007218,11.206486,11.509633,daily_model
 413150,Stardew Valley,control,raw,2026-11-23,11.200992,11.205435,0.004443,10.942393,11.459590,daily_model
+413150,Stardew Valley,control,raw,2026-11-24,11.183588,11.170041,-0.013547,10.934736,11.432439,daily_model
 440,Team Fortress 2,control,adjusted,2026-11-16,11.857037,11.687710,-0.169327,11.676690,12.037384,daily_model
 440,Team Fortress 2,control,adjusted,2026-11-17,11.675918,11.655279,-0.020639,11.493130,11.858706,daily_model
 440,Team Fortress 2,control,adjusted,2026-11-18,11.617038,11.694580,0.077542,11.415206,11.818870,daily_model
@@ -247,6 +277,7 @@ unit,name,role,type,date,forecast_log,actual_log,gap_log,lo90,hi90,source
 440,Team Fortress 2,control,adjusted,2026-11-21,11.515205,11.609471,0.094266,11.309769,11.720640,daily_model
 440,Team Fortress 2,control,adjusted,2026-11-22,11.519469,11.576350,0.056881,11.307290,11.731648,daily_model
 440,Team Fortress 2,control,adjusted,2026-11-23,11.857037,11.746502,-0.110535,11.598154,12.115920,daily_model
+440,Team Fortress 2,control,adjusted,2026-11-24,11.675918,11.794080,0.118162,11.420239,11.931596,daily_model
 440,Team Fortress 2,control,raw,2026-11-16,11.709216,11.557201,-0.152015,11.528451,11.889980,daily_model
 440,Team Fortress 2,control,raw,2026-11-17,11.510643,11.517007,0.006364,11.329100,11.692186,daily_model
 440,Team Fortress 2,control,raw,2026-11-18,11.499121,11.513865,0.014744,11.304719,11.693522,daily_model
@@ -255,6 +286,7 @@ unit,name,role,type,date,forecast_log,actual_log,gap_log,lo90,hi90,source
 440,Team Fortress 2,control,raw,2026-11-21,11.577373,11.612164,0.034791,11.391816,11.762931,daily_model
 440,Team Fortress 2,control,raw,2026-11-22,11.578563,11.573851,-0.004712,11.396147,11.760980,daily_model
 440,Team Fortress 2,control,raw,2026-11-23,11.709216,11.559427,-0.149789,11.468523,11.949909,daily_model
+440,Team Fortress 2,control,raw,2026-11-24,11.510643,11.576895,0.066252,11.277694,11.743592,daily_model
 550,Left 4 Dead 2,control,adjusted,2026-11-16,10.485503,10.459030,-0.026473,10.151605,10.819402,daily_model
 550,Left 4 Dead 2,control,adjusted,2026-11-17,10.398354,10.368556,-0.029798,10.065066,10.731642,daily_model
 550,Left 4 Dead 2,control,adjusted,2026-11-18,10.367451,10.413971,0.046520,10.033388,10.701514,daily_model
@@ -263,6 +295,7 @@ unit,name,role,type,date,forecast_log,actual_log,gap_log,lo90,hi90,source
 550,Left 4 Dead 2,control,adjusted,2026-11-21,10.461821,10.513914,0.052093,10.135933,10.787709,daily_model
 550,Left 4 Dead 2,control,adjusted,2026-11-22,10.431197,10.434561,0.003364,10.126078,10.736317,daily_model
 550,Left 4 Dead 2,control,adjusted,2026-11-23,10.485503,10.450560,-0.034943,10.123341,10.847666,daily_model
+550,Left 4 Dead 2,control,adjusted,2026-11-24,10.398354,10.415676,0.017322,10.081001,10.715708,daily_model
 550,Left 4 Dead 2,control,raw,2026-11-16,10.381800,10.364703,-0.017097,10.027140,10.736460,daily_model
 550,Left 4 Dead 2,control,raw,2026-11-17,10.271977,10.269692,-0.002285,9.917062,10.626893,daily_model
 550,Left 4 Dead 2,control,raw,2026-11-18,10.286877,10.272323,-0.014554,9.930811,10.642944,daily_model
@@ -271,6 +304,7 @@ unit,name,role,type,date,forecast_log,actual_log,gap_log,lo90,hi90,source
 550,Left 4 Dead 2,control,raw,2026-11-21,10.550434,10.545394,-0.005040,10.209728,10.891140,daily_model
 550,Left 4 Dead 2,control,raw,2026-11-22,10.518673,10.463418,-0.055255,10.200708,10.836638,daily_model
 550,Left 4 Dead 2,control,raw,2026-11-23,10.381800,10.303404,-0.078396,9.974861,10.788740,daily_model
+550,Left 4 Dead 2,control,raw,2026-11-24,10.271977,10.242991,-0.028986,9.903377,10.640578,daily_model
 570,Dota 2,control,adjusted,2026-11-16,13.562511,13.649142,0.086631,13.341570,13.783452,daily_model
 570,Dota 2,control,adjusted,2026-11-17,13.593915,13.628051,0.034136,13.354119,13.833712,daily_model
 570,Dota 2,control,adjusted,2026-11-18,13.555624,13.636615,0.080991,13.300058,13.811189,daily_model
@@ -279,6 +313,7 @@ unit,name,role,type,date,forecast_log,actual_log,gap_log,lo90,hi90,source
 570,Dota 2,control,adjusted,2026-11-21,13.560557,13.624655,0.064098,13.243450,13.877665,daily_model
 570,Dota 2,control,adjusted,2026-11-22,13.582518,13.664528,0.082010,13.265308,13.899728,daily_model
 570,Dota 2,control,adjusted,2026-11-23,13.562511,13.699799,0.137288,13.297469,13.827552,daily_model
+570,Dota 2,control,adjusted,2026-11-24,13.593915,13.690331,0.096416,13.319299,13.868532,daily_model
 570,Dota 2,control,raw,2026-11-16,13.469612,13.559335,0.089723,13.263208,13.676015,daily_model
 570,Dota 2,control,raw,2026-11-17,13.471756,13.529852,0.058096,13.242440,13.701072,daily_model
 570,Dota 2,control,raw,2026-11-18,13.479678,13.497680,0.018002,13.232564,13.726792,daily_model
@@ -287,6 +322,7 @@ unit,name,role,type,date,forecast_log,actual_log,gap_log,lo90,hi90,source
 570,Dota 2,control,raw,2026-11-21,13.658767,13.665064,0.006297,13.356861,13.960673,daily_model
 570,Dota 2,control,raw,2026-11-22,13.676669,13.695690,0.019021,13.374651,13.978688,daily_model
 570,Dota 2,control,raw,2026-11-23,13.469612,13.553878,0.084266,13.183285,13.755938,daily_model
+570,Dota 2,control,raw,2026-11-24,13.471756,13.517470,0.045714,13.172541,13.770971,daily_model
 730,Counter-Strike 2,control,adjusted,2026-11-16,13.993611,13.994468,0.000857,13.864579,14.122642,daily_model
 730,Counter-Strike 2,control,adjusted,2026-11-17,14.014461,14.026960,0.012499,13.894085,14.134837,daily_model
 730,Counter-Strike 2,control,adjusted,2026-11-18,14.100721,14.162768,0.062047,13.988121,14.213321,daily_model
@@ -295,6 +331,7 @@ unit,name,role,type,date,forecast_log,actual_log,gap_log,lo90,hi90,source
 730,Counter-Strike 2,control,adjusted,2026-11-21,13.987832,14.011857,0.024025,13.889140,14.086523,daily_model
 730,Counter-Strike 2,control,adjusted,2026-11-22,13.989064,13.975353,-0.013711,13.897222,14.080906,daily_model
 730,Counter-Strike 2,control,adjusted,2026-11-23,13.993611,14.048156,0.054545,13.883817,14.103405,daily_model
+730,Counter-Strike 2,control,adjusted,2026-11-24,14.014461,14.060744,0.046283,13.916024,14.112898,daily_model
 730,Counter-Strike 2,control,raw,2026-11-16,13.892303,13.901018,0.008715,13.773783,14.010823,daily_model
 730,Counter-Strike 2,control,raw,2026-11-17,13.884480,13.922141,0.037661,13.775836,13.993123,daily_model
 730,Counter-Strike 2,control,raw,2026-11-18,14.010034,14.010144,0.000110,13.906967,14.113101,daily_model
@@ -303,6 +340,7 @@ unit,name,role,type,date,forecast_log,actual_log,gap_log,lo90,hi90,source
 730,Counter-Strike 2,control,raw,2026-11-21,14.077845,14.046297,-0.031548,13.981681,14.174009,daily_model
 730,Counter-Strike 2,control,raw,2026-11-22,14.076171,14.004789,-0.071382,13.979622,14.172720,daily_model
 730,Counter-Strike 2,control,raw,2026-11-23,13.892303,13.898424,0.006121,13.778192,14.006414,daily_model
+730,Counter-Strike 2,control,raw,2026-11-24,13.884480,13.882846,-0.001634,13.776225,13.992735,daily_model
 GTAV,GTA V (Legacy + Enhanced),target,adjusted,2026-11-16,11.832081,11.856176,0.024095,11.755211,11.908950,daily_model
 GTAV,GTA V (Legacy + Enhanced),target,adjusted,2026-11-17,11.860246,11.907022,0.046776,11.787569,11.932922,daily_model
 GTAV,GTA V (Legacy + Enhanced),target,adjusted,2026-11-18,11.850063,12.032163,0.182100,11.777728,11.922398,daily_model
@@ -311,6 +349,7 @@ GTAV,GTA V (Legacy + Enhanced),target,adjusted,2026-11-20,11.793717,12.215186,0.
 GTAV,GTA V (Legacy + Enhanced),target,adjusted,2026-11-21,11.814025,12.286026,0.472001,11.740815,11.887235,daily_model
 GTAV,GTA V (Legacy + Enhanced),target,adjusted,2026-11-22,11.849855,12.352796,0.502941,11.774178,11.925532,daily_model
 GTAV,GTA V (Legacy + Enhanced),target,adjusted,2026-11-23,11.832081,12.377467,0.545386,11.776060,11.888101,daily_model
+GTAV,GTA V (Legacy + Enhanced),target,adjusted,2026-11-24,11.860246,12.410520,0.550274,11.800632,11.919859,daily_model
 GTAV,GTA V (Legacy + Enhanced),target,raw,2026-11-16,11.733185,11.765185,0.032000,11.640778,11.825592,daily_model
 GTAV,GTA V (Legacy + Enhanced),target,raw,2026-11-17,11.733835,11.806468,0.072633,11.646512,11.821157,daily_model
 GTAV,GTA V (Legacy + Enhanced),target,raw,2026-11-18,11.767738,11.891348,0.123610,11.679517,11.855959,daily_model
@@ -319,3 +358,4 @@ GTAV,GTA V (Legacy + Enhanced),target,raw,2026-11-20,11.780453,12.147119,0.36666
 GTAV,GTA V (Legacy + Enhanced),target,raw,2026-11-21,11.906129,12.323891,0.417762,11.817602,11.994656,daily_model
 GTAV,GTA V (Legacy + Enhanced),target,raw,2026-11-22,11.939121,12.383629,0.444508,11.851552,12.026690,daily_model
 GTAV,GTA V (Legacy + Enhanced),target,raw,2026-11-23,11.733185,12.233177,0.499992,11.658417,11.807953,daily_model
+GTAV,GTA V (Legacy + Enhanced),target,raw,2026-11-24,11.733835,12.238762,0.504927,11.659287,11.808382,daily_model
