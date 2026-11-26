@@ -6,8 +6,15 @@
         data/post/panel_daily_peak_post.csv    (days after 2026-11-15)
         data/post/panel_monthly_avg_post.csv   (months after 2026-10)
       in the same format as the frozen panel files. This is the source the frozen forecast was
-      built on, so it is the one the tracker scores against. Run it at least every 3 weeks:
+      built on, so it is the one the tracker scores against. Also writes the two GTA V apps
+      separately (see "apps" below) from the same pull. Run it at least every 3 weeks:
       SteamCharts keeps hourly points for ~30 days and daily points for ~90.
+
+  python scripts/collect_players.py apps
+      Pulls only the two GTA V apps and writes
+        data/post/gtav_apps_daily_post.csv             (date, legacy_peak, enhanced_peak, combined_peak, partial_day)
+        outputs/dashboard/players_daily_apps_post.csv  (same file, for the dashboard)
+      Descriptive only; the tracker does not read it.
 
   python scripts/collect_players.py poll [--loop 600]
       Backup only: appends the current GTA V player counts from Valve's public endpoint to
@@ -64,6 +71,25 @@ def monthly_avgs(html):
     return out
 
 
+def write_apps(dl, de):
+    """Per-app GTA V daily peaks after the freeze, same format as outputs/dashboard/players_daily.csv."""
+    rows = [[d, dl[d][0], de[d][0], dl[d][0] + de[d][0], max(dl[d][1], de[d][1])]
+            for d in sorted(set(dl) & set(de)) if d > LAST_FROZEN_DAY]
+    for path in (os.path.join(ROOT, "data", "post", "gtav_apps_daily_post.csv"),
+                 os.path.join(ROOT, "outputs", "dashboard", "players_daily_apps_post.csv")):
+        os.makedirs(os.path.dirname(path), exist_ok=True)
+        with open(path, "w", newline="") as f:
+            w = csv.writer(f); w.writerow(["date", "legacy_peak", "enhanced_peak", "combined_peak", "partial_day"]); w.writerows(rows)
+    print(f"wrote {len(rows)} days to data/post/gtav_apps_daily_post.csv and outputs/dashboard/players_daily_apps_post.csv")
+
+
+def apps():
+    now = time.time() * 1000; day = {}
+    for aid in map(str, GTA.values()):
+        day[aid] = daily_peaks(json.loads(get(f"https://steamcharts.com/app/{aid}/chart-data.json")), now); time.sleep(1)
+    write_apps(day[str(GTA["legacy"])], day[str(GTA["enhanced"])])
+
+
 def backfill():
     units = panel_units(); now = time.time() * 1000
     ids = {**{str(v): None for v in GTA.values()}, **units}
@@ -89,6 +115,7 @@ def backfill():
         for aid, (name, role) in units.items():
             for m in sorted(mon[aid]):
                 if m > LAST_FROZEN_MONTH: w.writerow([aid, name, role, m, mon[aid][m]])
+    write_apps(day[L], day[E])
     print("wrote data/post/. Next: python -m halo.track")
 
 
@@ -121,10 +148,11 @@ def selftest():
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
-    ap.add_argument("mode", choices=["backfill", "poll", "selftest"])
+    ap.add_argument("mode", choices=["backfill", "apps", "poll", "selftest"])
     ap.add_argument("--loop", type=int, default=0, help="seconds between polls (poll mode)")
     a = ap.parse_args()
     if a.mode == "backfill": backfill()
+    elif a.mode == "apps": apps()
     elif a.mode == "selftest": selftest()
     else:
         while True:

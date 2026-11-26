@@ -47,7 +47,7 @@ log "halo.track..."
 python -m halo.track >> "$LOGFILE" 2>&1 || die "halo.track failed"
 
 # Stage only the data/output files (never frozen files or code).
-git add data/post/ outputs/tracker/ outputs/dashboard/ >> "$LOGFILE" 2>&1
+git add data/post/ outputs/tracker/ outputs/dashboard/ \n    data/post/gtav_apps_daily_post.csv outputs/dashboard/players_daily_apps_post.csv >> "$LOGFILE" 2>&1
 
 if git diff --cached --quiet; then
     log "Nothing changed; skipping commit."
